@@ -583,6 +583,23 @@
           "code": "pg.cityc"
         }
       ]
-    }
+    },
+   {
+      "module": "Workbench",
+      "code": "Workbench",
+      "active": true,
+      "order": 10,
+      "tenants": [
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        }
+      ]
+    },
   ]
 }
