@@ -587,7 +587,7 @@
    {
       "module": "Workbench",
       "code": "Workbench",
-      "active": true,
+      "active": false,
       "order": 10,
       "tenants": [
         {
