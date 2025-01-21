@@ -45,7 +45,7 @@
       "keywords": "streetlight, light, repair, work, pole, electric, power, repair, fix",
       "department": "DEPT_1",
       "slaHours": 336,
-      "menuPath": "",
+      "menuPath": "StreetLights",
       "active": true,
       "order": 1
     },
