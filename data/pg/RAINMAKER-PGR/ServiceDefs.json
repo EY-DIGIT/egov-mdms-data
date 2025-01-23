@@ -232,6 +232,204 @@
       "menuPath": "",
       "active": true,
       "order": 6
+    },
+ {
+        "serviceCode": "GoodGovernance",
+        "name": "Good Governance",
+        "keywords": "governance, transparency, accountability, management, policy, compliance, regulations, administration, oversight",
+        "department": "DEPT_1",
+        "slaHours": 336,
+        "menuPath": "Governance",
+        "active": false
+    },
+    {
+        "serviceCode": "Justice",
+        "name": "Justice",
+        "keywords": "justice, legal, court, law, case, adjudication, tribunal, fairness, litigation, rights",
+        "department": "DEPT_1",
+        "slaHours": 336,
+        "menuPath": "Legal",
+        "active": false
+    },
+    {
+        "serviceCode": "Retirement",
+        "name": "Retirement",
+        "keywords": "retirement, pension, benefits, retirement plan, retirement fund, social security, end of service, annuity",
+        "department": "DEPT_1",
+        "slaHours": 336,
+        "menuPath": "Pensions",
+        "active": false
+    },
+    {
+        "serviceCode": "LaborDispute",
+        "name": "Labor Dispute",
+        "keywords": "labor dispute, employment, conflict, grievance, arbitration, workplace issue, mediation, labor law",
+        "department": "DEPT_1",
+        "slaHours": 336,
+        "menuPath": "Labor",
+        "active": false
+    },
+    {
+        "serviceCode": "TaxRate",
+        "name": "Tax Rate",
+        "keywords": "tax rate, taxation, income tax, VAT, corporate tax, tax policy, revenue, fiscal, tax regulation",
+        "department": "DEPT_1",
+        "slaHours": 336,
+        "menuPath": "Finance",
+        "active": false
+    },
+    {
+        "serviceCode": "PossessionDispute",
+        "name": "Possession Dispute",
+        "keywords": "possession dispute, property, ownership, land dispute, real estate, claim, rights, legal, settlement",
+        "department": "DEPT_1",
+        "slaHours": 336,
+        "menuPath": "Property",
+        "active": false
+    },
+    {
+        "serviceCode": "BoundaryStructureIdentity",
+        "name": "Boundary, Structure & Identity",
+        "keywords": "boundary, structure, identity, land, demarcation, zoning, infrastructure, identity verification, property",
+        "department": "DEPT_1",
+        "slaHours": 336,
+        "menuPath": "Infrastructure",
+        "active": false
+    },
+    {
+        "serviceCode": "Compensation",
+        "name": "Compensation (Redevelopment & Damaged Property)",
+        "keywords": "compensation, redevelopment, damaged property, restitution, indemnity, claims, insurance, property damage",
+        "department": "DEPT_1",
+        "slaHours": 336,
+        "menuPath": "Compensation",
+        "active": false
+    },
+    {
+        "serviceCode": "Displacement",
+        "name": "Displacement (Insecurity)",
+        "keywords": "displacement, insecurity, relocation, refugees, migration, crisis, safety, emergency, humanitarian",
+        "department": "DEPT_1",
+        "slaHours": 336,
+        "menuPath": "Displacement",
+        "active": false
+    },
+  {
+        "serviceCode": "HouseDebate",
+        "name": "House Debate (Kebele House & Proclamation 47/67)",
+        "keywords": "house debate, kebele house, proclamation 47/67, property, housing, legislation, regulation, policy, local governance",
+        "department": "DEPT_1",
+        "slaHours": 336,
+        "menuPath": "Housing",
+        "active": false
+    },
+    {
+        "serviceCode": "Proposal",
+        "name": "Proposal",
+        "keywords": "proposal, suggestion, plan, idea, recommendation, project, submission, proposal document",
+        "department": "DEPT_1",
+        "slaHours": 336,
+        "menuPath": "Proposals",
+        "active": false
+    },
+    {
+        "serviceCode": "SupportHelp",
+        "name": "Support / Help",
+        "keywords": "support, help, assistance, aid, guidance, service, customer service, support request, helpdesk",
+        "department": "DEPT_1",
+        "slaHours": 336,
+        "menuPath": "Support",
+        "active": false
+    },
+  {
+      "serviceCode": "StrayAnimals",
+      "name": "Stray animals",
+      "keywords": "stray, dog, dogs, menace, animal, animals, attack, attacking, bite, biting, bark, barking",
+      "department": "DEPT_3",
+      "slaHours": 336,
+      "menuPath": "Animals",
+      "active": false
+    },
+    {
+      "serviceCode": "DeadAnimals",
+      "name": "Dead animals",
+      "keywords": "stray, cow, cows, cattle, bull, bulls, graze, grazing, dung, menace",
+      "department": "DEPT_3",
+      "slaHours": 336,
+      "menuPath": "Animals",
+      "active": false
+    },
+ {
+      "serviceCode": "IllegalShopsOnFootPath",
+      "name": "Illegal shops on footpath",
+      "keywords": "illegal, shop, footpath, violation, property, public, space, land, unathourised, site, construction, wrong",
+      "department": "DEPT_6",
+      "slaHours": 336,
+      "menuPath": "LandViolations",
+      "active": false
+    },
+    {
+      "serviceCode": "IllegalConstructions",
+      "name": "Illegal constructions",
+      "keywords": "illegal, violation, property, public, space, land, unathourised, site, construction, wrong, build",
+      "department": "DEPT_6",
+      "slaHours": 336,
+      "menuPath": "LandViolations",
+      "active": false
+    },
+    {
+      "serviceCode": "IllegalParking",
+      "name": "Illegal parking",
+      "keywords": "illegal, parking, car, vehicle, space, removal, road, street, vehicle",
+      "department": "DEPT_6",
+      "slaHours": 336,
+      "menuPath": "LandViolations",
+      "active": false
+    },
+    {
+      "serviceCode": "IllegalCuttingOfTrees",
+      "name": "Illegal Cutting of trees",
+      "keywords": "tree, cut, illegal, unathourized, remove, plant",
+      "department": "DEPT_5",
+      "slaHours": 336,
+      "menuPath": "Trees",
+      "active": false
+    },
+    {
+      "serviceCode": "CuttingOrTrimmingOfTreeRequired",
+      "name": "Cutting/trimming of tree required",
+      "keywords": "tree, remove, trim, fallen, cut, plant, branch",
+      "department": "DEPT_5",
+      "slaHours": 336,
+      "menuPath": "Trees",
+      "active": false
+    },
+    {
+      "serviceCode": "OpenDefecation",
+      "name": "Open Defecation",
+      "keywords": "open, defecation, waste, human, privy, toilet",
+      "department": "DEPT_3",
+      "slaHours": 336,
+      "menuPath": "OpenDefecation",
+      "active": false
+    },
+    {
+      "serviceCode": "ParkRequiresMaintenance",
+      "name": "Park requires maintenance",
+      "keywords": "open, defecation, waste, human, privy, toilet",
+      "department": "DEPT_5",
+      "slaHours": 336,
+      "menuPath": "Parks",
+      "active": false
+    },
+{
+        "serviceCode": "Suggestion",
+        "name": "Suggestion",
+        "keywords": "suggestion, feedback, recommendation, idea, proposal, improvement, advice, input, comment",
+        "department": "DEPT_10",
+        "slaHours": 336,
+        "menuPath": "Suggestions",
+        "active": false
     }
   ]
 }
