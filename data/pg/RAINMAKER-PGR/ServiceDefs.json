@@ -21,15 +21,6 @@
         "active": true
     },
     {
-        "serviceCode": "Suggestion",
-        "name": "Suggestion",
-        "keywords": "suggestion, feedback, recommendation, idea, proposal, improvement, advice, input, comment",
-        "department": "DEPT_10",
-        "slaHours": 336,
-        "menuPath": "Suggestions",
-        "active": true
-    },
-    {
       "serviceCode": "NonSweepingOfRoad",
       "name": "Non sweeping of road",
       "active": true,
