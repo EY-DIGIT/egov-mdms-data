@@ -230,7 +230,7 @@
       "department": "DEPT_10",
       "slaHours": 336,
       "menuPath": "",
-      "active": true,
+      "active": false,
       "order": 6
     },
  {
