@@ -14591,6 +14591,18 @@
       "serviceCode": "",
       "code": "null",
       "path": ""
+    },
+     {
+      "id": 2505,
+      "name": "inbox-v2",
+      "url": "/inbox-v2/v2/_search",
+      "displayName": "PGR Inbox",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
     }
   ]
 }
