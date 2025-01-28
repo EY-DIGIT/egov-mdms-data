@@ -61,7 +61,7 @@
         "Data.workflow",
         "Data.service.user",
         "Data.service.auditDetails",
-        "Data.currentProcessInstance",
+        "Data.currentProcessInstance"
       ]
     }
   ]
