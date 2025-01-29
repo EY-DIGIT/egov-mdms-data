@@ -13,10 +13,10 @@
           "operator": "ANY"
         },
         {
-          "name": "assignee",
+          "name": "assignedToMe",
           "path": "Data.workflow.assignes.keyword",
           "isMandatory": false,
-          "operator": "ANY"
+          "operator": "EQUAL"
         },
         {
           "name": "fromDate",
