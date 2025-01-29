@@ -16,7 +16,7 @@
           "name": "assignee",
           "path": "Data.workflow.assignes.keyword",
           "isMandatory": false,
-          "operator": "ANY"
+          "operator": "EQUAL"
         },
         {
           "name": "fromDate",
