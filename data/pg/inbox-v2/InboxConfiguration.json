@@ -44,9 +44,15 @@
         },
         {
           "name": "status",
-          "path": "Data.service.applicationStatus.keyword",
+          "path": "Data.currentProcessInstance.state.uuid.keyword",
           "isMandatory": false,
           "operator": "ANY"
+        },
+        {
+          "name": "tenantId",
+          "path": "Data.service.tenantId",
+          "isMandatory": false,
+          "operator": "EQUAL"
         }
       ],
       "sortBy": {
@@ -61,7 +67,8 @@
         "Data.workflow",
         "Data.service.user",
         "Data.service.auditDetails",
-        "Data.currentProcessInstance"
+        "Data.currentProcessInstance",
+        "Data.auditDetails"
       ]
     }
   ]
