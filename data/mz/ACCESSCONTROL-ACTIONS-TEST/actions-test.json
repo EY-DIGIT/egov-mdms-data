@@ -15320,7 +15320,7 @@
       "path": ""
     },
      {
-      "id": 2032,
+      "id": 2033,
       "name": "DSS Dashboard Config Provincial SMC Health Dashboard",
       "url": "/dashboard-analytics/dashboard/getDashboardConfig/provincial-health-dashboard-smc",
       "parentModule": "",
@@ -15332,7 +15332,7 @@
       "path": ""
     },
     {
-      "id": 2033,
+      "id": 2034,
       "name": "DSS Dashboard Config District SMC Health Dashboard",
       "url": "/dashboard-analytics/dashboard/getDashboardConfig/district-health-dashboard-smc",
       "parentModule": "",
