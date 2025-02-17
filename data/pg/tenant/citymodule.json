@@ -600,6 +600,23 @@
           "code": "pg.cityc"
         }
       ]
+    },
+    {
+      "module": "Sample",
+      "code": "Sample",
+      "active": true,
+      "order": 11,
+      "tenants": [
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        }
+      ]
     }
   ]
 }
