@@ -20827,6 +20827,48 @@
       "actionid": 2034,
       "actioncode": "",
       "tenantid": "mz"
+    },
+   {
+      "rolecode": "ROOT_POPULATION_DATA_APPROVER",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "POPULATION_DATA_APPROVER",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "ROOT_PLAN_ESTIMATION_APPROVER",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "PLAN_ESTIMATION_APPROVER",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "ROOT_FACILITY_CATCHMENT_MAPPER",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "FACILITY_CATCHMENT_MAPPER",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "MICROPLAN_ADMIN",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantId": "mz"
     }
   ]
 }
