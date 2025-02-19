@@ -32622,6 +32622,18 @@
       "actionid": 485,
       "actioncode": "",
       "tenantId": "pg"
+    },
+     {
+      "rolecode": "EMPLOYEE",
+      "actionid": 5548,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+     {
+      "rolecode": "NOC_CEMP",
+      "actionid": 5548,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
