@@ -32640,6 +32640,12 @@
       "actionid": 5549,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "FSM_DRIVER",
+      "actionid": 5549,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }

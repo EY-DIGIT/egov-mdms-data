@@ -20941,6 +20941,18 @@
       "serviceCode": "trackingservice",
       "code": "null",
       "path": ""
-  }
+  },
+  {
+    "id": 5550,
+    "name": "trackingservice  Search",
+    "url": "/trackingservice/api/v3/trip/_search",
+    "displayName": "Search trackingservice",
+    "orderNumber": 1,
+    "parentModule": "",
+    "enabled": false,
+    "serviceCode": "trackingservice",
+    "code": "null",
+    "path": ""
+}
   ]
 }
