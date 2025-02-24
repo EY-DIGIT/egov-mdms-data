@@ -20929,6 +20929,18 @@
         "serviceCode": "Property Tax",
         "code": "null",
         "path": ""
-    }
+    },
+    {
+      "id": 5549,
+      "name": "trackingservice  Search",
+      "url": "/trackingservice/api/v3/trip/_searchfsm",
+      "displayName": "Search trackingservice",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "trackingservice",
+      "code": "null",
+      "path": ""
+  }
   ]
 }
