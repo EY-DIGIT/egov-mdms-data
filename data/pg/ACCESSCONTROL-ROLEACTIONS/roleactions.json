@@ -32646,6 +32646,30 @@
       "actionid": 5549,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "FSM_DRIVER",
+      "actionid": 330,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+     {
+      "rolecode": "PQM_TP_OPERATOR",
+      "actionid": 5317,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+     {
+      "rolecode": "CITIZEN",
+      "actionid": 296,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "FSM_DRIVER",
+      "actionid": 329,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
