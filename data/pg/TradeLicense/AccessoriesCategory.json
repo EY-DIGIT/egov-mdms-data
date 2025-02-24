@@ -19,12 +19,12 @@
     },
     {
       "code": "ACC-4",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "active": true
     },
     {
       "code": "ACC-5",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "active": true
     }
   ]
