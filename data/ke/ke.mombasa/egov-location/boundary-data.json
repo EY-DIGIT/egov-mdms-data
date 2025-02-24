@@ -1,0 +1,122 @@
+{
+    "tenantId": "ke.mombasa",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "MOMBASA CITY",
+                "localname": "MOMBASA CITY",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ke.mombasa",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "NYALI",
+                        "localname": "NYALI",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA001"
+                    },
+                    {
+                        "id": 2,
+                        "boundaryNum": 2,
+                        "name": "LIKONI",
+                        "localname": "LIKONI",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA002"
+                    },
+                    {
+                        "id": 3,
+                        "boundaryNum": 3,
+                        "name": "CHANGAMWE",
+                        "localname": "CHANGAMWE",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA003"
+                    },
+                    {
+                        "id": 4,
+                        "boundaryNum": 4,
+                        "name": "KISAUNI",
+                        "localname": "KISAUNI",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA003"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "MOMBASA CITY",
+                "localname": "MOMBASA CITY",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ke.mombasa",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "NYALI",
+                        "localname": "NYALI",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA001"
+                    },
+                    {
+                        "id": 2,
+                        "boundaryNum": 2,
+                        "name": "LIKONI",
+                        "localname": "LIKONI",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA002"
+                    },
+                    {
+                        "id": 3,
+                        "boundaryNum": 3,
+                        "name": "CHANGAMWE",
+                        "localname": "CHANGAMWE",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA003"
+                    },
+                    {
+                        "id": 4,
+                        "boundaryNum": 4,
+                        "name": "KISAUNI",
+                        "localname": "KISAUNI",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA003"
+                    }
+                ]
+            }
+        }
+    ]
+}

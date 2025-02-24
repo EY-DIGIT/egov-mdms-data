@@ -1,0 +1,142 @@
+{
+    "tenantId": "ke.nairobi",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "NAIROBI CITY",
+                "localname": "NAIROBI CITY",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ke.nairobi",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "EASTLEIGH",
+                        "localname": "EASTLEIGH",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA001"
+                    },
+                    {
+                        "id": 2,
+                        "boundaryNum": 2,
+                        "name": "WESTLANDS",
+                        "localname": "WESTLANDS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA002"
+                    },
+                    {
+                        "id": 3,
+                        "boundaryNum": 3,
+                        "name": "KAREN",
+                        "localname": "KAREN",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA003"
+                    },
+                    {
+                        "id": 4,
+                        "boundaryNum": 4,
+                        "name": "LANG/'ATA",
+                        "localname": "LANG/'ATA",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA004"
+                    },
+                    {
+                        "id": 5,
+                        "boundaryNum": 5,
+                        "name": "KASARANI",
+                        "localname": "KASARANI",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA005"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "NAIROBI CITY",
+                "localname": "NAIROBI CITY",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ke.nairobi",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "EASTLEIGH",
+                        "localname": "EASTLEIGH",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA001"
+                    },
+                    {
+                        "id": 2,
+                        "boundaryNum": 2,
+                        "name": "WESTLANDS",
+                        "localname": "WESTLANDS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA002"
+                    },
+                    {
+                        "id": 3,
+                        "boundaryNum": 3,
+                        "name": "KAREN",
+                        "localname": "KAREN",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA003"
+                    },
+                    {
+                        "id": 4,
+                        "boundaryNum": 4,
+                        "name": "LANG/'ATA",
+                        "localname": "LANG/'ATA",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA004"
+                    },
+                    {
+                        "id": 5,
+                        "boundaryNum": 5,
+                        "name": "KASARANI",
+                        "localname": "KASARANI",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA005"
+                    }
+                ]
+            }
+        }
+    ]
+}
