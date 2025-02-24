@@ -2704,7 +2704,7 @@
       "code": "null",
       "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=PQM&masterName=PlantType",
       "path": "9MDMS.PQM.PlantType",
-      "leftIcon": "dynamic:ContractIcon"
+      "leftIcon": ""
     },
     {
       "id": 220,
@@ -2780,7 +2780,7 @@
       "code": "null",
       "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=PQM&masterName=TestStandard",
       "path": "9MDMS.PQM.TestStandard",
-      "leftIcon": "dynamic:ContractIcon"
+      "leftIcon": ""
     },
     {
       "id": 226,
@@ -3201,7 +3201,7 @@
       "displayName": "FstpDetails",
       "orderNumber": 0,
       "leftIcon": "",
-      "url": "url",
+      "url": "url1",
       "name": "FSM FSTP DETAILS",
       "enabled": true,
       "navigationURL": "/digit-ui/employee/fsm/fstp-operator-details/:id",
@@ -3250,7 +3250,7 @@
       "code": "null",
       "path": "Dashboard.FSM",
       "navigationURL": "/sanitation-ui/employee/dss/dashboard/fsm",
-      "leftIcon": "places:business-center",
+      "leftIcon": "",
       "rightIcon": ""
     },
     {
@@ -3356,13 +3356,13 @@
       "code": "null",
       "path": "FSM.Reports.FSMDailyCollectionReport",
       "navigationURL": "report/fsm/FSMDailyCollectionReport",
-      "leftIcon": "action:description",
+      "leftIcon": "",
       "rightIcon": ""
     },
     {
       "id": 271,
       "name": "FSMRequestReport",
-      "url": "url",
+      "url": "url1",
       "displayName": "FSM Desludging Request Report",
       "orderNumber": 3,
       "parentModule": "",
@@ -3371,7 +3371,7 @@
       "code": "null",
       "path": "FSM.Reports.FSMRequestReport",
       "navigationURL": "report/fsm/FSMRequestReport",
-      "leftIcon": "action:description",
+      "leftIcon": "",
       "rightIcon": ""
     },
     {
@@ -3441,7 +3441,7 @@
       "code": "null",
       "path": "FSM.Reports.FSMVechileLogReport",
       "navigationURL": "report/fsm/FSMVehicleLogReport",
-      "leftIcon": "action:description",
+      "leftIcon": "",
       "rightIcon": ""
     },
     {
@@ -3524,7 +3524,7 @@
       "code": "null",
       "path": "FSM.Reports.FSMDailyDesludingReport",
       "navigationURL": "report/fsm/FSMDailyDesludingReport",
-      "leftIcon": "action:description",
+      "leftIcon": "",
       "rightIcon": ""
     },
     {
@@ -3561,7 +3561,7 @@
       "code": "null",
       "path": "FSM.Reports.FSMAreaWiseDailyCollectionReport",
       "navigationURL": "report/fsm/FSMAreaWiseDailyCollectionReport",
-      "leftIcon": "action:description",
+      "leftIcon": "",
       "rightIcon": ""
     },
     {
@@ -3598,7 +3598,7 @@
       "code": "null",
       "path": "FSM.Reports.FSMFSTPPlantWithVehicleLogReport",
       "navigationURL": "report/fsm/FSMFSTPPlantWithVehicleLogReport",
-      "leftIcon": "action:description",
+      "leftIcon": "",
       "rightIcon": ""
     },
     {
@@ -4368,9 +4368,9 @@
       "enabled": true,
       "serviceCode": "sanitation",
       "code": "null",
-      "path": "0Home",
+      "path": "Home",
       "navigationURL": "/sanitation-ui/employee/",
-      "leftIcon": "dynamic:MuktaHomeIcon",
+      "leftIcon": "",
       "rightIcon": ""
     },
     {
@@ -11026,7 +11026,7 @@
     {
         "id": 4737,
         "name": "UploaderHome",
-        "url": "url",
+        "url": "url1",
         "displayName": "Home",
         "orderNumber": 13,
         "parentModule": "",
@@ -11169,7 +11169,7 @@
     {
         "id": 4748,
         "name": "EmployeeDirectory",
-        "url": "url",
+        "url": "url1",
         "displayName": "Employee Directory",
         "orderNumber": 1,
         "parentModule": "rainmaker-pgr",
@@ -11184,7 +11184,7 @@
     {
         "id": 4749,
         "name": "ContactUs",
-        "url": "url",
+        "url": "url1",
         "displayName": "Contact Us",
         "orderNumber": 1,
         "parentModule": "rainmaker-pgr",
@@ -15090,98 +15090,98 @@
         "displayName": "CreateNewApplication",
         "orderNumber": 0,
         "leftIcon": "",
-        "url": "url",
+        "url": "url1",
         "name": "FSM EMPLOYEE CREATE NEW APPLICATION",
         "enabled": true,
         "navigationURL": "digit-ui/employee/fsm/new-application",
         "parentModule": "",
         "serviceCode": "",
         "code": "null",
-        "path": ""
+        "path": "CreateNewApplication"
     },
     {
         "id": 5077,
         "displayName": "EmployeeInbox",
         "orderNumber": 0,
         "leftIcon": "",
-        "url": "url",
+        "url": "url1",
         "name": "FSM EMPLOYEE INBOX",
         "enabled": true,
         "navigationURL": "digit-ui/employee/fsm/Inbox",
         "parentModule": "",
         "serviceCode": "",
         "code": "null",
-        "path": ""
+        "path": "EmployeeInbox"
     },
     {
         "id": 5078,
         "displayName": "EditApplication",
         "orderNumber": 0,
         "leftIcon": "",
-        "url": "url",
+        "url": "url1",
         "name": "FSM EMPLOYEE EDIT APPLICATION",
         "enabled": true,
         "navigationURL": "/digit-ui/employee/fsm/modify-application/:id",
         "parentModule": "",
         "serviceCode": "",
         "code": "null",
-        "path": ""
+        "path": "EditApplication"
     },
     {
         "id": 5079,
         "displayName": "CollectPayment",
         "orderNumber": 0,
         "leftIcon": "",
-        "url": "url",
+        "url": "url1",
         "name": "FSM EMPLOYEE COLLECT PAYMENT",
         "enabled": true,
         "navigationURL": "/digit-ui/employee/fsm/collect-payment",
         "parentModule": "",
         "serviceCode": "",
         "code": "null",
-        "path": ""
+        "path": "CollectPayment"
     },
     {
         "id": 5080,
         "displayName": "FstpInbox",
         "orderNumber": 0,
         "leftIcon": "",
-        "url": "url",
+        "url": "url1",
         "name": "FSM FSTP INBOX",
         "enabled": true,
         "navigationURL": "/digit-ui/employee/fsm/fstp-inbox",
         "parentModule": "",
         "serviceCode": "",
         "code": "null",
-        "path": ""
+        "path": "FSTPInbox"
     },
     {
         "id": 5081,
         "displayName": "FstpDetails",
         "orderNumber": 0,
         "leftIcon": "",
-        "url": "url",
+        "url": "url1",
         "name": "FSM FSTP DETAILS",
         "enabled": true,
         "navigationURL": "/digit-ui/employee/fsm/fstp-operator-details/:id",
         "parentModule": "",
         "serviceCode": "",
         "code": "null",
-        "path": ""
+        "path": "FstpDetails"
     },
     {
         "id": 5082,
         "displayName": "SearchApplication",
         "orderNumber": 0,
         "leftIcon": "",
-        "url": "url",
+        "url": "url1",
         "name": "FSM EMPLOYEE SEARCH APPLICATION",
         "enabled": true,
         "navigationURL": "/digit-ui/employee/fsm/search",
         "parentModule": "",
         "serviceCode": "",
         "code": "null",
-        "path": ""
+        "path": "SearchApplication"
     },
     {
         "id": 5083,
@@ -15862,7 +15862,7 @@
     {
         "id": 5140,
         "name": "FSMDailyCollectionReport",
-        "url": "url",
+        "url": "url1",
         "displayName": "FSM Daily Collection Report",
         "orderNumber": 2,
         "parentModule": "",
@@ -15871,13 +15871,13 @@
         "code": "null",
         "path": "FSM.Reports.FSMDailyCollectionReport",
         "navigationURL": "report/fsm/FSMDailyCollectionReport",
-        "leftIcon": "action:description",
+        "leftIcon": "",
         "rightIcon": ""
     },
     {
         "id": 5141,
         "name": "FSMRequestReport",
-        "url": "url",
+        "url": "url1",
         "displayName": "FSM Desludging Request Report",
         "orderNumber": 3,
         "parentModule": "",
@@ -15886,7 +15886,7 @@
         "code": "null",
         "path": "FSM.Reports.FSMRequestReport",
         "navigationURL": "report/fsm/FSMRequestReport",
-        "leftIcon": "action:description",
+        "leftIcon": "",
         "rightIcon": ""
     },
     {
@@ -15947,7 +15947,7 @@
     {
         "id": 5147,
         "name": "FSMVehicleLogReport",
-        "url": "url",
+        "url": "url1",
         "displayName": "FSM Vechile Log Report",
         "orderNumber": 1,
         "parentModule": "",
@@ -15956,7 +15956,7 @@
         "code": "null",
         "path": "FSM.Reports.FSMVechileLogReport",
         "navigationURL": "report/fsm/FSMVehicleLogReport",
-        "leftIcon": "action:description",
+        "leftIcon": "",
         "rightIcon": ""
     },
     {
@@ -16367,7 +16367,7 @@
     {
         "id": 5181,
         "name": "Dashboard FSM",
-        "url": "url",
+        "url": "url1",
         "displayName": "FSM",
         "orderNumber": 14,
         "parentModule": "dss-dashboard",
@@ -16376,7 +16376,7 @@
         "code": "null",
         "path": "Dashboard.FSM",
         "navigationURL": "/digit-ui/employee/dss/dashboard/fsm",
-        "leftIcon": "places:business-center",
+        "leftIcon": "",
         "rightIcon": ""
     },
     {
@@ -20915,6 +20915,18 @@
         "parentModule": "",
         "enabled": true,
         "serviceCode": "MDMS",
+        "code": "null",
+        "path": ""
+    },
+      {
+        "id": 5548,
+        "name": "Property  Search",
+        "url": "/pt-services-v2/property/_search",
+        "displayName": "Search Property",
+        "orderNumber": 1,
+        "parentModule": "",
+        "enabled": false,
+        "serviceCode": "Property Tax",
         "code": "null",
         "path": ""
     }

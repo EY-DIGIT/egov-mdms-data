@@ -13,15 +13,13 @@
       "twitterUrl": "https://twitter.com/search?q=%23citya",
       "facebookUrl": "https://www.facebook.com/city/citya-Demo",
       "emailId": "complaints.mcj@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
+      "OfficeTimings": { "Mon - Fri": "9.00 AM - 6.00 PM" },
       "city": {
         "name": "Demo",
         "localName": "Demo",
         "districtCode": "0",
         "districtName": "Demo",
-        "districtTenantCode": "pg.demo",
+        "districtTenantCode": "pg",
         "regionName": "Demo",
         "ulbGrade": "ST",
         "longitude": 75.3412,
@@ -29,7 +27,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "0",
-        "ddrName": null
+        "ddrName": "amritsar"
       },
       "address": "5 Demo Municipal Bhawan, 3, Dakshin Marg, 35A, Sector 35A, Chandigarh, 160022",
       "pincode": [],
@@ -48,9 +46,7 @@
       "twitterUrl": "https://twitter.com/search?q=%23citya",
       "facebookUrl": "https://www.facebook.com/city/citya-Demo",
       "emailId": "complaints.mcj@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
+      "OfficeTimings": { "Mon - Fri": "9.00 AM - 6.00 PM" },
       "city": {
         "name": "CityA",
         "localName": "Janlandhar",
@@ -67,13 +63,10 @@
         "code": "1013",
         "regionCode": "4",
         "municipalityName": "CityA",
-        "ddrName": "CityA-MC"
+        "ddrName": "citya"
       },
       "address": "Municipal Corporation Office, Dr. B.R.Ambedkar Admin Complex, Nehru Garden, CityA City-144001",
-      "pincode": [
-        144001, 144002, 144003, 144004, 144005, 144006, 144007, 144008, 144009,
-        144010
-      ],
+      "pincode": [144001, 144002, 144003, 144004, 144005, 144006, 144007, 144008, 144009, 144010],
       "contactNumber": "0181-2227015",
       "pdfHeader": "PG_JALANDHAR_PDF_HEADER",
       "pdfContactDetails": "PG_JALANDHAR_CONTACT_DETAILS"
@@ -89,10 +82,7 @@
       "twitterUrl": "https://twitter.com/search?q=%23AMRITSAR",
       "facebookUrl": "https://www.facebook.com/city/CityB-Demo",
       "emailId": "cmcasr@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM",
-        "Sat": "9.00 AM - 12.00 PM"
-      },
+      "OfficeTimings": { "Mon - Fri": "9.00 AM - 6.00 PM", "Sat": "9.00 AM - 12.00 PM" },
       "city": {
         "name": "CityB",
         "localName": "CityB",
@@ -109,13 +99,10 @@
         "code": "107",
         "regionCode": "1",
         "municipalityName": "CityB",
-        "ddrName": "CityB-MC"
+        "ddrName": "cityb"
       },
       "address": "Municipal Corporation CityB, C Block, Ranjit Avenue, CityB, Demo",
-      "pincode": [
-        143001, 143002, 143003, 143004, 143005, 143006, 143007, 143008, 143009,
-        143010
-      ],
+      "pincode": [143001, 143002, 143003, 143004, 143005, 143006, 143007, 143008, 143009, 143010],
       "contactNumber": "0183-2545155",
       "helpLineNumber": "0183-2210300",
       "pdfHeader": "PG_AMRITSAR_PDF_HEADER",
@@ -132,15 +119,13 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
+      "OfficeTimings": { "Mon - Fri": "9.00 AM - 6.00 PM" },
       "city": {
         "name": "CityC",
         "localName": "CityC",
         "districtCode": "17",
         "districtName": "Nawanshar",
-        "districtTenantCode": "pg.nawanshar",
+        "districtTenantCode": "pg.cityc",
         "regionName": "CityA Region",
         "ulbGrade": "MC Class I",
         "ulbType": "Municipal Council",
@@ -151,7 +136,7 @@
         "code": "1703",
         "regionCode": "4",
         "municipalityName": "SBS Nagar",
-        "ddrName": "CityA-DDR"
+        "ddrName": "cityc"
       },
       "address": "Committee Bazar",
       "pincode": [144513, 144514, 144516, 144517],

@@ -32580,6 +32580,60 @@
       "actionid": 65,
       "actioncode": "",
       "tenantId": "pg"
+    },
+  {
+      "rolecode": "EMPLOYEE",
+      "actionid": 32,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+  {
+      "rolecode": "UC_EMP",
+      "actionid": 32,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "FSM_CREATOR_EMP",
+      "actionid": 485,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+      {
+      "rolecode": "FSM_ADMIN",
+      "actionid": 485,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+      {
+      "rolecode": "FSM_EDITOR_EMP",
+      "actionid": 485,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+      {
+      "rolecode": "FSM_EMP_FSTPO",
+      "actionid": 485,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+      {
+      "rolecode": "CITIZEN",
+      "actionid": 485,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+     {
+      "rolecode": "EMPLOYEE",
+      "actionid": 5548,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+     {
+      "rolecode": "NOC_CEMP",
+      "actionid": 5548,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
