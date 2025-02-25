@@ -3,303 +3,303 @@
   "moduleName": "TradeLicense",
   "ReminderPeriods": [
     {
-      "tenantId": ""ke"alameda",
+      "tenantId": "ke.alameda",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"albany",
+      "tenantId": "ke.albany",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"berkeley",
+      "tenantId": "ke.berkeley",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"dublin",
+      "tenantId": "ke.dublin",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"emeryville",
+      "tenantId": "ke.emeryville",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"fremont",
+      "tenantId": "ke.fremont",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"hayward",
+      "tenantId": "ke.hayward",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"livermore",
+      "tenantId": "ke.livermore",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"newark",
+      "tenantId": "ke.newark",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"oakland",
+      "tenantId": "ke.oakland",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"piedmont",
+      "tenantId": "ke.piedmont",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"pleasanton",
+      "tenantId": "ke.pleasanton",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"sanleandro",
+      "tenantId": "ke.sanleandro",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"unioncity",
+      "tenantId": "ke.unioncity",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"losangeles",
+      "tenantId": "ke.losangeles",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"longbeach",
+      "tenantId": "ke.longbeach",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"glendale",
+      "tenantId": "ke.glendale",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"santaclarita",
+      "tenantId": "ke.santaclarita",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"lancaster",
+      "tenantId": "ke.lancaster",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"palmdale",
+      "tenantId": "ke.palmdale",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"pomona",
+      "tenantId": "ke.pomona",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"torrance",
+      "tenantId": "ke.torrance",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"pasadena",
+      "tenantId": "ke.pasadena",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"elmonte",
+      "tenantId": "ke.elmonte",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"downey",
+      "tenantId": "ke.downey",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"inglewood",
+      "tenantId": "ke.inglewood",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"westcovina",
+      "tenantId": "ke.westcovina",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"norwalk",
+      "tenantId": "ke.norwalk",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"anaheim",
+      "tenantId": "ke.anaheim",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"brea",
+      "tenantId": "ke.brea",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"buenapark",
+      "tenantId": "ke.buenapark",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"costamesa",
+      "tenantId": "ke.costamesa",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"cypress",
+      "tenantId": "ke.cypress",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"danapoint",
+      "tenantId": "ke.danapoint",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"fountainvalley",
+      "tenantId": "ke.fountainvalley",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"fullerton",
+      "tenantId": "ke.fullerton",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"gardengrove",
+      "tenantId": "ke.gardengrove",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"huntingtonbeach",
+      "tenantId": "ke.huntingtonbeach",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"irvine",
+      "tenantId": "ke.irvine",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"lagunabeach",
+      "tenantId": "ke.lagunabeach",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"lagunaniguel",
+      "tenantId": "ke.lagunaniguel",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"sandiego",
+      "tenantId": "ke.sandiego",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"carlsbad",
+      "tenantId": "ke.carlsbad",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"chulavista",
+      "tenantId": "ke.chulavista",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"coronado",
+      "tenantId": "ke.coronado",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"delmar",
+      "tenantId": "ke.delmar",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"elcajon",
+      "tenantId": "ke.elcajon",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"encinitas",
+      "tenantId": "ke.encinitas",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"escondido",
+      "tenantId": "ke.escondido",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"imperialbeach",
+      "tenantId": "ke.imperialbeach",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"lamesa",
+      "tenantId": "ke.lamesa",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"lemongrove",
+      "tenantId": "ke.lemongrove",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"nationalcity",
+      "tenantId": "ke.nationalcity",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"oceanside",
+      "tenantId": "ke.oceanside",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"poway",
+      "tenantId": "ke.poway",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"sanjose",
+      "tenantId": "ke.sanjose",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"cupertino",
+      "tenantId": "ke.cupertino",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"gilroy",
+      "tenantId": "ke.gilroy",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"losaltos",
+      "tenantId": "ke.losaltos",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"losgatos",
+      "tenantId": "ke.losgatos",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"milpitas",
+      "tenantId": "ke.milpitas",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"montesereno",
+      "tenantId": "ke.montesereno",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"morganhill",
+      "tenantId": "ke.morganhill",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"mountainview",
+      "tenantId": "ke.mountainview",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"paloalto",
+      "tenantId": "ke.paloalto",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"santaclara",
+      "tenantId": "ke.santaclara",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"saratoga",
+      "tenantId": "ke.saratoga",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"sunnyvale",
+      "tenantId": "ke.sunnyvale",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"sacramento",
+      "tenantId": "ke.sacramento",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"citrusheights",
+      "tenantId": "ke.citrusheights",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"elkgrove",
+      "tenantId": "ke.elkgrove",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"folsom",
+      "tenantId": "ke.folsom",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"galt",
+      "tenantId": "ke.galt",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"isleton",
+      "tenantId": "ke.isleton",
       "reminderInterval": 432000000
     },
     {
-      "tenantId": ""ke"ranchocordova",
+      "tenantId": "ke.ranchocordova",
       "reminderInterval": 432000000
     }
   ]
