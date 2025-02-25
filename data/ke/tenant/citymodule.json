@@ -30,7 +30,7 @@
       "module": "PT",
       "code": "PT",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
-      "active": true,
+      "active": false,
       "order": 1,
       "tenants": [
         {
@@ -170,7 +170,7 @@
       "module": "BPAREG",
       "code": "BPAREG",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
-      "active": true,
+      "active": false,
       "order": 2,
       "tenants": [
         {
@@ -194,7 +194,7 @@
       "module": "BPAAPPLY",
       "code": "BPAAPPLY",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
-      "active": true,
+      "active": false,
       "order": 2,
       "tenants": [
         {
@@ -241,7 +241,7 @@
       "module": "OBPS",
       "code": "OBPS",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
-      "active": true,
+      "active": false,
       "order": 2,
       "tenants": [
         {
@@ -334,7 +334,7 @@
     {
       "module": "NOC",
       "code": "NOC",
-      "active": true,
+      "active": false,
       "order": 2,
       "tenants": [
         {
