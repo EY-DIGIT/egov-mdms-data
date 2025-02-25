@@ -14956,17 +14956,6 @@
         "path": ""
     },
     {
-        "id": 5060,
-        "name": "Search FSM Application",
-        "url": "/fsm/v1/_search",
-        "displayName": "Search  FSM Appliacations",
-        "orderNumber": 1,
-        "enabled": false,
-        "serviceCode": "FSM",
-        "code": "null",
-        "path": ""
-    },
-    {
         "id": 5061,
         "name": "Update FSM Application",
         "url": "/fsm/v1/_update",
