@@ -13701,7 +13701,7 @@
     {
       "id": 2446,
       "name": "UC_SEARCH_AND_PAY",
-      "url": "digit-ui-card-disabled",
+      "url": "digit-ui-card",
       "displayName": "Search & Pay",
       "orderNumber": 1,
       "parentModule": "MCollect",
@@ -13719,7 +13719,7 @@
     {
       "id": 2447,
       "name": "UC_MY_CHALLANS",
-      "url": "digit-ui-card-disabled",
+      "url": "digit-ui-card",
       "displayName": "My Challans",
       "orderNumber": 2,
       "parentModule": "MCollect",
