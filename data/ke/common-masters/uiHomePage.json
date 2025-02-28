@@ -37,11 +37,11 @@
                         "navigationUrl": "/digit-ui/citizen/tl-home"
                     },
                     {
-                        "code": "CITIZEN_SERVICE_OBPS",
-                        "name": "Online Building Permit System",
+                        "code": "ACTION_TEST_MCOLLECT",
+                        "name": "Miscellaneous Collection",
                         "label": "MODULE_OBPS",
                         "enabled": true,
-                        "navigationUrl": "/digit-ui/citizen/obps-home"
+                        "navigationUrl": "digit-ui/citizen/mcollect-home"
                     },
                     {
                         "code": "CITIZEN_SERVICE_PGR",
@@ -49,13 +49,6 @@
                         "label": "ES_PGR_HEADER_COMPLAINT",
                         "enabled": true,
                         "navigationUrl": "/digit-ui/citizen/pgr-home"
-                    },
-                    {
-                        "code": "CITIZEN_SERVICE_PT",
-                        "name": "Property Tax",
-                        "label": "MODULE_PT",
-                        "enabled": true,
-                        "navigationUrl": "/digit-ui/citizen/pt-home"
                     }
                 ]
             },
