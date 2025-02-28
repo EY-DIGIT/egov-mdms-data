@@ -56,7 +56,7 @@
       "isAdvanceAllowed": true,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": false,
-      "type": "Adhoc"
+      "type": "Adhoc_disabled"
     },
     {
       "businessService": "WaterCharges.NonMetered",
@@ -68,7 +68,7 @@
       "isAdvanceAllowed": true,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": false,
-      "type": "Adhoc"
+      "type": "Adhoc_disabled"
     },
     {
       "businessService": "FIRENOC",
@@ -83,7 +83,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc_disabled"
     },
     {
       "businessService": "Taxes.No Dues Certificate",
@@ -95,7 +95,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "type": "Adhoc",
+      "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
@@ -192,7 +192,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc",
+      "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
@@ -241,7 +241,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc_disabled"
     },
     {
       "businessService": "Stationary.Stationary (Not Income)",
@@ -253,7 +253,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc_disabled"
     },
     {
       "businessService": "Stationary.Expenditure santitation (Not Income)",
@@ -265,7 +265,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc_disabled"
     },
     {
       "businessService": "Challans.Santitation dumping garbage",
@@ -277,7 +277,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": false,
-      "type": "Adhoc"
+      "type": "Adhoc_disabled"
     },
     {
       "businessService": "Fee Town Planning.Telecom tower fees",
@@ -302,7 +302,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc",
+      "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
@@ -327,7 +327,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc_disabled"
     },
     {
       "businessService": "Fee Town Planning.Building planner renew",
@@ -339,7 +339,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc_disabled"
     },
     {
       "businessService": "Naksha/Building Manual Fees.Naksha samjota fees",
@@ -351,7 +351,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc_disabled"
     },
     {
       "businessService": "Naksha/Building Manual Fees.Naksha changes ",
@@ -363,7 +363,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc_disabled"
     },
     {
       "businessService": "Fee Town Planning.License fees building branch",
@@ -387,7 +387,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc_disabled"
     },
     {
       "businessService": "Naksha/Building Manual Fees.Naksha renew fees",
@@ -399,7 +399,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc_disabled"
     },
     {
       "businessService": "Naksha/Building Manual Fees.NOC/Completion of building approval",
@@ -411,7 +411,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc_disabled"
     },
     {
       "businessService": "Naksha/Building Manual Fees.Alteration additional charge",
@@ -423,7 +423,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc_disabled"
     },
     {
       "businessService": "Naksha/Building Manual Fees.2 year time limit of Renewal Building Naksha",
@@ -435,7 +435,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc_disabled"
     },
     {
       "businessService": "Fee Town Planning.Leave encashment and gratuty",
@@ -447,7 +447,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc_disabled"
     },
     {
       "businessService": "Challans.Plastic Challan",
@@ -471,7 +471,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": false,
-      "type": "Adhoc"
+      "type": "Adhoc_disabled"
     },
     {
       "businessService": "Challans.Challan for Misuse of Water",
@@ -495,7 +495,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": false,
-      "type": "Adhoc"
+      "type": "Adhoc_disabled"
     },
     {
       "businessService": "Challans.Littering Challan",
@@ -519,7 +519,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc_disabled"
     },
     {
       "businessService": "OTHER.Misc Challans",
@@ -531,7 +531,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc_disabled"
     },
     {
       "businessService": "Naksha/Building Manual Fees.Regularisation of Buildings",
@@ -543,7 +543,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc_disabled"
     },
     {
       "businessService": "Work Fee.Contractor Enlistment",
@@ -555,7 +555,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc_disabled"
     },
     {
       "businessService": "Work Fee.Tender Form Fee",
@@ -567,7 +567,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc_disabled"
     },
     {
       "businessService": "Tehbazaari Fee.Advertisement fee",
@@ -579,7 +579,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc_disabled"
     },
     {
       "businessService": "Tehbazaari Fee.Tehbazaari",
@@ -591,7 +591,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc_disabled"
     },
     {
       "businessService": "Finance Fees.PF transfer (Accounts)",
@@ -603,7 +603,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc_disabled"
     },
     {
       "businessService": "Taxes.TS1 copy register for old survey",
@@ -616,7 +616,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc",
+      "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
@@ -630,7 +630,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc",
+      "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
@@ -679,7 +679,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc_disabled"
     },
     {
       "businessService": "Finance Fees.Recovery employee/contractor",
@@ -691,7 +691,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc_disabled"
     },
     {
       "businessService": "Finance Fees.Grants cheque",
@@ -703,7 +703,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc_disabled"
     },
     {
       "businessService": "OTHER.No due certificate electricity",
@@ -715,7 +715,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc_disabled"
     },
     {
       "businessService": "OTHER.registery and bank loan",
@@ -727,7 +727,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc_disabled"
     },
     {
       "businessService": "SBM garbage plastic polythene challan",
@@ -739,7 +739,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": false,
-      "type": "Adhoc"
+      "type": "Adhoc_disabled"
     },
     {
       "businessService": "Sanitation.Dead animals contract",
@@ -751,7 +751,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc_disabled"
     },
     {
       "businessService": "Finance Fees.GPF",
@@ -763,7 +763,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc_disabled"
     },
     {
       "businessService": "Finance Fees.CPF received check",
@@ -775,7 +775,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc_disabled"
     },
     {
       "businessService": "Rents.Tower Installation",
@@ -787,7 +787,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc_disabled"
     },
     {
       "businessService": "Rents.Tower Annual Rent",
@@ -799,7 +799,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc_disabled"
     },
     {
       "businessService": "Cess.Cow Cess",
@@ -811,7 +811,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc_disabled"
     },
     {
       "businessService": "Challans.Cattle Challan",
@@ -823,7 +823,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": false,
-      "type": "Adhoc"
+      "type": "Adhoc_disabled"
     },
     {
       "businessService": "Tehbazaari Fee.Rehri Challan",
@@ -835,7 +835,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc_disabled"
     },
     {
       "businessService": "License Fee.Manual Rikshaw",
@@ -847,7 +847,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc_disabled"
     },
     {
       "businessService": "Challans.Dairy Animals Challan",
@@ -859,7 +859,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": false,
-      "type": "Adhoc"
+      "type": "Adhoc_disabled"
     },
     {
       "businessService": "Challans.Bidi & Cigrette Challan",
@@ -871,7 +871,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": false,
-      "type": "Adhoc"
+      "type": "Adhoc_disabled"
     },
     {
       "businessService": "Rents.Community Centre Booking Fee",
@@ -895,7 +895,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc_disabled"
     },
     {
       "businessService": "Rents.Street Vendor",
@@ -907,7 +907,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc_disabled"
     },
     {
       "businessService": "Fee Town Planning.Construction Waste",
@@ -943,7 +943,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc_disabled"
     },
     {
       "businessService": "O&M Fee.Plumber License Fee",
@@ -955,7 +955,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc_disabled"
     },
     {
       "businessService": "Advertisement Tax.Light Wala Board",
@@ -968,7 +968,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "isActive": false,
-      "type": "Adhoc",
+      "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
@@ -1210,7 +1210,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "type": "Adhoc",
+      "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
@@ -1223,7 +1223,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "type": "Adhoc",
+      "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
@@ -1236,7 +1236,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "type": "Adhoc",
+      "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
@@ -1262,7 +1262,7 @@
       "isAdvanceAllowed": true,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": false,
-      "type": "Adhoc",
+      "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get",
       "isActive": false
     },
@@ -1277,7 +1277,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc",
+      "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     { 
@@ -1291,7 +1291,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc",
+      "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     { 
@@ -1305,7 +1305,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc",
+      "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
@@ -1333,7 +1333,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc",
+      "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
@@ -1347,7 +1347,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc",
+      "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
@@ -1361,7 +1361,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc",
+      "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
@@ -1403,7 +1403,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc",
+      "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
      {
@@ -1417,7 +1417,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc",
+      "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
      {
@@ -1431,7 +1431,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc",
+      "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
      {
@@ -1445,7 +1445,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc",
+      "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
      {
@@ -1459,7 +1459,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc",
+      "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
      {
@@ -1473,7 +1473,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc",
+      "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
      {
@@ -1487,7 +1487,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc",
+      "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
      {
@@ -1501,7 +1501,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc",
+      "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
      {
@@ -1515,7 +1515,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc",
+      "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
      {
@@ -1529,7 +1529,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc",
+      "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
      {
@@ -1543,7 +1543,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc",
+      "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
      {
@@ -1557,7 +1557,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc",
+      "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
      {
@@ -1571,7 +1571,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc",
+      "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
      {
@@ -1585,7 +1585,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc",
+      "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
      {
@@ -1599,7 +1599,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc",
+      "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
@@ -1613,7 +1613,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc",
+      "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
@@ -1627,7 +1627,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc",
+      "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
@@ -1641,7 +1641,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc",
+      "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
@@ -1655,7 +1655,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc",
+      "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
@@ -1669,7 +1669,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc",
+      "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
@@ -1683,7 +1683,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc",
+      "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
@@ -1697,7 +1697,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc",
+      "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
@@ -1711,7 +1711,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc",
+      "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
@@ -1725,7 +1725,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc",
+      "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
@@ -1739,7 +1739,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc",
+      "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
@@ -1753,7 +1753,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc",
+      "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
@@ -1767,7 +1767,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc",
+      "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
@@ -1781,7 +1781,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc",
+      "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
@@ -1795,7 +1795,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc",
+      "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
@@ -1809,7 +1809,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc",
+      "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
@@ -1823,7 +1823,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc",
+      "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
@@ -1837,7 +1837,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc",
+      "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
@@ -1851,7 +1851,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc",
+      "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
@@ -1865,7 +1865,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc",
+      "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
@@ -1879,7 +1879,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc",
+      "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
@@ -1893,7 +1893,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc",
+      "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
@@ -1907,7 +1907,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc",
+      "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
@@ -1921,7 +1921,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc",
+      "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
@@ -1935,7 +1935,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc",
+      "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
@@ -1949,7 +1949,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc",
+      "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
@@ -1961,7 +1961,7 @@
       "isVoucherCreationEnabled": true,
       "isActive": false,
       "isCitizen": true,
-      "type": "Adhoc"
+      "type": "Adhoc_disabled"
     },
     {
       "businessService": "Death Certificate Fees",
@@ -1972,7 +1972,7 @@
       "isVoucherCreationEnabled": true,
       "isActive": false,
       "isCitizen": true,
-      "type": "Adhoc"
+      "type": "Adhoc_disabled"
     }
   ]
 }
