@@ -7,7 +7,7 @@
               {"dashboard":null},
                 {"tradelicense": {"services_name": "Trade licence","filterKey": "TL"}},
                 {"pgr": {"services_name": "PGR","filterKey": "PGR"}},
-                {"MCOLLECT": {"services_name": "MCOLLECT","filterKey": "MCOLLECT"}},     
+                {"MCOLLECT": {"services_name": "MCOLLECT","filterKey": "MCOLLECT"}}   
             ],
             "SERVICES": ["MCOLLECT","Trade licence","PGR"],
       "MAP_CONFIG":[{
