@@ -46,7 +46,7 @@
                     {
                         "code": "ACTION_TEST_MCOLLECT",
                         "name": "Miscellaneous Collection",
-                        "label": "MODULE_OBPS",
+                        "label": "ACTION_TEST_MCOLLECT",
                         "enabled": true,
                         "navigationUrl": "/digit-ui/citizen/mcollect-home"
                     }
