@@ -294,7 +294,7 @@
       "fromDate": 1617215400000,
       "toDate": 1648751399000,
       "periodCycle": "ANNUAL",
-     "service": "TX.Electricity_Chungi",
+      "service": "TX.Electricity_Chungi",
       "code": "TXNDCAN2021",
       "financialYear": "2021-22"
     },
@@ -342,7 +342,7 @@
       "fromDate": 1617215400000,
       "toDate": 1648751399000,
       "periodCycle": "ANNUAL",
-     "service": "TX.No_Dues_Certificate",
+      "service": "TX.No_Dues_Certificate",
       "code": "TXNDCAN2021",
       "financialYear": "2021-22"
     },
@@ -422,7 +422,7 @@
       "fromDate": 1617215400000,
       "toDate": 1648751399000,
       "periodCycle": "ANNUAL",
-     "service": "TX.TS1_copy_register_for_old_survey",
+      "service": "TX.TS1_copy_register_for_old_survey",
       "code": "TXNDCAN2021",
       "financialYear": "2021-22"
     },
@@ -430,7 +430,7 @@
       "fromDate": 1585704194000,
       "toDate": 1617235154000,
       "periodCycle": "ANNUAL",
-     "service": "TX.TS1_copy_register_for_old_survey",
+      "service": "TX.TS1_copy_register_for_old_survey",
       "code": "TXNDCAN2017",
       "financialYear": "2020-21"
     },
@@ -454,7 +454,7 @@
       "fromDate": 1617215400000,
       "toDate": 1648751399000,
       "periodCycle": "ANNUAL",
-     "service": "TX.Transfer_Property_Fees",
+      "service": "TX.Transfer_Property_Fees",
       "code": "TXNDCAN2021",
       "financialYear": "2021-22"
     },
@@ -462,7 +462,7 @@
       "fromDate": 1585704194000,
       "toDate": 1617235154000,
       "periodCycle": "ANNUAL",
-     "service": "TX.Transfer_Property_Fees",
+      "service": "TX.Transfer_Property_Fees",
       "code": "TXNDCAN2017",
       "financialYear": "2020-21"
     },
@@ -1266,7 +1266,7 @@
       "code": "RTJTAN2023",
       "financialYear": "2023-24"
     },
-   {
+    {
       "fromDate": 1617215400000,
       "toDate": 1648751399000,
       "periodCycle": "ANNUAL",
@@ -1970,7 +1970,7 @@
       "code": "TXPTAN2021",
       "financialYear": "2021-22"
     },
-     {
+    {
       "fromDate": 1617215400000,
       "toDate": 1648751399000,
       "periodCycle": "ANNUAL",
@@ -2234,7 +2234,7 @@
       "code": "TXPTAN2021",
       "financialYear": "2021-22"
     },
-     {
+    {
       "fromDate": 1617215400000,
       "toDate": 1648751399000,
       "periodCycle": "ANNUAL",
@@ -2281,7 +2281,8 @@
       "service": "NKS.Naksha_samjota_fees",
       "code": "TXPTAN2020",
       "financialYear": "2021-22"
-    },{
+    },
+    {
       "fromDate": 1680287400000,
       "toDate": 1711909799000,
       "periodCycle": "ANNUAL",
@@ -2753,7 +2754,7 @@
       "code": "TXPTAN2023",
       "financialYear": "2023-24"
     },
-     {
+    {
       "fromDate": 1680287400000,
       "toDate": 1711909799000,
       "periodCycle": "ANNUAL",
@@ -3017,7 +3018,7 @@
       "code": "TXPTAN2023",
       "financialYear": "2023-24"
     },
-     {
+    {
       "fromDate": 1680287400000,
       "toDate": 1711909799000,
       "periodCycle": "ANNUAL",
@@ -3176,6 +3177,214 @@
       "service": "CH.Burning_of_Waste_Challan_fee",
       "code": "TXPTAN2022",
       "financialYear": "2022-23"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "ADVT.Hoardings",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "ADVT.Unipolls",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "RT.Municipal_Shops_Rent",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "RT.Land_Rent",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "RT.Tower_Rent",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "RT.Parking_Fee",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "ADMN.Election_rally_fees",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "ADMN.Parking_during_election",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "ADMN.Road_show",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "FTP.Telecom_tower_fees",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "FTP.Draftsmen_fees",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "FTP.License_fees_building_branch",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "CH.Plastic_Challan",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "CH.Challan_for_Misuse_of_Water",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "CH.Littering_Challan",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "ADMN.RTI",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "ADMN.No_Dues_Certificate",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "FTP.Architect_license_fee",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "RT.Community_Centre_Booking_Fee",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "FTP.Construction_Waste",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "FTP.Demolition_Waste",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "ADVT.Wall_Paint_Advertisement",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "ADVT.Gas_Balloon_Advertisement",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "ADVT.Canopy_Fee",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "CH.Collection_and_Demolition_Waste_Challan_fee",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "CH.Burning_of_Waste_Challan_fee",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
     }
   ]
 }
