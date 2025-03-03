@@ -13372,6 +13372,12 @@
     },
     {
       "rolecode": "STADMIN",
+      "actionid": 2341,
+      "actioncode": "",
+      "tenantId": "ke"
+    },
+    {
+      "rolecode": "STADMIN",
       "actionid": 1894,
       "actioncode": "",
       "tenantId": "ke"

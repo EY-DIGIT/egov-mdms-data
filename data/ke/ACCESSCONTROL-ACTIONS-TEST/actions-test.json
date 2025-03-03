@@ -6970,7 +6970,7 @@
          "serviceCode": "DSS",
          "code": "null",
          "path": "Dashboard.Home",
-         "navigationURL": "integration/dss/home",
+         "navigationURL": "/digit-ui/employee/dss/landing/home",
          "leftIcon": "places:business-center",
          "rightIcon": ""
       },
@@ -7717,7 +7717,7 @@
          "serviceCode": "DSS",
          "code": "null",
          "path": "Dashboard.Overview",
-         "navigationURL": "integration/dss/overview",
+         "navigationURL": "/digit-ui/employee/dss/dashboard/overview",
          "leftIcon": "places:business-center",
          "rightIcon": ""
       },
