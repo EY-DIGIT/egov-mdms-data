@@ -42,14 +42,14 @@
       "name": "Nairobi",
       "description": null,
       "pincode": [
-        141003,
-        00800,
-        00502,
-        00509,
-        00608,
-        00100,
-        00521,
-        00521
+        "141003",
+        "00800",
+        "00502",
+        "00509",
+        "00608",
+        "00100",
+        "00521",
+        "00521"
       ],
       "logoId": "https://digit-ips-s3.s3.ap-south-1.amazonaws.com/kelogo.png",
       "imageId": "null",
@@ -86,13 +86,13 @@
       "name": "Mombasa",
       "description": null,
       "pincode": [
-        80118,
-        80101,
-        80102,
-        80110,
-        80109,
-        80100,
-        80100
+        "80118",
+        "80101",
+        "80102",
+        "80110",
+        "80109",
+        "80100",
+        "80100"
       ],
       "logoId": "https://digit-ips-s3.s3.ap-south-1.amazonaws.com/kelogo.png",
       "imageId": "null",
@@ -129,9 +129,9 @@
       "name": "Kisumu",
       "description": null,
       "pincode": [
-        50138,
-        20112,
-        40100
+        "50138",
+        "20112",
+        "40100"
       ],
       "logoId": "https://digit-ips-s3.s3.ap-south-1.amazonaws.com/kelogo.png",
       "imageId": "null",
@@ -168,9 +168,9 @@
       "name": "Nakuru",
       "description": null,
       "pincode": [
-        30112,
-        00617,
-        20100
+        "30112",
+        "00617",
+        "20100"
       ],
       "logoId": "https://digit-ips-s3.s3.ap-south-1.amazonaws.com/kelogo.png",
       "imageId": "null",
@@ -207,7 +207,7 @@
       "name": "Uasin Gishu",
       "description": null,
       "pincode": [
-        30214
+        "30214"
       ],
       "logoId": "https://digit-ips-s3.s3.ap-south-1.amazonaws.com/kelogo.png",
       "imageId": "null",
