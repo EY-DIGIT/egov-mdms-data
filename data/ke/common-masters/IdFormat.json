@@ -451,19 +451,19 @@
             "idname": "nks.rain_harvesting_charges.receipt.id"
         },
         {
-            "format": "CA-AC-[cy:yyyy-MM-dd]-[SEQ_EG_PT_ACK]",
+            "format": "KE-AC-[cy:yyyy-MM-dd]-[SEQ_EG_PT_ACK]",
             "idname": "pt.acknowledgementnumber"
         },
         {
-            "format": "CA-AS-[cy:yyyy-MM-dd]-[SEQ_EG_PT_ASSM]",
+            "format": "KE-AS-[cy:yyyy-MM-dd]-[SEQ_EG_PT_ASSM]",
             "idname": "pt.assessmentnumber"
         },
         {
-            "format": "CA-PT-[cy:yyyy-MM-dd]-[SEQ_EG_PT_PTID]",
+            "format": "KE-PT-[cy:yyyy-MM-dd]-[SEQ_EG_PT_PTID]",
             "idname": "pt.propertyid"
         },
         {
-            "format": "CA-BP-[cy:yyyy-MM-dd]-[SEQ_EG_BP_APN]",
+            "format": "KE-BP-[cy:yyyy-MM-dd]-[SEQ_EG_BP_APN]",
             "idname": "egov.idgen.bpa.applicationNum"
         },
         {
@@ -503,11 +503,11 @@
             "idname": "bpa.nc_san_fee.receipt.id"
         },
         {
-            "format": "CA-MU-[cy:yyyy-MM-dd]-[SEQ_EG_PT_ASSM]",
+            "format": "KE-MU-[cy:yyyy-MM-dd]-[SEQ_EG_PT_ASSM]",
             "idname": "pt.mutation.receipt.id"
         },
         {
-            "format": "CA-MT-[CITY]-[SEQ_EG_PT_MUTATION]",
+            "format": "KE-MT-[CITY]-[SEQ_EG_PT_MUTATION]",
             "idname": "pt.mutation.number"
         },
         {
@@ -543,7 +543,7 @@
             "idname": "sw.one_time_fee.receipt.id"
         },
         {
-            "format": "CA-BP-[cy:yyyy-MM-dd]-[SEQ_EG_BP_APN]",
+            "format": "KE-BP-[cy:yyyy-MM-dd]-[SEQ_EG_BP_APN]",
             "idname": "bpa.low_risk_permit_fee.receipt.id"
         },
         {
@@ -555,11 +555,11 @@
             "idname": "bpa.nc_oc_san_fee.receipt.id"
         },
         {
-            "format": "CA-NOCSRV-[cy:yyyy-MM-dd]-[SEQ_EG_NOC_APN]",
+            "format": "KE-NOCSRV-[cy:yyyy-MM-dd]-[SEQ_EG_NOC_APN]",
             "idname": "noc.application.number"
         },
         {
-            "format": "CA-PGR-[cy:yyyy-MM-dd]-[SEQ_EG_PGR_ID]",
+            "format": "KE-PGR-[cy:yyyy-MM-dd]-[SEQ_EG_PGR_ID]",
             "idname": "pgr.servicerequestid"
         },
         {
@@ -576,7 +576,7 @@
         },
         {
             "idname": "echallan.aplnumber",
-            "format": "CA-CH-[cy:yyyy-MM-dd]-[SEQ_EG_CH_APL]"
+            "format": "KE-CH-[cy:yyyy-MM-dd]-[SEQ_EG_CH_APL]"
         },
         {
             "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
@@ -679,19 +679,19 @@
             "idname": "du.documentid"
         },
         {
-            "format": "CA-SK-[cy:yyyy-MM-dd]-[SEQ_EG_TL_APL]",
+            "format": "KE-SK-[cy:yyyy-MM-dd]-[SEQ_EG_TL_APL]",
             "idname": "bpareg.aplnumber"
         },
         {
-            "format": "CA-SK-[cy:yyyy-MM-dd]-[SEQ_EG_PT_LN]",
+            "format": "KE-SK-[cy:yyyy-MM-dd]-[SEQ_EG_PT_LN]",
             "idname": "bpareg.licensenumber"
         },
         {
-            "format": "CA-BP-[cy:yyyy-MM-dd]-[SEQ_EG_BP_APN]",
+            "format": "KE-BP-[cy:yyyy-MM-dd]-[SEQ_EG_BP_APN]",
             "idname": "bpa.aplnumber"
         },
         {
-            "format": "CA-BP-[cy:yyyy-MM-dd]-[SEQ_EG_BP_PN]",
+            "format": "KE-BP-[cy:yyyy-MM-dd]-[SEQ_EG_BP_PN]",
             "idname": "bpa.permitnumber"
         },
         {
