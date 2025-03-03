@@ -13341,12 +13341,6 @@
       "tenantId": "ke"
     },
     {
-      "rolecode": "STADMIN",
-      "actionid": 1887,
-      "actioncode": "",
-      "tenantId": "ke"
-    },
-    {
       "rolecode": "EMPLOYEE",
       "actionid": 1888,
       "actioncode": "",
@@ -13378,12 +13372,6 @@
     },
     {
       "rolecode": "STADMIN",
-      "actionid": 1892,
-      "actioncode": "",
-      "tenantId": "ke"
-    },
-    {
-      "rolecode": "STADMIN",
       "actionid": 1893,
       "actioncode": "",
       "tenantId": "ke"
@@ -13397,12 +13385,6 @@
     {
       "rolecode": "SUPERUSER",
       "actionid": 2010,
-      "actioncode": "",
-      "tenantId": "ke"
-    },
-    {
-      "rolecode": "STADMIN",
-      "actionid": 2011,
       "actioncode": "",
       "tenantId": "ke"
     },
@@ -15573,18 +15555,6 @@
       "tenantId": "ke"
     },
     {
-      "rolecode": "STADMIN",
-      "actionid": 2010,
-      "actioncode": "",
-      "tenantId": "ke"
-    },
-    {
-      "rolecode": "STADMIN",
-      "actionid": 2026,
-      "actioncode": "",
-      "tenantId": "ke"
-    },
-    {
       "rolecode": "GRO",
       "actionid": 2026,
       "actioncode": "",
@@ -15719,12 +15689,6 @@
     {
       "rolecode": "GRO",
       "actionid": 2017,
-      "actioncode": "",
-      "tenantId": "ke"
-    },
-    {
-      "rolecode": "STADMIN",
-      "actionid": 2018,
       "actioncode": "",
       "tenantId": "ke"
     },
@@ -20559,12 +20523,6 @@
       "tenantId": "ke"
     },
     {
-      "rolecode": "STADMIN",
-      "actionid": 2182,
-      "actioncode": "",
-      "tenantId": "ke"
-    },
-    {
       "rolecode": "FSM_DASHBOARD_VIEWER",
       "actionid": 2182,
       "actioncode": "",
@@ -23643,12 +23601,6 @@
       "tenantId": "ke"
     },
     {
-      "rolecode": "STADMIN",
-      "actionid": 2320,
-      "actioncode": "",
-      "tenantId": "ke"
-    },
-    {
       "rolecode": "NATADMIN",
       "actionid": 2321,
       "actioncode": "",
@@ -23663,12 +23615,6 @@
     {
       "rolecode": "STADMIN",
       "actionid": 2323,
-      "actioncode": "",
-      "tenantId": "ke"
-    },
-    {
-      "rolecode": "STADMIN",
-      "actionid": 2324,
       "actioncode": "",
       "tenantId": "ke"
     },
@@ -23745,12 +23691,6 @@
       "tenantId": "ke"
     },
     {
-      "rolecode": "STADMIN",
-      "actionid": 2337,
-      "actioncode": "",
-      "tenantId": "ke"
-    },
-    {
       "rolecode": "NATADMIN",
       "actionid": 701,
       "actioncode": "",
@@ -23783,12 +23723,6 @@
     {
       "rolecode": "NATADMIN",
       "actionid": 2339,
-      "actioncode": "",
-      "tenantId": "ke"
-    },
-    {
-      "rolecode": "STADMIN",
-      "actionid": 2340,
       "actioncode": "",
       "tenantId": "ke"
     },
@@ -24052,18 +23986,6 @@
     },
     {
       "rolecode": "BND_CEMP",
-      "actionid": 2368,
-      "actioncode": "",
-      "tenantId": "ke"
-    },
-    {
-      "rolecode": "STADMIN",
-      "actionid": 2367,
-      "actioncode": "",
-      "tenantId": "ke"
-    },
-    {
-      "rolecode": "STADMIN",
       "actionid": 2368,
       "actioncode": "",
       "tenantId": "ke"
@@ -25563,12 +25485,6 @@
       "tenantId": "ke"
     },
     {
-      "rolecode": "STADMIN",
-      "actionid": 2481,
-      "actioncode": "",
-      "tenantId": "ke"
-    },
-    {
       "rolecode": "OBPS_REPORT_VIEWER",
       "actionid": 2475,
       "actioncode": "",
@@ -25793,12 +25709,6 @@
     {
       "rolecode": "FIRENOC_REPORT_VIEWER",
       "actionid": 2501,
-      "actioncode": "",
-      "tenantId": "ke"
-    },
-    {
-      "rolecode": "STADMIN",
-      "actionid": 2502,
       "actioncode": "",
       "tenantId": "ke"
     },
