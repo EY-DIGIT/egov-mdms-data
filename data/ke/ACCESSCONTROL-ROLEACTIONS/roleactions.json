@@ -13347,12 +13347,6 @@
       "tenantId": "ke"
     },
     {
-      "rolecode": "STADMIN",
-      "actionid": 1888,
-      "actioncode": "",
-      "tenantId": "ke"
-    },
-    {
       "rolecode": "EMPLOYEE",
       "actionid": 1889,
       "actioncode": "",
@@ -13383,14 +13377,20 @@
       "tenantId": "ke"
     },
     {
-      "rolecode": "SUPERUSER",
-      "actionid": 2010,
+      "rolecode": "STADMIN",
+      "actionid": 2339,
       "actioncode": "",
       "tenantId": "ke"
     },
     {
       "rolecode": "STADMIN",
-      "actionid": 1923,
+      "actionid": 2335,
+      "actioncode": "",
+      "tenantId": "ke"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2010,
       "actioncode": "",
       "tenantId": "ke"
     },
@@ -23723,12 +23723,6 @@
     {
       "rolecode": "NATADMIN",
       "actionid": 2339,
-      "actioncode": "",
-      "tenantId": "ke"
-    },
-    {
-      "rolecode": "STADMIN",
-      "actionid": 2341,
       "actioncode": "",
       "tenantId": "ke"
     },
