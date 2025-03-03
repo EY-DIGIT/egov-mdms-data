@@ -3134,7 +3134,7 @@
       "url": "url",
       "name": "FSM EMPLOYEE CREATE NEW APPLICATION",
       "enabled": true,
-      "navigationURL": "digit-ui/employee/fsm/new-application",
+      "navigationURL": "sanitation-ui/employee/fsm/new-application",
       "parentModule": "",
       "serviceCode": "",
       "code": "null",
@@ -15912,21 +15912,6 @@
         "path": ""
     },
     {
-        "id": 5140,
-        "name": "FSMDailyCollectionReport",
-        "url": "url1",
-        "displayName": "FSM Daily Collection Report",
-        "orderNumber": 2,
-        "parentModule": "",
-        "enabled": true,
-        "serviceCode": "",
-        "code": "null",
-        "path": "FSM.Reports.FSMDailyCollectionReport",
-        "navigationURL": "report/fsm/FSMDailyCollectionReport",
-        "leftIcon": "",
-        "rightIcon": ""
-    },
-    {
         "id": 5141,
         "name": "FSMRequestReport",
         "url": "url1",
@@ -15960,17 +15945,6 @@
         "orderNumber": 0,
         "enabled": true,
         "serviceCode": "FSMREQUESTREPORT_METADATA",
-        "code": "null",
-        "path": "FSM Report"
-    },
-    {
-        "id": 5144,
-        "name": "FSM-DailyCollectionReport-Metadata",
-        "url": "/report/fsm/FSMDailyCollectionReport/metadata/_get",
-        "displayName": "FSM Metadata Report",
-        "orderNumber": 1,
-        "enabled": true,
-        "serviceCode": "FSMDAILYCOLLECTIONREPORTMETA",
         "code": "null",
         "path": "FSM Report"
     },
@@ -16010,17 +15984,6 @@
         "navigationURL": "report/fsm/FSMVehicleLogReport",
         "leftIcon": "",
         "rightIcon": ""
-    },
-    {
-        "id": 5148,
-        "name": "FSMDailyCollectionReport",
-        "url": "/report/fsm/FSMDailyCollectionReport/_get",
-        "displayName": "FSM Report",
-        "orderNumber": 0,
-        "enabled": true,
-        "serviceCode": "FSMDAILYCOLLECTIONREPORT",
-        "code": "null",
-        "path": "FSM Report"
     },
     {
         "id": 5149,
