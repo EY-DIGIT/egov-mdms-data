@@ -191,7 +191,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
@@ -301,7 +301,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
@@ -615,7 +615,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
@@ -629,7 +629,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
@@ -1276,7 +1276,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
@@ -1290,7 +1290,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
@@ -1304,7 +1304,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
@@ -1332,7 +1332,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
@@ -1346,7 +1346,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
@@ -1360,7 +1360,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
@@ -1402,7 +1402,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
@@ -1416,7 +1416,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
@@ -1430,7 +1430,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
@@ -1444,7 +1444,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
@@ -1458,7 +1458,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
@@ -1472,7 +1472,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
@@ -1486,7 +1486,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
@@ -1500,7 +1500,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
@@ -1514,7 +1514,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
@@ -1528,7 +1528,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
@@ -1542,7 +1542,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
@@ -1556,7 +1556,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
@@ -1570,7 +1570,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
@@ -1584,7 +1584,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
@@ -1598,7 +1598,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
@@ -1612,7 +1612,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
@@ -1626,7 +1626,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
@@ -1640,7 +1640,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
@@ -1654,7 +1654,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
@@ -1668,7 +1668,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
@@ -1682,7 +1682,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
@@ -1696,7 +1696,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
@@ -1710,7 +1710,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
@@ -1724,7 +1724,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
@@ -1738,7 +1738,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
@@ -1752,7 +1752,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
@@ -1766,7 +1766,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
@@ -1780,7 +1780,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
@@ -1794,7 +1794,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
@@ -1808,7 +1808,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
@@ -1822,7 +1822,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
@@ -1836,7 +1836,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
@@ -1850,7 +1850,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
@@ -1864,7 +1864,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
@@ -1878,7 +1878,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
@@ -1892,7 +1892,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
@@ -1906,7 +1906,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
@@ -1920,7 +1920,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
@@ -1934,7 +1934,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
@@ -1948,7 +1948,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc_disabled",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
