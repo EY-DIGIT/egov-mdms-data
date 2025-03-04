@@ -1,5 +1,5 @@
 {
-    "tenantId": "ke.uasin gishu",
+    "tenantId": "ke.uasingishu",
     "moduleName": "egov-location",
     "TenantBoundary": [
         {
@@ -15,7 +15,7 @@
                 "longitude": null,
                 "latitude": null,
                 "label": "City",
-                "code": "ke.uasin gishu",
+                "code": "ke.uasingishu",
                 "children": [
                     {
                         "id": 1,
@@ -73,7 +73,7 @@
                 "longitude": null,
                 "latitude": null,
                 "label": "City",
-                "code": "ke.uasin gishu",
+                "code": "ke.uasingishu",
                 "children": [
                     {
                         "id": 1,
