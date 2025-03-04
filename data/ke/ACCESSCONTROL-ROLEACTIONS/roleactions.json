@@ -13336,12 +13336,6 @@
     },
     {
       "rolecode": "EMPLOYEE",
-      "actionid": 1887,
-      "actioncode": "",
-      "tenantId": "ke"
-    },
-    {
-      "rolecode": "EMPLOYEE",
       "actionid": 1888,
       "actioncode": "",
       "tenantId": "ke"
@@ -20519,12 +20513,6 @@
     {
       "rolecode": "SUPERVISOR",
       "actionid": 1766,
-      "actioncode": "",
-      "tenantId": "ke"
-    },
-    {
-      "rolecode": "FSM_DASHBOARD_VIEWER",
-      "actionid": 2181,
       "actioncode": "",
       "tenantId": "ke"
     },
