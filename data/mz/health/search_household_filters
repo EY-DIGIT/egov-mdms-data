@@ -31,11 +31,6 @@
             "code": "NOT_DELIVERED",
             "name": "Not Delivered",
             "active": true
-        },
-        {
-            "code": "INELIGIBLE",
-            "name": "Ineligible",
-            "active": true
         }
     ]
 }
