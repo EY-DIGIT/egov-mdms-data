@@ -31,6 +31,11 @@
             "code": "NOT_DELIVERED",
             "name": "Not Delivered",
             "active": true
+        },
+        {
+            "code": "BENEFICIARY_REFERRED",
+            "name": "Beneficiary Referred",
+            "active": true
         }
     ]
 }
