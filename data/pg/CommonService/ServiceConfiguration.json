@@ -37,6 +37,10 @@
       "workflow": {
         "businessService": "NewTL"
       },
+      "boundary": {
+        "hierarchy": "ADMIN",
+        "hierarchyLevel" :"Locality"
+      },
       "idgen": {
         "format": "tl.application.number"
       },
@@ -128,6 +132,10 @@
           "type": "certificate"
         }
       ],
+      "boundary": {
+        "hierarchy": "ADMIN",
+        "hierarchyLevel" :"Locality"
+      },
       "bill": null
     }
   ]
