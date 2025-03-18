@@ -1,0 +1,134 @@
+{
+  "tenantId": "pg",
+  "moduleName": "CommonService",
+  "ServiceConfiguration": [
+    {
+      "service": "Tradelicence",
+      "fields": [
+        {
+          "name": "tradeCategory",
+          "type": "string",
+          "reference": "mdms",
+          "schema": "Tradelicence.TradeCategory"
+        },
+        {
+          "name": "tradeStructure",
+          "type": "string",
+          "reference": "mdms",
+          "schema": "Tradelicence.TradeStructure"
+        },
+        {
+          "name": "tradeType",
+          "type": "string",
+          "reference": "mdms",
+          "schema": "Tradelicence.TradeType"
+        },
+        {
+          "name": "tradeSubType",
+          "type": "string",
+          "reference": "mdms",
+          "schema": "Tradelicence.TradeSubType"
+        },
+        {
+          "name": "tradeName",
+          "type": "string"
+        }
+      ],
+      "workflow": {
+        "businessService": "NewTL"
+      },
+      "idgen": {
+        "format": "tl.application.number"
+      },
+      "rules": [
+        {
+          "references": null
+        }
+      ],
+      "documents": [
+        {
+          "category": "address-proof",
+          "documentTypes": [
+            "aadhar",
+            "voter"
+          ],
+          "active": true,
+          "isMandatory": false,
+          "allowedFileTypes": [
+            "pdf",
+            "doc",
+            "docx",
+            "xlsx",
+            "xls",
+            "jpeg",
+            "jpg",
+            "png"
+          ],
+          "maxSizeInMB": 5,
+          "maxFilesAllowed": 1
+        },
+        {
+          "category": "identity-proof",
+          "documentTypes": [
+            "aadhar",
+            "voter"
+          ],
+          "active": true,
+          "isMandatory": true,
+          "allowedFileTypes": [
+            "pdf",
+            "doc",
+            "docx",
+            "xlsx",
+            "xls",
+            "jpeg",
+            "jpg",
+            "png"
+          ],
+          "maxSizeInMB": 5,
+          "maxFilesAllowed": 1
+        }
+      ],
+      "pdf": [
+        {
+          "key": "tl-application",
+          "type": "application"
+        },
+        {
+          "key": "tl-bill",
+          "type": "bill"
+        },
+        {
+          "key": "tl-receipt",
+          "type": "receipt"
+        }
+      ],
+      "bill": {
+        "service": "ApplicationFee"
+      }
+    },
+    {
+      "service": "Tradelicence",
+      "fields": null,
+      "workflow": {
+        "businessService": "ApprovedTL"
+      },
+      "idgen": {
+        "format": "tl.licence.number"
+      },
+      "rules": [
+        {
+          "referenceType": "NewTL"
+        }
+      ],
+      "documents": null,
+      "pdf": [
+        {
+          "key": "tl-certificate",
+          "type": "certificate"
+        }
+      ],
+      "bill": null
+    }
+  ]
+}
