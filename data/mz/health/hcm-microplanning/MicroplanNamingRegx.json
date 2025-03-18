@@ -1,7 +1,0 @@
-{
-  "tenantId": "mz",
-  "moduleName": "hcm-microplanning",
-  "MicroplanNamingRegx": [
-    { "data": "^(?![\\d\\s+\\-_()]+$)(?=.{1,})[A-Za-z\\d\\s+\\-_()]*$" }
-  ]
-}

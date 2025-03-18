@@ -1,0 +1,14 @@
+{
+  "tenantId": "ke",
+  "moduleName": "egov-hrms",
+  "Specalization": [
+    {
+      "code": "ARTS",
+      "active": true
+    },
+    {
+      "code": "SCIENCE",
+      "active": true
+    }
+  ]
+}

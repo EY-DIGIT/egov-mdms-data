@@ -1,0 +1,122 @@
+{
+    "tenantId": "ke.uasingishu",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "ELDORET CITY",
+                "localname": "ELDORET CITY",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ke.uasingishu",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "BURNT",
+                        "localname": "BURNT",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA001"
+                    },
+                    {
+                        "id": 2,
+                        "boundaryNum": 2,
+                        "name": "FOREST",
+                        "localname": "FOREST",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA002"
+                    },
+                    {
+                        "id": 3,
+                        "boundaryNum": 3,
+                        "name": "TURBO",
+                        "localname": "TURBO",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA003"
+                    },
+                    {
+                        "id": 4,
+                        "boundaryNum": 4,
+                        "name": "MOIBEN",
+                        "localname": "MOIBEN",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA004"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "ELDORET CITY",
+                "localname": "ELDORET CITY",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ke.uasingishu",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "BURNT",
+                        "localname": "BURNT",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA001"
+                    },
+                    {
+                        "id": 2,
+                        "boundaryNum": 2,
+                        "name": "FOREST",
+                        "localname": "FOREST",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA002"
+                    },
+                    {
+                        "id": 3,
+                        "boundaryNum": 3,
+                        "name": "TURBO",
+                        "localname": "TURBO",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA003"
+                    },
+                    {
+                        "id": 4,
+                        "boundaryNum": 4,
+                        "name": "MOIBEN",
+                        "localname": "MOIBEN",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA004"
+                    }
+                ]
+            }
+        }
+    ]
+}

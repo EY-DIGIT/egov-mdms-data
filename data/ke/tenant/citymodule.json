@@ -1,0 +1,590 @@
+{
+  "tenantId": "ke",
+  "moduleName": "tenant",
+  "citymodule": [
+    {
+      "module": "PGR",
+      "code": "PGR",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PGR.png",
+      "active": true,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "ke.nairobi"
+        },
+        {
+          "code": "ke.mombasa"
+        },
+        {
+          "code": "ke.kisumu"
+        },
+        {
+          "code": "ke.nakuru"
+        },
+        {
+          "code": "ke.uasingishu"
+        }
+      ]
+    },
+    {
+      "module": "PT",
+      "code": "PT",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
+      "active": false,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "ke.nairobi"
+        },
+        {
+          "code": "ke.mombasa"
+        },
+        {
+          "code": "ke.kisumu"
+        },
+        {
+          "code": "ke.nakuru"
+        },
+        {
+          "code": "ke.uasingishu"
+        }
+      ]
+    },
+    {
+      "module": "QuickPayLinks",
+      "code": "QuickPayLinks",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "ke.nairobi"
+        },
+        {
+          "code": "ke.mombasa"
+        },
+        {
+          "code": "ke.kisumu"
+        },
+        {
+          "code": "ke.nakuru"
+        },
+        {
+          "code": "ke.uasingishu"
+        }
+      ]
+    },
+    {
+      "module": "Finance",
+      "code": "Finance",
+      "active": false,
+      "order": 4,
+      "tenants": [
+        {
+          "code": "ke.nairobi"
+        },
+        {
+          "code": "ke.mombasa"
+        },
+        {
+          "code": "ke.kisumu"
+        },
+        {
+          "code": "ke.nakuru"
+        },
+        {
+          "code": "ke.uasingishu"
+        }
+      ]
+    },
+    {
+      "module": "TL",
+      "code": "TL",
+      "bannerImage": "https://img.freepik.com/free-photo/guarantee-approved-authorized-certified-concept_53876-122452.jpg?t=st=1731422165~exp=1731425765~hmac=80a4ca697f607ab626d724f599d114fd9539fe7edf780f63e0222a35bb6b3326&w=1060",
+      "active": true,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "ke.nairobi"
+        },
+        {
+          "code": "ke.mombasa"
+        },
+        {
+          "code": "ke.kisumu"
+        },
+        {
+          "code": "ke.nakuru"
+        },
+        {
+          "code": "ke.uasingishu"
+        }
+      ]
+    },
+    {
+      "module": "FIRENOC",
+      "code": "FIRENOC",
+      "active": false,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "ke.nairobi"
+        },
+        {
+          "code": "ke.mombasa"
+        },
+        {
+          "code": "ke.kisumu"
+        },
+        {
+          "code": "ke.nakuru"
+        },
+        {
+          "code": "ke.uasingishu"
+        }
+      ]
+    },
+    {
+      "module": "UC",
+      "code": "UC",
+      "active": true,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "ke.nairobi"
+        },
+        {
+          "code": "ke.mombasa"
+        },
+        {
+          "code": "ke.kisumu"
+        },
+        {
+          "code": "ke.nakuru"
+        },
+        {
+          "code": "ke.uasingishu"
+        }
+      ]
+    },
+    {
+      "module": "BPAREG",
+      "code": "BPAREG",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
+      "active": false,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "ke.nairobi"
+        },
+        {
+          "code": "ke.mombasa"
+        },
+        {
+          "code": "ke.kisumu"
+        },
+        {
+          "code": "ke.nakuru"
+        },
+        {
+          "code": "ke.uasingishu"
+        }
+      ]
+    },
+    {
+      "module": "BPAAPPLY",
+      "code": "BPAAPPLY",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
+      "active": false,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "ke.nairobi"
+        },
+        {
+          "code": "ke.mombasa"
+        },
+        {
+          "code": "ke.kisumu"
+        },
+        {
+          "code": "ke.nakuru"
+        },
+        {
+          "code": "ke.uasingishu"
+        }
+      ]
+    },
+    {
+      "module": "PGR.WHATSAPP",
+      "code": "PGR.WHATSAPP",
+      "active": false,
+      "order": 4,
+      "tenants": [
+        {
+          "code": "ke.nairobi"
+        },
+        {
+          "code": "ke.mombasa"
+        },
+        {
+          "code": "ke.kisumu"
+        },
+        {
+          "code": "ke.nakuru"
+        },
+        {
+          "code": "ke.uasingishu"
+        }
+      ]
+    },
+    {
+      "module": "OBPS",
+      "code": "OBPS",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
+      "active": false,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "ke.nairobi"
+        },
+        {
+          "code": "ke.mombasa"
+        },
+        {
+          "code": "ke.kisumu"
+        },
+        {
+          "code": "ke.nakuru"
+        },
+        {
+          "code": "ke.uasingishu"
+        }
+      ]
+    },
+    {
+      "module": "FSM",
+      "code": "FSM",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/FSM.png",
+      "active": false,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "ke.nairobi"
+        },
+        {
+          "code": "ke.mombasa"
+        },
+        {
+          "code": "ke.kisumu"
+        },
+        {
+          "code": "ke.nakuru"
+        },
+        {
+          "code": "ke.uasingishu"
+        }
+      ]
+    },
+    {
+      "module": "Payment",
+      "code": "Payment",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "ke.nairobi"
+        },
+        {
+          "code": "ke.mombasa"
+        },
+        {
+          "code": "ke.kisumu"
+        },
+        {
+          "code": "ke.nakuru"
+        },
+        {
+          "code": "ke.uasingishu"
+        }
+      ]
+    },
+    {
+      "module": "Receipts",
+      "code": "Receipts",
+      "active": true,
+      "order": 3,
+      "tenants": [
+        {
+          "code": "ke.nairobi"
+        },
+        {
+          "code": "ke.mombasa"
+        },
+        {
+          "code": "ke.kisumu"
+        },
+        {
+          "code": "ke.nakuru"
+        },
+        {
+          "code": "ke.uasingishu"
+        }
+      ]
+    },
+    {
+      "module": "NOC",
+      "code": "NOC",
+      "active": false,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "ke.nairobi"
+        },
+        {
+          "code": "ke.mombasa"
+        },
+        {
+          "code": "ke.kisumu"
+        },
+        {
+          "code": "ke.nakuru"
+        },
+        {
+          "code": "ke.uasingishu"
+        }
+      ]
+    },
+    {
+      "module": "DSS",
+      "code": "DSS",
+      "active": true,
+      "order": 6,
+      "tenants": [
+        {
+          "code": "ke.nairobi"
+        },
+        {
+          "code": "ke.mombasa"
+        },
+        {
+          "code": "ke.kisumu"
+        },
+        {
+          "code": "ke.nakuru"
+        },
+        {
+          "code": "ke.uasingishu"
+        }
+      ]
+    },
+    {
+      "module": "Engagement",
+      "code": "Engagement",
+      "active": true,
+      "order": 3,
+      "tenants": [
+        {
+          "code": "ke.nairobi"
+        },
+        {
+          "code": "ke.mombasa"
+        },
+        {
+          "code": "ke.kisumu"
+        },
+        {
+          "code": "ke.nakuru"
+        },
+        {
+          "code": "ke.uasingishu"
+        }
+      ]
+    },
+    {
+      "module": "MCollect",
+      "code": "MCollect",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "ke.nairobi"
+        },
+        {
+          "code": "ke.mombasa"
+        },
+        {
+          "code": "ke.kisumu"
+        },
+        {
+          "code": "ke.nakuru"
+        },
+        {
+          "code": "ke.uasingishu"
+        }
+      ]
+    },
+    {
+      "module": "HRMS",
+      "code": "HRMS",
+      "active": true,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "ke.nairobi"
+        },
+        {
+          "code": "ke.mombasa"
+        },
+        {
+          "code": "ke.kisumu"
+        },
+        {
+          "code": "ke.nakuru"
+        },
+        {
+          "code": "ke.uasingishu"
+        }
+      ]
+    },
+    {
+      "module": "CommonPT",
+      "code": "CommonPT",
+      "active": true,
+      "order": 3,
+      "tenants": [
+        {
+          "code": "ke.nairobi"
+        },
+        {
+          "code": "ke.mombasa"
+        },
+        {
+          "code": "ke.kisumu"
+        },
+        {
+          "code": "ke.nakuru"
+        },
+        {
+          "code": "ke.uasingishu"
+        }
+      ]
+    },
+    {
+      "module": "NDSS",
+      "code": "NDSS",
+      "active": false,
+      "order": 5,
+      "tenants": [
+        {
+          "code": "ke.nairobi"
+        },
+        {
+          "code": "ke.mombasa"
+        },
+        {
+          "code": "ke.kisumu"
+        },
+        {
+          "code": "ke.nakuru"
+        },
+        {
+          "code": "ke.uasingishu"
+        }
+      ]
+    },
+    {
+      "module": "WS",
+      "code": "WS",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/WS.png",
+      "active": false,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "ke.nairobi"
+        },
+        {
+          "code": "ke.mombasa"
+        },
+        {
+          "code": "ke.kisumu"
+        },
+        {
+          "code": "ke.nakuru"
+        },
+        {
+          "code": "ke.uasingishu"
+        }
+      ]
+    },
+    {
+      "module": "SW",
+      "code": "SW",
+      "active": false,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "ke.nairobi"
+        },
+        {
+          "code": "ke.mombasa"
+        },
+        {
+          "code": "ke.kisumu"
+        },
+        {
+          "code": "ke.nakuru"
+        },
+        {
+          "code": "ke.uasingishu"
+        }
+      ]
+    },
+    {
+      "module": "BillAmendment",
+      "code": "BillAmendment",
+      "active": false,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "ke.nairobi"
+        },
+        {
+          "code": "ke.mombasa"
+        },
+        {
+          "code": "ke.kisumu"
+        },
+        {
+          "code": "ke.nakuru"
+        },
+        {
+          "code": "ke.uasingishu"
+        }
+      ]
+    },
+    {
+      "module": "Bills",
+      "code": "Bills",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/Bill.png",
+      "active": true,
+      "order": 3,
+      "tenants": [
+        {
+          "code": "ke.nairobi"
+        },
+        {
+          "code": "ke.mombasa"
+        },
+        {
+          "code": "ke.kisumu"
+        },
+        {
+          "code": "ke.nakuru"
+        },
+        {
+          "code": "ke.uasingishu"
+        }
+      ]
+    }
+  ]
+}

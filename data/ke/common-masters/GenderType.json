@@ -1,0 +1,22 @@
+{
+    "tenantId": "ke",
+    "moduleName": "common-masters",
+    "GenderType":
+    [
+      {
+        "code": "MALE",
+        "active": true
+      },
+      {
+        "code": "FEMALE",
+        "active": true
+      },{
+        "code": "NONBINARY",
+        "active": true
+      },
+      {
+        "code": "PREFERNOTTOSAY",
+        "active": true
+      }
+    ]
+  }

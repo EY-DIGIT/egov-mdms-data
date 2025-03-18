@@ -1,0 +1,122 @@
+{
+    "tenantId": "ke.nakuru",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "NAKURU CITY",
+                "localname": "NAKURU CITY",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ke.nakuru",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "NAIVASHA",
+                        "localname": "NAIVASHA",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA001"
+                    },
+                    {
+                        "id": 2,
+                        "boundaryNum": 2,
+                        "name": "GILGIL",
+                        "localname": "GILGIL",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA002"
+                    },
+                    {
+                        "id": 3,
+                        "boundaryNum": 3,
+                        "name": "MOLO",
+                        "localname": "MOLO",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA003"
+                    },
+                    {
+                        "id": 4,
+                        "boundaryNum": 4,
+                        "name": "NJORO",
+                        "localname": "NJORO",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA004"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "NAKURU CITY",
+                "localname": "NAKURU CITY",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ke.nakuru",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "NAIVASHA",
+                        "localname": "NAIVASHA",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA001"
+                    },
+                    {
+                        "id": 2,
+                        "boundaryNum": 2,
+                        "name": "GILGIL",
+                        "localname": "GILGIL",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA002"
+                    },
+                    {
+                        "id": 3,
+                        "boundaryNum": 3,
+                        "name": "MOLO",
+                        "localname": "MOLO",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA003"
+                    },
+                    {
+                        "id": 4,
+                        "boundaryNum": 4,
+                        "name": "NJORO",
+                        "localname": "NJORO",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA004"
+                    }
+                ]
+            }
+        }
+    ]
+}

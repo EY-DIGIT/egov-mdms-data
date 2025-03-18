@@ -1,0 +1,102 @@
+{
+    "tenantId": "ke.kisumu",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "KISUMU CITY",
+                "localname": "KISUMU CITY",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ke.kisumu",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "MASENO",
+                        "localname": "MASENO",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA001"
+                    },
+                    {
+                        "id": 2,
+                        "boundaryNum": 2,
+                        "name": "AHERO",
+                        "localname": "AHERO",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA002"
+                    },
+                    {
+                        "id": 3,
+                        "boundaryNum": 3,
+                        "name": "MUHORONI",
+                        "localname": "MUHORONI",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA003"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "KISUMU CITY",
+                "localname": "KISUMU CITY",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ke.kisumu",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "MASENO",
+                        "localname": "MASENO",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA001"
+                    },
+                    {
+                        "id": 2,
+                        "boundaryNum": 2,
+                        "name": "AHERO",
+                        "localname": "AHERO",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA002"
+                    },
+                    {
+                        "id": 3,
+                        "boundaryNum": 3,
+                        "name": "MUHORONI",
+                        "localname": "MUHORONI",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA003"
+                    }
+                ]
+            }
+        }
+    ]
+}

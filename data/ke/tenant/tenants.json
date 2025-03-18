@@ -1,0 +1,243 @@
+{
+  "tenantId": "ke",
+  "moduleName": "tenant",
+  "tenants": [
+    {
+      "code": "ke",
+      "name": "State",
+      "description": "State",
+      "pincode": [],
+      "logoId": "https://digit-ips-s3.s3.ap-south-1.amazonaws.com/kelogo.png",
+      "imageId": "null",
+      "domainUrl": "https://www.csd.ca.gov",
+      "type": "CITY",
+      "twitterUrl": "null",
+      "facebookUrl": "null",
+      "emailId": "Web.Info@csd.ca.gov",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM",
+        "Sat": "9.00 AM - 12.00 PM"
+      },
+      "city": {
+        "name": "Nairobi",
+        "localName": "Nairobi",
+        "districtCode": "0",
+        "districtName": "State",
+        "districtTenantCode": "KE",
+        "regionName": "State",
+        "ulbGrade": "State",
+        "longitude": -122.241638,
+        "latitude": 37.765205,
+        "shapeFileLocation": "null",
+        "captcha": "null",
+        "code": "210",
+        "ddrName": "null"
+      },
+      "address": "State Municipal Corporation",
+      "contactNumber": "9876543210",
+      "helpLineNumber": "9876543210"
+    },
+    {
+      "code": "ke.nairobi",
+      "name": "Nairobi",
+      "description": null,
+      "pincode": [
+        "141003",
+        "00800",
+        "00502",
+        "00509",
+        "00608",
+        "00100",
+        "00521",
+        "00521"
+      ],
+      "logoId": "https://digit-ips-s3.s3.ap-south-1.amazonaws.com/kelogo.png",
+      "imageId": "null",
+      "domainUrl": "https://www.csd.ca.gov",
+      "type": "CITY",
+      "twitterUrl": "null",
+      "facebookUrl": "null",
+      "emailId": "Web.Info@csd.ca.gov",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM",
+        "Sat": "9.00 AM - 12.00 PM"
+      },
+      "city": {
+        "name": "Nairobi City",
+        "localName": "null",
+        "districtCode": "null",
+        "districtName": "Nairobi",
+        "districtTenantCode": "ke_Nairobi",
+        "regionName": "null",
+        "ulbGrade": "Municipal Corporation",
+        "longitude": -122.241638,
+        "latitude": 37.765205,
+        "shapeFileLocation": "null",
+        "captcha": "null",
+        "code": "2131",
+        "ddrName": "Nairobi"
+      },
+      "address": "East End, West End",
+      "contactNumber": "9876543210",
+      "helpLineNumber": "9876543210"
+    },
+    {
+      "code": "ke.mombasa",
+      "name": "Mombasa",
+      "description": null,
+      "pincode": [
+        "80118",
+        "80101",
+        "80102",
+        "80110",
+        "80109",
+        "80100",
+        "80100"
+      ],
+      "logoId": "https://digit-ips-s3.s3.ap-south-1.amazonaws.com/kelogo.png",
+      "imageId": "null",
+      "domainUrl": "https://www.csd.ca.gov",
+      "type": "CITY",
+      "twitterUrl": "null",
+      "facebookUrl": "null",
+      "emailId": "Web.Info@csd.ca.gov",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM",
+        "Sat": "9.00 AM - 12.00 PM"
+      },
+      "city": {
+        "name": "Mombasa City",
+        "localName": "null",
+        "districtCode": "null",
+        "districtName": "Mombasa",
+        "districtTenantCode": "ke_Mombasa",
+        "regionName": "null",
+        "ulbGrade": "Municipal Corporation",
+        "longitude": -122.241638,
+        "latitude": 37.765205,
+        "shapeFileLocation": "null",
+        "captcha": "null",
+        "code": "2131",
+        "ddrName": "Mombasa"
+      },
+      "address": "East End, West End",
+      "contactNumber": "9876543210",
+      "helpLineNumber": "9876543210"
+    },
+    {
+      "code": "ke.kisumu",
+      "name": "Kisumu",
+      "description": null,
+      "pincode": [
+        "50138",
+        "20112",
+        "40100"
+      ],
+      "logoId": "https://digit-ips-s3.s3.ap-south-1.amazonaws.com/kelogo.png",
+      "imageId": "null",
+      "domainUrl": "https://www.csd.ca.gov",
+      "type": "CITY",
+      "twitterUrl": "null",
+      "facebookUrl": "null",
+      "emailId": "Web.Info@csd.ca.gov",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM",
+        "Sat": "9.00 AM - 12.00 PM"
+      },
+      "city": {
+        "name": "Kisumu City",
+        "localName": "null",
+        "districtCode": "null",
+        "districtName": "Kisumu",
+        "districtTenantCode": "ke_Kisumu",
+        "regionName": "null",
+        "ulbGrade": "Municipal Corporation",
+        "longitude": -122.241638,
+        "latitude": 37.765205,
+        "shapeFileLocation": "null",
+        "captcha": "null",
+        "code": "2131",
+        "ddrName": "Kisumu"
+      },
+      "address": "East End, West End",
+      "contactNumber": "9876543210",
+      "helpLineNumber": "9876543210"
+    },
+    {
+      "code": "ke.nakuru",
+      "name": "Nakuru",
+      "description": null,
+      "pincode": [
+        "30112",
+        "00617",
+        "20100"
+      ],
+      "logoId": "https://digit-ips-s3.s3.ap-south-1.amazonaws.com/kelogo.png",
+      "imageId": "null",
+      "domainUrl": "https://www.csd.ca.gov",
+      "type": "CITY",
+      "twitterUrl": "null",
+      "facebookUrl": "null",
+      "emailId": "Web.Info@csd.ca.gov",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM",
+        "Sat": "9.00 AM - 12.00 PM"
+      },
+      "city": {
+        "name": "Nakuru City",
+        "localName": "null",
+        "districtCode": "null",
+        "districtName": "Nakuru",
+        "districtTenantCode": "ke_Nakuru",
+        "regionName": "null",
+        "ulbGrade": "Municipal Corporation",
+        "longitude": -122.241638,
+        "latitude": 37.765205,
+        "shapeFileLocation": "null",
+        "captcha": "null",
+        "code": "2131",
+        "ddrName": "Nakuru"
+      },
+      "address": "East End, West End",
+      "contactNumber": "9876543210",
+      "helpLineNumber": "9876543210"
+    },
+    {
+      "code": "ke.uasingishu",
+      "name": "Uasin Gishu",
+      "description": null,
+      "pincode": [
+        "30214"
+      ],
+      "logoId": "https://digit-ips-s3.s3.ap-south-1.amazonaws.com/kelogo.png",
+      "imageId": "null",
+      "domainUrl": "https://www.csd.ca.gov",
+      "type": "CITY",
+      "twitterUrl": "null",
+      "facebookUrl": "null",
+      "emailId": "Web.Info@csd.ca.gov",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM",
+        "Sat": "9.00 AM - 12.00 PM"
+      },
+      "city": {
+        "name": "Eldoret City",
+        "localName": "null",
+        "districtCode": "null",
+        "districtName": "Eldoret City",
+        "districtTenantCode": "ke_Eldoret",
+        "regionName": "null",
+        "ulbGrade": "Municipal Corporation",
+        "longitude": -122.241638,
+        "latitude": 37.765205,
+        "shapeFileLocation": "null",
+        "captcha": "null",
+        "code": "2131",
+        "ddrName": "Eldoret City"
+      },
+      "address": "East End, West End",
+      "contactNumber": "9876543210",
+      "helpLineNumber": "9876543210"
+    }
+  ]
+}

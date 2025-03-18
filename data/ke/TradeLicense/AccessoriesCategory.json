@@ -1,0 +1,31 @@
+{
+  "tenantId": "ke",
+  "moduleName": "TradeLicense",
+  "AccessoriesCategory": [
+    {
+      "code": "ACC-1",
+      "uom": "GROSSUNITS",
+      "active": true
+    },
+    {
+      "code": "ACC-2",
+      "uom": "GROSSUNITS",
+      "active": true
+    },
+    {
+      "code": "ACC-3",
+      "uom": "GROSSUNITS",
+      "active": true
+    },
+    {
+      "code": "ACC-4",
+      "uom": "GROSSUNITS",
+      "active": true
+    },
+    {
+      "code": "ACC-5",
+      "uom": "GROSSUNITS",
+      "active": true
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "tenantId": "ke",
+  "moduleName": "PropertyTax",
+  "PropertyType": [
+    {
+      "name": "Office Building",
+      "code": "BUILTUP.OFFICE_BUILDING",
+      "active": true
+    },
+    {
+      "name": "Retail Space",
+      "code": "BUILTUP.RETAIL_SPACE",
+      "active": true
+    },
+    {
+      "name": "Industrial Property",
+      "code": "BUILTUP.INDUSTRIAL_PROPERTY",
+      "active": true
+    },
+    {
+      "name": "Mixed-Use Development",
+      "code": "BUILTUP.MIXED_USE_DEVELOPMENT",
+      "active": true
+    },
+    {
+      "name": "Self-Storage",
+      "code": "BUILTUP.SELF_STORAGE",
+      "active": true
+    },
+    {
+      "name": "Shopping Mall",
+      "code": "BUILTUP.SHOPPING_MALL",
+      "active": true
+    }
+  ]
+}

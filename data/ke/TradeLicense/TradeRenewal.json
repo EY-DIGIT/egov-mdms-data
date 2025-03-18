@@ -1,0 +1,9 @@
+{
+    "tenantId": "ke",
+    "moduleName": "TradeLicense",
+    "TradeRenewal": [
+        {
+            "renewalPeriod": 7889400000
+        }
+    ]
+}
