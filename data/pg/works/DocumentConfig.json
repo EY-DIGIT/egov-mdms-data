@@ -241,7 +241,6 @@
       "module": "Trade License",
       "allowedFileTypes": ["pdf","jpeg","jpg","png"],
       "maxSizeInMB": 5,
-      "bannerLabel": "TRADE_LICENSE_BANNER",
       "documents": [
         {
           "code": "OWNERIDPROOF",
@@ -268,7 +267,7 @@
           "name" : "doc_OWNERPHOTO",
           "active": true,
           "isMandatory": true,
-          "showTextInput" : true,
+          "showTextInput" : false,
           "allowedFileTypes": ["jpeg","jpg","png"],
           "maxSizeInMB": 5,
           "maxFilesAllowed": 1
