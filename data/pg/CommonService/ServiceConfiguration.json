@@ -6,40 +6,61 @@
       "service": "Tradelicence",
       "fields": [
         {
+          "name": "tradeStructureType",
+          "label": "Trade Structure Type ",
+          "type": "string",
+          "reference": "mdms",
+          "schema": "Tradelicence.TradeStructureType"
+        },
+        {
+          "name": "tradeStructureSubType",
+          "label": "Trade Structure Sub Type ",
+          "type": "string",
+          "reference": "mdms",
+          "depdendency": "tradeStructureType",
+          "schema": "Tradelicence.TradeStructureSubType"
+        },
+        {
+          "name": "tradeLicenceType",
+          "label": "Trade Licence Type ",
+          "type": "string",
+          "reference": "mdms",
+          "schema": "Tradelicence.TradeLicenceType"
+        },
+        {
           "name": "tradeCategory",
+          "label": "Trade Category ",
           "type": "string",
           "reference": "mdms",
           "schema": "Tradelicence.TradeCategory"
         },
         {
-          "name": "tradeStructure",
-          "type": "string",
-          "reference": "mdms",
-          "schema": "Tradelicence.TradeStructure"
-        },
-        {
           "name": "tradeType",
+          "label": "Trade Type ",
           "type": "string",
           "reference": "mdms",
           "schema": "Tradelicence.TradeType"
         },
         {
           "name": "tradeSubType",
+          "label": "Trade Sub Type ",
           "type": "string",
           "reference": "mdms",
+          "depdendency": "tradeType",
           "schema": "Tradelicence.TradeSubType"
         },
         {
           "name": "tradeName",
-          "type": "string"
+          "label": "Trade Name ",
+          "type": "string",
+          "maxLength": 128,
+          "minLength": 2,
+          "isRequired": true,
+          "orderNumber": 1
         }
       ],
       "workflow": {
         "businessService": "NewTL"
-      },
-      "boundary": {
-        "hierarchy": "ADMIN",
-        "hierarchyLevel" :"Locality"
       },
       "idgen": {
         "format": "tl.application.number"
@@ -132,10 +153,6 @@
           "type": "certificate"
         }
       ],
-      "boundary": {
-        "hierarchy": "ADMIN",
-        "hierarchyLevel" :"Locality"
-      },
       "bill": null
     }
   ]
