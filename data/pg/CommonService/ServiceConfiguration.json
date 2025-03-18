@@ -17,7 +17,9 @@
           "label": "Trade Structure Sub Type ",
           "type": "string",
           "reference": "mdms",
-          "depdendency": "tradeStructureType",
+          "dependencies": [
+            "tradeStructureType"
+          ],
           "schema": "Tradelicence.TradeStructureSubType"
         },
         {
@@ -46,7 +48,9 @@
           "label": "Trade Sub Type ",
           "type": "string",
           "reference": "mdms",
-          "depdendency": "tradeType",
+          "dependencies": [
+            "tradeType"
+          ],
           "schema": "Tradelicence.TradeSubType"
         },
         {
@@ -55,6 +59,10 @@
           "type": "string",
           "maxLength": 128,
           "minLength": 2,
+          "validation": {
+            "regex": "^[A-Za-z0-9 ]+$",
+            "message": "Only letters and numbers allowed"
+          },
           "isRequired": true,
           "orderNumber": 1
         }
