@@ -70,6 +70,14 @@
       "workflow": {
         "businessService": "NewTL"
       },
+      "calculator": {
+        "billingSlabs": [
+          {
+            "key": "applicationFee",
+            "value": 2000
+          }
+        ]
+      },
       "idgen": {
         "format": "tl.application.number"
       },
@@ -120,6 +128,21 @@
           ],
           "maxSizeInMB": 5,
           "maxFilesAllowed": 1
+        },
+        {
+          "category": "owner-photo",
+          "documentTypes": [
+            "photo"
+          ],
+          "active": true,
+          "isMandatory": true,
+          "allowedFileTypes": [
+            "jpeg",
+            "jpg",
+            "png"
+          ],
+          "maxSizeInMB": 5,
+          "maxFilesAllowed": 1
         }
       ],
       "pdf": [
@@ -162,6 +185,55 @@
         }
       ],
       "bill": null
+    },
+    {
+      "service": "Tradelicence",
+      "fields": null,
+      "workflow": {
+        "businessService": "RenewTL"
+      },
+      "idgen": {
+        "format": "tl.renewalapplication.number"
+      },
+      "rules": [
+        {
+          "referenceType": "ApprovedTL"
+        }
+      ],
+      "documents": [
+        {
+          "category": "owner-photo",
+          "documentTypes": [
+            "photo"
+          ],
+          "active": true,
+          "isMandatory": false,
+          "allowedFileTypes": [
+            "jpeg",
+            "jpg",
+            "png"
+          ],
+          "maxSizeInMB": 5,
+          "maxFilesAllowed": 1
+        }
+      ],
+      "pdf": [
+        {
+          "key": "tl-renew-application",
+          "type": "application"
+        }
+      ],
+      "calculator": {
+        "billingSlabs": [
+          {
+            "key": "applicationFee",
+            "value": 2000
+          }
+        ]
+      },
+      "bill": {
+        "service": "RenewalFee"
+      }
     }
   ]
 }
