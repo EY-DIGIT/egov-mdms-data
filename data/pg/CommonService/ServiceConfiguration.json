@@ -68,7 +68,14 @@
         }
       ],
       "workflow": {
-        "businessService": "NewTL"
+        "businessService": "NewTL",
+        "ACTIVE": [
+          "APPROVED"
+        ],
+        "INACTIVE": [
+          "REJECTED",
+          "WITHDRAWN"
+        ]
       },
       "calculator": {
         "billingSlabs": [
@@ -81,9 +88,43 @@
       "idgen": {
         "format": "tl.application.number"
       },
-      "rules": [
+      "rules": {
+        "validation": {
+          "type": "schema||api||custom||none",
+          "service": "tradelicence",
+          "schemaCode": "tradelicence.apply",
+          "customFunction": "eitherhookname||function"
+        },
+        "calculator": {
+          "type": "api||custom||none",
+          "service": "tradelicence",
+          "customFunction": "eitherhookname||function"
+        },
+        "registry": {
+          "type": "api||none",
+          "service": "tradelicence"
+        },
+        "references": [
+          {
+            "type": "initiate",
+            "service": "tradelicence"
+          }
+        ]
+      },
+      "apiconfig": [
         {
-          "references": null
+          "type": "register",
+          "host": "https://staging.digit.org||http://tl-services.egov:8080",
+          "endpoint": "/tl-services/v1/create",
+          "method": "post",
+          "service": "tradelicence"
+        },
+        {
+          "type": "register||calculate||validate||authenticate",
+          "host": "https://staging.digit.org||http://tl-services.egov:8080",
+          "endpoint": "/tl-services/v1/search",
+          "method": "post",
+          "service": "tradelicence"
         }
       ],
       "documents": [
