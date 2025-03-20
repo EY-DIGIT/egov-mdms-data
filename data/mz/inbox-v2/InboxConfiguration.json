@@ -4,7 +4,7 @@
   "InboxQueryConfiguration": [
     {
       "module": "RAINMAKER-PGR",
-      "index": "pgr-services",
+      "index": "transformer-pgr-services",
       "allowedSearchCriteria": [
         {
           "name": "area",
@@ -52,7 +52,7 @@
       ],
       "sortBy": {
         "path": "Data.service.auditDetails.createdTime",
-        "mzOrder": "ASC"
+        "order": "ASC"
       },
       "sourceFilterPathList": [
         "Data.service.serviceRequestId",
