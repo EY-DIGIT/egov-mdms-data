@@ -52,7 +52,7 @@
       ],
       "sortBy": {
         "path": "Data.service.auditDetails.createdTime",
-        "order": "ASC"
+        "defaultOrder": "ASC"
       },
       "sourceFilterPathList": [
         "Data.service.serviceRequestId",
