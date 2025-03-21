@@ -57,8 +57,8 @@
         }
       ],
       "sortBy": {
-        "path": "Data.service.auditDetails.createdTime",
-        "defaultOrder": "ASC"
+        "path": "Data.auditDetails.createdTime",
+        "defaultOrder": "DESC"
       },
       "sourceFilterPathList": [
         "Data.service.serviceRequestId",
@@ -66,9 +66,11 @@
         "Data.service.applicationStatus",
         "Data.workflow",
         "Data.service.user",
-        "Data.service.auditDetails.createdTime",
-        "Data.currentProcessInstance",
-        "Data.service.applicationStatus"]
+        "Data.service.auditDetails",
+        "Data.service.additionalDetails",
+        "Data.tenantId",
+        "Data.currentProcessInstance"
+      ]
     }
   ]
 }
