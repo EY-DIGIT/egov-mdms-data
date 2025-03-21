@@ -57,7 +57,7 @@
         }
       ],
       "sortBy": {
-        "path": "Data.auditDetails.createdTime",
+        "path": "Data.service.auditDetails.createdTime",
         "defaultOrder": "DESC"
       },
       "sourceFilterPathList": [
