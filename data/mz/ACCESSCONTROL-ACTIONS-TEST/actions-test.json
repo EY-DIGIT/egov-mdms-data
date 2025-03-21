@@ -15355,5 +15355,41 @@
       "code": "null",
       "path": ""
     }
+    {
+      "id": 2036,
+      "name": "Create PGR Request",
+      "url": "/health-pgr-services/v2/request/_create",
+      "parentModule": "",
+      "displayName": "Create PGR Request",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "pgr-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2037,
+      "name": "Update PGR Request",
+      "url": "/health-pgr-services/v2/request/_update",
+      "parentModule": "",
+      "displayName": "Update PGR Request",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "pgr-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2038,
+      "name": "Search PGR Request",
+      "url": "/health-pgr-services/v2/request/_search",
+      "parentModule": "",
+      "displayName": "Search PGR Request",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "pgr-services",
+      "code": "null",
+      "path": ""
+    }
   ]
 }
