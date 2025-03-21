@@ -106,7 +106,7 @@
           "chartType": "METRIC"
         },
         {
-          "name": "bednetsDistributionSummaryLLIN",
+          "name": "householdDistributionSummaryLLIN",
           "active": true,
           "vizType": "null",
           "chartType": "TABLE"
