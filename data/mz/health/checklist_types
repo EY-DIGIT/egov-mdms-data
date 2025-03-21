@@ -46,6 +46,16 @@
       "code": "ELIGIBILITY",
       "name": "ELIGIBILITY",
       "type": "ASSESSMENT"
+    },
+    {
+      "code": "HOUSEHOLD",
+      "name": "HOUSEHOLD",
+      "type": "ASSESSMENT"
+    },
+    {
+      "code": "INDIVIDUAL",
+      "name": "INDIVIDUAL",
+      "type": "ASSESSMENT"
     }
   ]
 }
