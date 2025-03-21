@@ -15363,7 +15363,7 @@
       "displayName": "Create PGR Request",
       "orderNumber": 0,
       "enabled": false,
-      "serviceCode": "pgr-services",
+      "serviceCode": "health-pgr-services",
       "code": "null",
       "path": ""
     },
@@ -15375,7 +15375,7 @@
       "displayName": "Update PGR Request",
       "orderNumber": 0,
       "enabled": false,
-      "serviceCode": "pgr-services",
+      "serviceCode": "health-pgr-services",
       "code": "null",
       "path": ""
     },
@@ -15387,7 +15387,7 @@
       "displayName": "Search PGR Request",
       "orderNumber": 0,
       "enabled": false,
-      "serviceCode": "pgr-services",
+      "serviceCode": "health-pgr-services",
       "code": "null",
       "path": ""
     }
