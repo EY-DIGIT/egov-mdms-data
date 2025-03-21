@@ -88,6 +88,29 @@
       "idgen": {
         "format": "tl.application.number"
       },
+      "localization": {
+        "modules": [
+          "digit-tradelicence"
+        ]
+      },
+      "notification": {
+        "sms": {
+          "TODO": "will fill later"
+        },
+        "email": {
+          "TODO": "will fill later"
+        }
+      },
+      "access": {
+        "roles": [
+          "TL_CREATOR"
+        ],
+        "actions": [
+          {
+            "url": "tl-services/v1/create"
+          }
+        ]
+      },
       "rules": {
         "validation": {
           "type": "schema||api||custom||none",
@@ -111,22 +134,6 @@
           }
         ]
       },
-      "apiconfig": [
-        {
-          "type": "register",
-          "host": "https://staging.digit.org||http://tl-services.egov:8080",
-          "endpoint": "/tl-services/v1/create",
-          "method": "post",
-          "service": "tradelicence"
-        },
-        {
-          "type": "register||calculate||validate||authenticate",
-          "host": "https://staging.digit.org||http://tl-services.egov:8080",
-          "endpoint": "/tl-services/v1/search",
-          "method": "post",
-          "service": "tradelicence"
-        }
-      ],
       "documents": [
         {
           "category": "address-proof",
@@ -202,7 +209,26 @@
       ],
       "bill": {
         "service": "ApplicationFee"
-      }
+      },
+      "payment": {
+        "gateway": "TODO"
+      },
+      "apiconfig": [
+        {
+          "type": "register",
+          "host": "https://staging.digit.org||http://tl-services.egov:8080",
+          "endpoint": "/tl-services/v1/create",
+          "method": "post",
+          "service": "tradelicence"
+        },
+        {
+          "type": "register||calculate||validate||authenticate",
+          "host": "https://staging.digit.org||http://tl-services.egov:8080",
+          "endpoint": "/tl-services/v1/search",
+          "method": "post",
+          "service": "tradelicence"
+        }
+      ]
     },
     {
       "service": "Tradelicence",
