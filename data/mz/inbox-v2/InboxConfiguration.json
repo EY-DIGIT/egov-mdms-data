@@ -4,7 +4,7 @@
   "InboxQueryConfiguration": [
     {
       "module": "RAINMAKER-PGR",
-      "index": "transformer-pgr-services",
+      "index": "pgr-services",
       "allowedSearchCriteria": [
         {
           "name": "area",
@@ -15,6 +15,12 @@
         {
           "name": "status",
           "path": "Data.currentProcessInstance.state.uuid.keyword",
+          "isMandatory": false,
+          "operator": "EQUAL"
+        },
+        {
+          "name": "tenantId",
+          "path": "Data.tenantId.keyword",
           "isMandatory": false,
           "operator": "EQUAL"
         },
