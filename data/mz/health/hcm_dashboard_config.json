@@ -91,7 +91,7 @@
           "name": "householdsDistributionCoverageLLIN",
           "active": true,
           "vizType": "row",
-          "chartType": "METRIC"
+          "chartType": "TABLE"
         },
         {
           "name": "bednetsDistributionSummaryLLIN",
