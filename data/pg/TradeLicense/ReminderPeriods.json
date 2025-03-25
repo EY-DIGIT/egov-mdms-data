@@ -12,7 +12,7 @@
       },
       {
         "tenantId": "pg.cityc",
-        "reminderInterval": 12345  
+        "reminderInterval": 12345
       }
     ]
   }

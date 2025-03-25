@@ -10,12 +10,17 @@
       {
         "code": "FEMALE",
         "active": true
-      },{
+      },
+      {
         "code": "TRANSGENDER",
         "active": true
       },
       {
-        "code": "OTHER",
+        "code": "NONBINARY",
+        "active": true
+      },
+      {
+        "code": "PREFERNOTTODISCLOSE",
         "active": true
       }
     ]
