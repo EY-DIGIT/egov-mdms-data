@@ -9,7 +9,10 @@
           "type": "component",
           "component": "CampaignsAssignment",
           "key": "CampaignsAssignment",
-          "withoutLabel": true
+          "withoutLabel": true,
+          "populators": {
+            "name": "CampaignsAssignment"
+          }
         }
       ]
     }
