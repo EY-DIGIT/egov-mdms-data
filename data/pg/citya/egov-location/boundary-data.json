@@ -36,7 +36,9 @@
                 "latitude": 31.63089,
                 "label": "Locality",
                 "code": "SUN01",
-                "pincode": [143001],
+                "pincode": [
+                  143001
+                ],
                 "area": "Area1",
                 "children": []
               },
@@ -49,7 +51,9 @@
                 "latitude": null,
                 "label": "Locality",
                 "code": "SUN02",
-                "pincode": [143001],
+                "pincode": [
+                  143001
+                ],
                 "area": "Area1",
                 "children": []
               },
@@ -62,7 +66,9 @@
                 "latitude": null,
                 "label": "Locality",
                 "code": "SUN03",
-                "pincode": [143001],
+                "pincode": [
+                  143001
+                ],
                 "area": "Area1",
                 "children": []
               }
@@ -111,7 +117,9 @@
                 "latitude": null,
                 "label": "Locality",
                 "code": "SUN12",
-                "pincode": [143001],
+                "pincode": [
+                  143001
+                ],
                 "area": "Area2",
                 "children": []
               }
@@ -262,7 +270,10 @@
                 "latitude": 31.63089,
                 "label": "Locality",
                 "code": "SUN01",
-                "pincode": [143001],
+                "pincode": [
+                  143001,
+                  160062
+                ],
                 "area": "Area1",
                 "children": []
               },
@@ -275,7 +286,10 @@
                 "latitude": null,
                 "label": "Locality",
                 "code": "SUN02",
-                "pincode": [143001],
+                "pincode": [
+                  143001,
+                  160064
+                ],
                 "area": "Area1",
                 "children": []
               },
@@ -288,7 +302,10 @@
                 "latitude": null,
                 "label": "Locality",
                 "code": "SUN03",
-                "pincode": [143001],
+                "pincode": [
+                  143001,
+                  160063
+                ],
                 "area": "Area1",
                 "children": []
               }
@@ -337,7 +354,9 @@
                 "latitude": null,
                 "label": "Locality",
                 "code": "SUN12",
-                "pincode": [143001],
+                "pincode": [
+                  143001
+                ],
                 "area": "Area2",
                 "children": []
               }
