@@ -5,95 +5,251 @@
         {
             "head": "HR_LOGIN_DETAILS_HEADER",
             "body": [
-                {
-                    "type": "component",
-                    "component": "SelectEmployeeId",
-                    "key": "SelectEmployeeId",
-                    "withoutLabel": true
-                },
-                {
-                    "type": "component",
-                    "component": "SelectEmployeePassword",
-                    "key": "SelectEmployeePassword",
-                    "withoutLabel": true
+              {
+                "inline": true,
+                "label": "HR_EMP_ID_LABEL",
+                "isMandatory": true,
+                "type": "text",
+                "disable": false,
+                "key": "SelectEmployeeId",
+        
+                "populators": {
+                  "name": "SelectEmployeeId",
+                  "error": "Required",
+                  "validation": {
+                    "pattern": "^[A-Za-z]+$",
+        
+                    "ValidationRequired": true
+                  }
                 }
+              },
+        
+              {
+                "inline": true,
+                "label": "HR_EMP_PASSWORD_LABEL",
+                "isMandatory": true,
+                "type": "password",
+                "disable": false,
+                "key": "employeePassword",
+        
+                "populators": {
+                  "name": "employeePassword",
+                  "error": "CORE_COMMON_APPLICANT_PASSWORD_INVALID",
+                  "validation": {
+                    "pattern": "/^[A-Za-z]+$/",
+                    "type": "password",
+                    "ValidationRequired": true
+                  }
+                }
+              },
+        
+              {
+                "inline": true,
+                "label": "HR_EMP_CONFIRM_PASSWORD_LABEL",
+                "isMandatory": true,
+                "type": "password",
+                "disable": false,
+                "key": "employeeConfirmPassword",
+        
+                "populators": {
+                  "name": "employeeConfirmPassword",
+                  "error": "CORE_COMMON_APPLICANT_CONFIRM_PASSWORD_INVALID",
+                  "validation": {
+                    "pattern": "/^[A-Za-z]+$/",
+                    "type": "password",
+                    "ValidationRequired": true
+                  }
+                }
+              }
             ]
-        },
-        {
+          },
+          {
             "head": "HR_PERSONAL_DETAILS_HEADER",
             "body": [
-                {
-                    "type": "component",
-                    "component": "SelectEmployeeName",
-                    "key": "SelectEmployeeName",
-                    "withoutLabel": true
-                },
-                {
-                    "type": "component",
-                    "component": "SelectEmployeePhoneNumber",
-                    "key": "SelectEmployeePhoneNumber",
-                    "withoutLabel": true
-                },
-                {
-                    "type": "component",
-                    "component": "SelectEmployeeGender",
-                    "key": "SelectEmployeeGender",
-                    "withoutLabel": true
-                },
-                {
-                    "type": "component",
-                    "component": "SelectDateofBirthEmployment",
-                    "key": "SelectDateofBirthEmployment",
-                    "withoutLabel": true
-                },
-                {
-                    "type": "component",
-                    "component": "SelectEmployeeEmailId",
-                    "key": "SelectEmployeeEmailId",
-                    "withoutLabel": true
-                },
-                {
-                    "type": "component",
-                    "component": "SelectEmployeeCorrespondenceAddress",
-                    "key": "SelectEmployeeCorrespondenceAddress",
-                    "withoutLabel": true
+              {
+                "inline": false,
+                "label": "HR_EMP_NAME_LABEL",
+                "isMandatory": true,
+                "type": "text",
+                "disable": false,
+                "key": "SelectEmployeeName",
+                "populators": {
+                  "name": "SelectEmployeeName",
+                  "error": "Required",
+                  "validation": { "pattern": "^[a-zA-Z ]{1,50}$" }
                 }
+              },
+        
+              {
+                "label": "HR_MOB_NO_LABEL",
+                "isMandatory": true,
+                "key": "SelectEmployeePhoneNumber",
+                "type": "number",
+                "disable": false,
+                "populators": {
+                  "name": "SelectEmployeePhoneNumber",
+                  "error": "CORE_COMMON_MOBILE_ERROR",
+                  "validation": { "minLength": 10, "min": 0, "max": 9999999999, "ValidationRequired": true }
+                }
+              },
+        
+              {
+                "isMandatory": true,
+                "type": "radio",
+                "key": "genders",
+                "label": "HR_GENDER_LABEL",
+                "disable": false,
+                "populators": {
+                  "name": "gender",
+                  "optionsKey": "name",
+                  "error": "sample required message",
+                  "required": true,
+                  "mdmsConfig": {
+                    "masterName": "GenderType",
+                    "moduleName": "common-masters",
+                    "localePrefix": "COMMON_GENDER"
+                  }
+                }
+              },
+        
+              {
+                "inline": true,
+                "label": "HR_BIRTH_DATE_LABEL",
+                "isMandatory": true,
+                "key": "SelectDateofBirthEmployment",
+                "type": "date", 
+                "disable": false,
+                "populators": {
+                 
+                  "name": "SelectDateofBirthEmployment",
+                  "required": true,
+                  "error": "Required"
+                }
+              },
+        
+              {
+                "inline": false,
+                "label": "HR_EMAIL_LABEL",
+                "isMandatory": false,
+                "type": "text",
+                "disable": false,
+                "key": "SelectEmployeeEmailId",
+                "populators": {
+                  "required": false,
+                  "name": "SelectEmployeeEmailId",
+                  "error": "Required",
+                  "validation": {
+                    "pattern": "^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}$"
+                  }
+                }
+              },
+        
+              {
+                "inline": false,
+                "label": "HR_CORRESPONDENCE_ADDRESS_LABEL",
+                "isMandatory": false,
+                "type": "text",
+                "disable": false,
+                "populators": {
+                  "required": false,
+                  "name": "SelectEmployeeCorrespondenceAddress",
+                  "error": "Required"
+                  
+                }
+              }
             ]
-        },
-        {
+          },
+        
+          {
             "head": "HR_NEW_EMPLOYEE_FORM_HEADER",
             "body": [
-                {
-                    "type": "component",
-                    "component": "SelectEmployeeType",
-                    "key": "SelectEmployeeType",
-                    "withoutLabel": true
-                },
-                {
-                    "type": "component",
-                    "component": "SelectDateofEmployment",
-                    "key": "SelectDateofEmployment",
-                    "withoutLabel": true
-                },
-                {
-                    "type": "component",
-                    "component": "SelectEmployeeDepartment",
-                    "key": "SelectEmployeeDepartment",
-                    "withoutLabel": true
+              {
+                "isMandatory": true,
+                "key": "SelectEmployeeType",
+                "type": "dropdown",
+                "label": "HR_EMPLOYMENT_TYPE_LABEL",
+                "disable": false,
+                "populators": {
+                  "name": "SelectEmployeeType",
+                  "optionsKey": "name",
+                  "error": "Required",
+                  "mdmsConfig": {
+                    "masterName": "EmployeeType",
+                    "moduleName": "egov-hrms",
+                    "localePrefix": "EGOV_HRMS_EMPLOYEETYPE"
+                  }
                 }
-            ]
-        },
-        {
-            "head": "HR_JURISDICTION_DETAILS_HEADER",
-            "body": [
-                {
-                    "type": "component",
-                    "isMandatory": true,
-                    "component": "Jurisdictions",
-                    "key": "Jurisdictions",
-                    "withoutLabel": true
+              },
+        
+              {
+                "inline": true,
+                "label": "Date of appointment",
+                "isMandatory": true,
+                "key": "SelectDateofEmployment",
+                "type": "date", 
+                "disable": false,
+                "populators": { "name": "SelectDateofEmployment", "required": true, "error": "Required" }
+              },
+        
+              {
+                "isMandatory": true,
+                "key": "SelectEmployeeDepartment",
+                "type": "dropdown",
+                "label": "HR_EMPLOYMENT_DEPARTMENT_LABEL",
+                "disable": false,
+                "populators": {
+                  "name": "SelectEmployeeDepartment",
+                  "optionsKey": "name",
+                  "error": "Required",
+                  "mdmsConfig": {
+                    "masterName": "Department",
+                    "moduleName": "common-masters",
+                    "localePrefix": "COMMON_MASTERS_DEPARTMENT"
+                  }
                 }
+              },
+        
+              {
+                "isMandatory": true,
+                "key": "SelectEmployeeDesignation",
+                "type": "dropdown",
+                "label": "HR_EMPLOYMENT_Designation_LABEL",
+                "disable": false,
+                "populators": {
+                  "name": "SelectEmployeeDesignation",
+                  "optionsKey": "name",
+                  "error": "Required",
+                  "mdmsConfig": {
+                    "masterName": "Designation",
+                    "moduleName": "common-masters",
+                    "localePrefix": "COMMON_MASTERS_DESIGNATION"
+                  }
+                }
+              },
+        
+              {
+                "type": "component",
+                "isMandatory": true,
+                "component": "RolesAssigned",
+                "key": "RolesAssigned",
+                "withoutLabel": true,
+                "populators": {
+                  "name": "RolesAssigned"
+                },
+                "customProps": {}
+              },
+        
+              {
+                "type": "component",
+                "isMandatory": true,
+                "component": "BoundaryComponent",
+                "key": "BoundaryComponent",
+                "withoutLabel": true,
+                "populators": {
+                  "name": "BoundaryComponent"
+                }
+              }
             ]
-        }
+          }
     ]
 }
