@@ -7,7 +7,7 @@
       "name": "No streetlight",
       "keywords": "streetlight, light, repair, work, pole, electric, power, repair, damage, fix",
       "department": "DEPT_1",
-      "slaHours": 336,
+      "slaHours": 48,
       "menuPath": "StreetLights",
       "active": true
     },
