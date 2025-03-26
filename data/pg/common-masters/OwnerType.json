@@ -3,27 +3,23 @@
   "moduleName": "common-masters",
   "OwnerType": [
     {
-      "code": "FREEDOMFIGHTER",
+      "code": "VETERANS",
       "active": true
     },
     {
-      "code": "WIDOW",
+      "code": "DISABLEDINDIVIDUALS",
       "active": true
     },
     {
-      "code": "HANDICAPPED",
+      "code": "MINORITYAPPLICANTS",
       "active": true
     },
     {
-      "code": "BPL",
+      "code": "LGBTQ+INDIVIDUALS",
       "active": true
     },
     {
-      "code": "DEFENSE",
-      "active": true
-    },
-    {
-      "code": "NONE",
+      "code": "ECONOMICALLYDISADVANTAGED",
       "active": true
     }
   ]
