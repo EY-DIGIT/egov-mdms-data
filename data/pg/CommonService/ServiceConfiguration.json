@@ -228,7 +228,17 @@
           "method": "post",
           "service": "tradelicence"
         }
-      ]
+      ],
+      "applicant":{
+        "minimum":1,
+        "maximum":3,
+        "types":["individual","organisation"]
+      },
+      "boundary":{
+        "hierarchyType":"REVENUE",
+        "lowestLevel":"locality"
+      },
+      "enabled":["citizen","employee"]
     },
     {
       "service": "Tradelicence",
