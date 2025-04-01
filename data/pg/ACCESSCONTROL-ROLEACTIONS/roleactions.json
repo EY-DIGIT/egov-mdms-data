@@ -32760,7 +32760,25 @@
       "actionid": 495,
       "actioncode": "",
       "tenantId": "pg"
-    }
+    },
+    {
+      "rolecode": "FSM_EDITOR_EMP",
+      "actionid": 3870,
+      "actioncode": "",
+      "tenantId": "pg"
+  },
+  {
+      "rolecode": "FSM_ADMIN",
+      "actionid": 3870,
+      "actioncode": "",
+      "tenantId": "pg"
+  },
+   {
+      "rolecode": "FSM_DASHBOARD_VIEWER",
+      "actionid": 3870,
+      "actioncode": "",
+      "tenantId": "pg"
+  }
   ]
 }
  
