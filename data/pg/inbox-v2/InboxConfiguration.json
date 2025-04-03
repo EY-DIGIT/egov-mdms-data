@@ -363,7 +363,7 @@
     },
     {
       "module": "fsm",
-      "index": "fsm-application",
+      "index": "pg-fsm-application",
       "allowedSearchCriteria": [
         {
           "name": "tenantId",
@@ -426,7 +426,7 @@
     },
     {
       "module": "tl-services",
-      "index": "tl-inbox",
+      "index": "pg-tl-inbox",
       "allowedSearchCriteria": [
         {
           "name": "tenantId",
@@ -494,7 +494,7 @@
     },
     {
       "module": "PT",
-      "index": "pt-inbox",
+      "index": "pg-pt-inbox",
       "allowedSearchCriteria": [
         {
           "name": "tenantId",
@@ -570,7 +570,7 @@
     },
     {
       "module": "pqm",
-      "index": "pqm-application",
+      "index": "pg-pqm-application",
       "allowedSearchCriteria": [
         {
           "name": "tenantId",
@@ -655,7 +655,7 @@
     },
     {
       "module": "bpa-services",
-      "index": "bpa-inbox",
+      "index": "pg-bpa-inbox",
       "allowedSearchCriteria": [
         {
           "name": "tenantId",
