@@ -4979,6 +4979,94 @@
       "active": true,
       "type": "TL",
       "validityPeriod": null
+    },
+    {
+      "code": "ARCHITECT.CLASSA",
+      "uom": "GROSSUNITS",
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF",
+        "EXPERIENCEPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "BPA",
+      "validityPeriod": 5
+    },
+    {
+      "code": "BUILDER.CLASSA",
+      "uom": "GROSSUNITS",
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF",
+        "EXPERIENCEPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "BPA",
+      "validityPeriod": 5
+    },
+    {
+      "code": "ENGINEER.CLASSA",
+      "uom": "GROSSUNITS",
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF",
+        "EXPERIENCEPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "BPA",
+      "validityPeriod": 5,
+      "restrictions": {
+        "maxPlotArea": 500,
+        "maxBulidingheight": 15,
+        "maxFloors": 3
+      }
+    },
+    {
+      "code": "STRUCTURALENGINEER.CLASSA",
+      "uom": "GROSSUNITS",
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF",
+        "EXPERIENCEPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "BPA",
+      "validityPeriod": 5
+    },
+    {
+      "code": "TOWNPLANNER.CLASSA",
+      "uom": "GROSSUNITS",
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF",
+        "EXPERIENCEPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "BPA",
+      "validityPeriod": 5
+    },
+    {
+      "code": "SUPERVISOR.CLASSA",
+      "uom": "GROSSUNITS",
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF",
+        "EXPERIENCEPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "BPA",
+      "validityPeriod": 5,
+      "restrictions": {
+        "maxPlotArea": 100,
+        "maxBulidingheight": 10,
+        "maxFloors": 2
+      }
     }
   ]
 }
