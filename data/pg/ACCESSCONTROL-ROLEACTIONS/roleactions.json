@@ -32760,6 +32760,30 @@
       "actionid": 495,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 3870,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "PT_APPROVER",
+      "actionid": 3870,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "PT_DOC_VERIFIER",
+      "actionid": 3870,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "PT_FIELD_INSPECTOR",
+      "actionid": 3870,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
