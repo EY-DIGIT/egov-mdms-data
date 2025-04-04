@@ -58,13 +58,13 @@
       "code": "PTAN2025",
       "financialYear": "2025-26"
     },
-    {
-      "fromDate": 1270060200000,
+        {
+      "fromDate": 1427826600000,
       "toDate": 1901212199000,
-      "periodCycle": "20 Years",
-      "service": "ADMN.Election_rally_fees,",
-      "code": "TXPTAN2030",
-      "financialYear": " 2010-30"
+      "periodCycle": "ANNUAL",
+      "service": "ADMN.Election_rally_fees",
+      "code": "ADHAN2030",
+      "financialYear": "2015-30"
     },
     {
       "fromDate": 1270060200000,
