@@ -1809,6 +1809,97 @@
       "isCitizen": true,
       "type": "Adhoc",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
+    },
+    {
+      "businessService": "Fees.Parking Fees",
+      "code": "1001.PKF",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+    },
+    {
+      "businessService": "Fees.Park Entry Fee",
+      "code": "1001.PEF",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+    },
+    {
+      "businessService": "Taxes.Sanitation Tax",
+      "code": "1004.SNT",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+    },
+    {
+      "businessService": "Taxes.Road Tax",
+      "code": "1004.RDT",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+    },
+    {
+      "businessService": "Charges.Electricity Charges",
+      "code": "1003.ELT",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+    },
+    {
+      "businessService": "Charges.Security Charges",
+      "code": "1003.SEC",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+    },
+    {
+      "businessService": "Fines.Littering Fine",
+      "code": "1002.LIT",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
     }
   ]
 }
