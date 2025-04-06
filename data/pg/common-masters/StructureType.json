@@ -85,6 +85,22 @@
     {
       "code": "MOVABLESTRUCTURES(CANRELOCATE).MOBILEHEALTHCLINICS&SERVICEVANS",
       "active": true
+    },
+    {
+      "code": "MOV.MOVVH",
+      "active": true
+    },
+    {
+      "code": "MOV.MOVTS",
+      "active": true
+    },
+    {
+      "code": "IMM.IMMWH",
+      "active": true
+    },
+    {
+      "code": "IMM.IMMSH",
+      "active": true
     }
   ]
 }
