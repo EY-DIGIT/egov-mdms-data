@@ -5,57 +5,57 @@
     {
       "fromDate": 1270060200000,
       "toDate": 1901212199000,
-      "periodCycle": "20 Years",
+      "periodCycle": "ANNUAL",
       "service": "1001.PKF",
-      "code": "TXMCAN2030",
+      "code": "TXPTAN2030",
       "financialYear": " 2010-30"
     },
     {
       "fromDate": 1270060200000,
       "toDate": 1901212199000,
-      "periodCycle": "20 Years",
+      "periodCycle": "ANNUAL",
       "service": "1001.PEF",
-      "code": "TXMCAN2030",
+      "code": "TXPTAN2030",
       "financialYear": " 2010-30"
     },
     {
       "fromDate": 1270060200000,
       "toDate": 1901212199000,
-      "periodCycle": "20 Years",
+      "periodCycle": "ANNUAL",
       "service": "1004.SNT",
-      "code": "TXMCAN2030",
+      "code": "TXPTAN2030",
       "financialYear": " 2010-30"
     },
     {
       "fromDate": 1270060200000,
       "toDate": 1901212199000,
-      "periodCycle": "20 Years",
+      "periodCycle": "ANNUAL",
       "service": "1004.RDT",
-      "code": "TXMCAN2030",
+      "code": "TXPTAN2030",
       "financialYear": " 2010-30"
     },
     {
       "fromDate": 1270060200000,
       "toDate": 1901212199000,
-      "periodCycle": "20 Years",
+      "periodCycle": "ANNUAL",
       "service": "1003.ELT",
-      "code": "TXMCAN2030",
+      "code": "TXPTAN2030",
       "financialYear": " 2010-30"
     },
     {
       "fromDate": 1270060200000,
       "toDate": 1901212199000,
-      "periodCycle": "20 Years",
+      "periodCycle": "ANNUAL",
       "service": "1003.SEC",
-      "code": "TXMCAN2030",
+      "code": "TXPTAN2030",
       "financialYear": " 2010-30"
     },
     {
       "fromDate": 1270060200000,
       "toDate": 1901212199000,
-      "periodCycle": "20 Years",
+      "periodCycle": "ANNUAL",
       "service": "1002.LIT",
-      "code": "TXMCAN2030",
+      "code": "TXPTAN2030",
       "financialYear": " 2010-30"
     },
     {
