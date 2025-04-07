@@ -5828,7 +5828,7 @@
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
-      "isRequired": false
+      "isRequired": true
     },
     {
       "category": "FEE",
@@ -5838,7 +5838,7 @@
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
-      "isRequired": false
+      "isRequired": true
     },
     {
       "category": "TAX",
@@ -5848,7 +5848,7 @@
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
-      "isRequired": false
+      "isRequired": true
     },
     {
       "category": "TAX",
@@ -5858,7 +5858,7 @@
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
-      "isRequired": false
+      "isRequired": true
     },
     {
       "category": "CHARGES",
@@ -5868,7 +5868,7 @@
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
-      "isRequired": false
+      "isRequired": true
     },
     {
       "category": "CHARGES",
@@ -5878,7 +5878,7 @@
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
-      "isRequired": false
+      "isRequired": true
     },
     {
       "category": "FINES",
@@ -5888,7 +5888,7 @@
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
-      "isRequired": false
+      "isRequired": true
     }
   ]
 }
