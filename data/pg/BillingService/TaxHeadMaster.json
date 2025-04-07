@@ -5821,7 +5821,7 @@
       "IsBillamend": true
     },
     {
-      "category": "TAX",
+      "category": "FEE",
       "service": "1001.PKF",
       "name": "Fees.Parking Fees",
       "code": "1001.PKF_FEE",
@@ -5831,7 +5831,7 @@
       "isRequired": false
     },
     {
-      "category": "TAX",
+      "category": "FEE",
       "service": "1001.PEF",
       "name": "Fees.Park Entry Fee",
       "code": "1001.PEF_FEE",
@@ -5861,7 +5861,7 @@
       "isRequired": false
     },
     {
-      "category": "TAX",
+      "category": "CHARGES",
       "service": "1003.ELT",
       "name": "Charges.Electricity Charges",
       "code": "1003.ELT_FEE",
@@ -5871,7 +5871,7 @@
       "isRequired": false
     },
     {
-      "category": "TAX",
+      "category": "CHARGES",
       "service": "1003.SEC",
       "name": "Charges.Security Charges",
       "code": "1003.SEC_FEE",
@@ -5881,7 +5881,7 @@
       "isRequired": false
     },
     {
-      "category": "TAX",
+      "category": "FINES",
       "service": "1002.LIT",
       "name": "Fines.Littering Fine",
       "code": "1002.LIT_FEE",
