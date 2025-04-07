@@ -20857,6 +20857,90 @@
     "serviceCode": "trackingservice",
     "code": "null",
     "path": ""
-}
+   },
+   {
+      "id": 5551,
+      "name": "Park Entry Fee Payment search",
+      "url": "/collection-services/payments/1001.pef/_search",
+      "displayName": "Park Entry Fee Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+  },
+  {
+      "id": 5552,
+      "name": "Parking Fee Payment search",
+      "url": "/collection-services/payments/1001.pkf/_search",
+      "displayName": "Parking Fee Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+  },
+  {
+      "id": 5553,
+      "name": "Sanitation Tax Payment search",
+      "url": "/collection-services/payments/1004.snt/_search",
+      "displayName": "Sanitation Tax Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+  },
+  {
+      "id": 5554,
+      "name": "Road Tax Payment search",
+      "url": "/collection-services/payments/1004.rdt/_search",
+      "displayName": "Road Tax Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+  },
+  {
+      "id": 5555,
+      "name": "Electricity Charges Payment search",
+      "url": "/collection-services/payments/1003.elt/_search",
+      "displayName": "Electricity Charges Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+  },
+  {
+      "id": 5556,
+      "name": "Security Charges Payment search",
+      "url": "/collection-services/payments/1003.sec/_search",
+      "displayName": "Security Charges Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+  }.
+  {
+      "id": 5557,
+      "name": "Littering Fine Payment search",
+      "url": "/collection-services/payments/1002.lit/_search",
+      "displayName": "Littering Fine Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+  }
   ]
 }
