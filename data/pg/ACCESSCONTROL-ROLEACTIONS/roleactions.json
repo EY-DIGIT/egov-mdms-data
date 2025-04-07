@@ -32880,7 +32880,133 @@
         "actionid": 3870,
         "actioncode": "",
         "tenantId": "pg"
-    }
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 5551,
+      "actioncode": "",
+      "tenantId": "pg"
+   },
+   {
+      "rolecode": "UC_EMP",
+      "actionid": 5551,
+      "actioncode": "",
+      "tenantId": "pg"
+   },
+   {
+      "rolecode": "EMPLOYEE",
+      "actionid": 5551,
+      "actioncode": "",
+      "tenantId": "pg"
+   },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 5552,
+      "actioncode": "",
+      "tenantId": "pg"
+   },
+   {
+      "rolecode": "UC_EMP",
+      "actionid": 5552,
+      "actioncode": "",
+      "tenantId": "pg"
+   },
+   {
+      "rolecode": "EMPLOYEE",
+      "actionid": 5552,
+      "actioncode": "",
+      "tenantId": "pg"
+   },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 5553,
+      "actioncode": "",
+      "tenantId": "pg"
+   },
+   {
+      "rolecode": "UC_EMP",
+      "actionid": 5553,
+      "actioncode": "",
+      "tenantId": "pg"
+   },
+   {
+      "rolecode": "EMPLOYEE",
+      "actionid": 5553,
+      "actioncode": "",
+      "tenantId": "pg"
+   },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 5554,
+      "actioncode": "",
+      "tenantId": "pg"
+   },
+   {
+      "rolecode": "UC_EMP",
+      "actionid": 5554,
+      "actioncode": "",
+      "tenantId": "pg"
+   },
+   {
+      "rolecode": "EMPLOYEE",
+      "actionid": 5554,
+      "actioncode": "",
+      "tenantId": "pg"
+   },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 5555,
+      "actioncode": "",
+      "tenantId": "pg"
+   },
+   {
+      "rolecode": "UC_EMP",
+      "actionid": 5555,
+      "actioncode": "",
+      "tenantId": "pg"
+   },
+   {
+      "rolecode": "EMPLOYEE",
+      "actionid": 5555,
+      "actioncode": "",
+      "tenantId": "pg"
+   },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 5556,
+      "actioncode": "",
+      "tenantId": "pg"
+   },
+   {
+      "rolecode": "UC_EMP",
+      "actionid": 5557,
+      "actioncode": "",
+      "tenantId": "pg"
+   },
+   {
+      "rolecode": "EMPLOYEE",
+      "actionid": 5557,
+      "actioncode": "",
+      "tenantId": "pg"
+   },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 5557,
+      "actioncode": "",
+      "tenantId": "pg"
+   },
+   {
+      "rolecode": "UC_EMP",
+      "actionid": 5557,
+      "actioncode": "",
+      "tenantId": "pg"
+   },
+   {
+      "rolecode": "EMPLOYEE",
+      "actionid": 5557,
+      "actioncode": "",
+      "tenantId": "pg"
+   }
   ]
 }
  
