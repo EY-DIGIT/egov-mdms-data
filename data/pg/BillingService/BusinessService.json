@@ -195,107 +195,8 @@
       "isActive": true,
       "type": "Finance"
     },
-    {
-      "businessService": "FIRENOC",
-      "code": "FIRENOC",
-      "collectionModesNotAllowed": [
-        "DD",
-        "OFFLINE_NEFT",
-        "OFFLINE_RTGS",
-        "POSTAL_ORDER"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true,
-      "type": "Adhoc",
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
-    },
-    {
-      "businessService": "Finance Fees.Advance Provident Fund",
-      "code": "FN.Advance_Provident_Fund",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true,
-      "type": "Adhoc",
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
-    },
-    {
-      "businessService": "Finance Fees.CPF received check",
-      "code": "FN.CPF_received_check",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true,
-      "type": "Adhoc"
-    },
-    {
-      "businessService": "Finance Fees.GPF",
-      "code": "FN.GPF",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true,
-      "type": "Adhoc"
-    },
-    {
-      "businessService": "Finance Fees.Grants cheque",
-      "code": "FN.Grants_cheque",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true,
-      "type": "Adhoc"
-    },
-    {
-      "businessService": "Finance Fees.PF transfer (Accounts)",
-      "code": "FN.PF_transfer_(Accounts)",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true,
-      "type": "Adhoc"
-    },
-    {
-      "businessService": "Finance Fees.Recovery employee/contractor",
-      "code": "FN.Recovery_employee/contractor",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true,
-      "type": "Adhoc"
-    },
-    {
-      "businessService": "Finance Fees.Security Deposit Fee (Refundable Fee)",
-      "code": "FN.Security_Deposit_Fee_Refundable_Fee",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true,
-      "type": "Adhoc"
-    },
+    
+    
     {
       "businessService": "FSM.TRIP_CHARGES",
       "code": "FSM.TRIP_CHARGES",
@@ -418,43 +319,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": false
     },
-    {
-      "businessService": "Work Fee.Contractor Enlistment",
-      "code": "WF.Contractor_Enlistment",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true,
-      "type": "Adhoc",
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
-    },
-    {
-      "businessService": "Work Fee.OFC Permission fees",
-      "code": "WF.OFC_Permission_fees",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true,
-      "type": "Adhoc"
-    },
-    {
-      "businessService": "Work Fee.Tender Form Fee",
-      "code": "WF.Tender Form Fee",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true,
-      "type": "Adhoc"
-    },
+    
     {
       "businessService": "ws-services-calculation",
       "code": "WS",
@@ -479,31 +344,6 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true
-    },
-    {
-      "businessService": "WaterCharges.Metered",
-      "code": "WaterCharges.Metered",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": true,
-      "demandUpdateTime": 86400000,
-      "isVoucherCreationEnabled": false,
-      "type": "Adhoc",
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
-    },
-    {
-      "businessService": "WaterCharges.NonMetered",
-      "code": "WaterCharges.NonMetered",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": true,
-      "demandUpdateTime": 86400000,
-      "isVoucherCreationEnabled": false,
-      "type": "Adhoc"
     }
   ]
 }
