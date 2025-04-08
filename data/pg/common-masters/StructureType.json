@@ -3,19 +3,19 @@
   "moduleName": "common-masters",
   "StructureType": [
     {
-      "code": "MOV.MOVVH",
+      "code": "MOVABLE.MOVVH",
       "active": true
     },
     {
-      "code": "MOV.MOVTS",
+      "code": "MOVABLE.MOVTS",
       "active": true
     },
     {
-      "code": "IMM.IMMWH",
+      "code": "IMMOVABLE.IMMWH",
       "active": true
     },
     {
-      "code": "IMM.IMMSH",
+      "code": "IMMOVABLE.IMMSH",
       "active": true
     }
   ]
