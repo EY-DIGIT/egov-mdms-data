@@ -15390,6 +15390,30 @@
       "serviceCode": "health-pgr-services",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2039,
+      "name": "ID pool generate",
+      "url": "/health-idgen/id/id_pool/_generate",
+      "parentModule": "",
+      "displayName": "ID pool generate",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "health-idgen",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2040,
+      "name": "ID pool dispatch",
+      "url": "/health-idgen/id/id_pool/dispatch",
+      "parentModule": "",
+      "displayName": "ID pool dispatch",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "health-idgen",
+      "code": "null",
+      "path": ""
     }
   ]
 }
