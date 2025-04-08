@@ -21163,6 +21163,18 @@
       "actionid": 2040,
       "actioncode": "",
       "tenantId": "mz"
+    },
+   {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 1726,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+   {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 1723,
+      "actioncode": "",
+      "tenantId": "mz"
     }
   ]
 }
