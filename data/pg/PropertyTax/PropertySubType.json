@@ -13,6 +13,12 @@
       "code": "INDEPENDENTPROPERTY",
       "active": true,
       "propertyType": "BUILTUP"
+    },
+    {
+      "name": "Vacant Land",
+      "code": "LAND",
+      "active": true,
+      "propertyType": "VACANT"
     }
   ]
 }

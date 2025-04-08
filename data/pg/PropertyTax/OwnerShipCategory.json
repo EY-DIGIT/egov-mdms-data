@@ -4,56 +4,19 @@
   "OwnerShipCategory":
   [
     {
-      "name": "Individual(s)",
-      "code": "INDIVIDUAL",
+      "name": "Private",
+      "code": "PRIVATE",
       "active": true
     },
     {
-      "name": "Institutional - Private ",
-      "code": "INSTITUTIONALPRIVATE",
+      "name": "Company",
+      "code": "COMPANY",
       "active": true
     },
     {
-      "name": "Institutional - Government",
-      "code": "INSTITUTIONALGOVERNMENT",
-      "active": true
-    },
-    {
-      "name": "Individual - SingleOwner",
-      "code": "INDIVIDUAL.SINGLEOWNER",
-      "active": true
-    },
-    {
-      "name": "Multiple Owners",
-      "code": "INDIVIDUAL.MULTIPLEOWNERS",
-      "active": true
-    },
-    {
-      "name": "Private Company",
-      "code": "INSTITUTIONALPRIVATE.PRIVATECOMPANY",
-      "active": true
-    },
-    {
-      "name": "NGO",
-      "code": "INSTITUTIONALPRIVATE.NGO",
-      "active": true
-    },
-    {
-      "name": "Private Trust",
-      "code": "INSTITUTIONALPRIVATE.PRIVATETRUST",
-      "active": true
-    },
-   
-    {
-      "name": "ULB Government",
-      "code": "INSTITUTIONALGOVERNMENT.ULBGOVERNMENT",
-      "active": true
-    },
-    {
-      "name": "State Government",
-      "code": "INSTITUTIONALGOVERNMENT.STATEGOVERNMENT",
+      "name": "Government",
+      "code": "GOVERNMENT",
       "active": true
     }
-  
   ]
 }
