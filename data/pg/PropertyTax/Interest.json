@@ -4,35 +4,19 @@
   "Interest": [
     {
       "rate": 18,
-      "minAmount": null,
-      "flatAmount": null,
-      "maxAmount": null,
-      "fromFY": "2015-16",
-      "startingDay": "1/01/2016"
+      "minAmount": 200,
+      "flatAmount": 100,
+      "maxAmount": 20000,
+      "fromFY": "2022-23",
+      "startingDay": "1/04/2022"
     },
     {
-      "rate": 12,
-      "minAmount": null,
-      "flatAmount": null,
-      "maxAmount": null,
-      "fromFY": "2015-16",
-      "startingDay": "1/04/2016"
-    },
-    {
-      "rate": 4,
-      "minAmount": null,
-      "flatAmount": null,
-      "maxAmount": null,
-      "fromFY": "2018-19",
-      "startingDay": "01/04/2019"
-    },
-    {
-      "rate": 9,
-      "minAmount": null,
-      "flatAmount": null,
-      "maxAmount": null,
-      "fromFY": "2018-19",
-      "startingDay": "11/12/2018"
+      "rate": 20,
+      "minAmount": 400,
+      "flatAmount": 500,
+      "maxAmount": 50000,
+      "fromFY": "2025-26",
+      "startingDay": "1/04/2025"
     }
   ]
 }

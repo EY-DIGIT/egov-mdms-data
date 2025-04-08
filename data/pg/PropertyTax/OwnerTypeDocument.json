@@ -3,9 +3,9 @@
   "moduleName": "PropertyTax",
   "OwnerTypeDocument": [
     {
-      "name": "Certificate issued by DC/ Competent Authority",
-      "code": "COMPETENTAUTHORITY",
-      "ownerTypeCode": "FREEDOMFIGHTER",
+      "name": "Senior Citizen ID proof",
+      "code": "SENIORCITIZENID",
+      "ownerTypeCode": "SENIORCITIZEN",
       "active": true
     },
     {
@@ -15,28 +15,15 @@
       "active": true
     },
     {
-      "name": "Certificate of Handicap by the competent authority",
+      "name": "Certificate from authorized personnel",
       "code": "HANDICAPCERTIFICATE",
-      "ownerTypeCode": "HANDICAPPED",
+      "ownerTypeCode": "DISABLED",
       "active": true
-    },
-    {
-      "name": "BPL card",
-      "code": "BPLCARD",
-      "ownerTypeCode": "BPL",
-      "active": true
-      
     },
     {
       "name": "Defence ID proof",
       "code": "DEFENCEID",
       "ownerTypeCode": "DEFENSE",
-      "active": true
-    },
-    {
-      "name": "General ID proof",
-      "code": "GENERALID",
-      "ownerTypeCode": "GENERAL",
       "active": true
     }
   ]

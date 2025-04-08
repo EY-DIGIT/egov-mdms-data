@@ -4,20 +4,14 @@
   "ConstructionSubType": [
     {
       "id": "1",
-      "name": "Pucca",
+      "name": "Permanent",
       "code": "PUCCA",
       "active": true
     },
     {
       "id": "2",
-      "name": "Semi-Pucca",
-      "code": "SEMIPUCCA",
-      "active": true
-    },
-    {
-      "id": "3",
-      "name": "Kuccha",
-      "code": "KUCCHA",
+      "name": "Temporary",
+      "code": "TEMPORARY",
       "active": true
     }
   ]
