@@ -107,43 +107,6 @@
       "helpLineNumber": "0183-2210300",
       "pdfHeader": "PG_AMRITSAR_PDF_HEADER",
       "pdfContactDetails": "PG_AMRITSAR_CONTACT_DETAILS"
-    },
-    {
-      "code": "pg.cityc",
-      "name": "CityC",
-      "description": null,
-      "logoId": "https://s3.ap-south-1.amazonaws.com/works-dev-asset/pg.cityc/logo.png",
-      "imageId": "https://s3.ap-south-1.amazonaws.com/works-dev-asset/pg.cityc/logo.png",
-      "domainUrl": "www.cityc.com",
-      "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "emailId": "",
-      "OfficeTimings": { "Mon - Fri": "9.00 AM - 6.00 PM" },
-      "city": {
-        "name": "CityC",
-        "localName": "CityC",
-        "districtCode": "17",
-        "districtName": "Nawanshar",
-        "districtTenantCode": "pg.cityc",
-        "regionName": "CityA Region",
-        "ulbGrade": "MC Class I",
-        "ulbType": "Municipal Council",
-        "longitude": 76.0392,
-        "latitude": 31.0913,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "1703",
-        "regionCode": "4",
-        "municipalityName": "SBS Nagar",
-        "ddrName": "cityc"
-      },
-      "address": "Committee Bazar",
-      "pincode": [144513, 144514, 144516, 144517],
-      "contactNumber": "1823220085",
-      "helpLineNumber": "",
-      "pdfHeader": "PG_NAWANSHAHR_PDF_HEADER",
-      "pdfContactDetails": "PG_NAWANSHAHR_CONTACT_DETAILS"
     }
   ]
 }

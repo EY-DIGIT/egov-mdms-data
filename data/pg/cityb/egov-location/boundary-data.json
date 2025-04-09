@@ -40,14 +40,14 @@
                                   {
                                       "id": 4,
                                       "boundaryNum": 1,
-                                      "name": "Innovation Park",
-                                      "localname": "Innovation Park",
+                                      "name": "Trade & Logistics Park",
+                                      "localname": "Trade & Logistics Park",
                                       "longitude": 74.871552,
                                       "latitude": 31.63089,
                                       "label": "Locality",
-                                      "code": "SUN01",
+                                      "code": "SUN11",
                                       "pincode": [
-                                          143001
+                                          160062
                                       ],
                                       "area": "Area1",
                                       "children": []
@@ -55,14 +55,14 @@
                                   {
                                       "id": 5,
                                       "boundaryNum": 1,
-                                      "name": "Financial District",
-                                      "localname": "Financial District",
+                                      "name": "Manufacturing Crescent",
+                                      "localname": "Manufacturing Crescent",
                                       "longitude": null,
                                       "latitude": null,
                                       "label": "Locality",
-                                      "code": "SUN02",
+                                      "code": "SUN12",
                                       "pincode": [
-                                          143001
+                                          160064
                                       ],
                                       "area": "Area1",
                                       "children": []
@@ -70,14 +70,14 @@
                                   {
                                       "id": 6,
                                       "boundaryNum": 1,
-                                      "name": "Trade & Logistics Park",
-                                      "localname": "Trade & Logistics Park",
+                                      "name": "Westport Industrial Estate",
+                                      "localname": "Westport Industrial Estate",
                                       "longitude": null,
                                       "latitude": null,
                                       "label": "Locality",
-                                      "code": "SUN03",
+                                      "code": "SUN13",
                                       "pincode": [
-                                          143001
+                                          160065
                                       ],
                                       "area": "Area1",
                                       "children": []
@@ -85,12 +85,24 @@
                                   {
                                       "id": 7,
                                       "boundaryNum": 1,
-                                      "name": "Manufacturing Crescent",
-                                      "localname": "Manufacturing Crescent",
+                                      "name": "Heritage Row",
+                                      "localname": "Heritage Row",
                                       "longitude": null,
                                       "latitude": null,
                                       "label": "Locality",
-                                      "code": "SUN04",
+                                      "code": "SUN14",
+                                      "area": "Area3",
+                                      "children": []
+                                  },
+                                  {
+                                      "id": 8,
+                                      "boundaryNum": 1,
+                                      "name": "Old Town Square",
+                                      "localname": "Old Town Square",
+                                      "longitude": null,
+                                      "latitude": null,
+                                      "label": "Locality",
+                                      "code": "SUN15",
                                       "area": "Area3",
                                       "children": []
                                   }
@@ -136,66 +148,75 @@
                               "label": "Block",
                               "code": "B1",
                               "children": [
-                                  {
-                                      "id": 4,
-                                      "boundaryNum": 1,
-                                      "name": "Innovation Park",
-                                      "localname": "Innovation Park",
-                                      "longitude": 74.871552,
-                                      "latitude": 31.63089,
-                                      "label": "Locality",
-                                      "code": "SUN01",
-                                      "pincode": [
-                                          143001
-                                      ],
-                                      "area": "Area1",
-                                      "children": []
-                                  },
-                                  {
-                                      "id": 5,
-                                      "boundaryNum": 1,
-                                      "name": "Financial District",
-                                      "localname": "Financial District",
-                                      "longitude": null,
-                                      "latitude": null,
-                                      "label": "Locality",
-                                      "code": "SUN02",
-                                      "pincode": [
-                                          143001
-                                      ],
-                                      "area": "Area1",
-                                      "children": []
-                                  },
-                                  {
-                                      "id": 6,
-                                      "boundaryNum": 1,
-                                      "name": "Trade & Logistics Park",
-                                      "localname": "Trade & Logistics Park",
-                                      "longitude": null,
-                                      "latitude": null,
-                                      "label": "Locality",
-                                      "code": "SUN03",
-                                      "pincode": [
-                                          143001
-                                      ],
-                                      "area": "Area1",
-                                      "children": []
-                                  },
-                                  {
-                                      "id": 7,
-                                      "boundaryNum": 1,
-                                      "name": "Manufacturing Crescent",
-                                      "localname": "Manufacturing Crescent",
-                                      "longitude": null,
-                                      "latitude": null,
-                                      "label": "Locality",
-                                      "code": "SUN04",
-                                      "pincode": [
-                                          143001
-                                      ],
-                                      "area": "Area1",
-                                      "children": []
-                                  }
+                                {
+                                    "id": 4,
+                                    "boundaryNum": 1,
+                                    "name": "Trade & Logistics Park",
+                                    "localname": "Trade & Logistics Park",
+                                    "longitude": 74.871552,
+                                    "latitude": 31.63089,
+                                    "label": "Locality",
+                                    "code": "SUN11",
+                                    "pincode": [
+                                        160062
+                                    ],
+                                    "area": "Area1",
+                                    "children": []
+                                },
+                                {
+                                    "id": 5,
+                                    "boundaryNum": 1,
+                                    "name": "Manufacturing Crescent",
+                                    "localname": "Manufacturing Crescent",
+                                    "longitude": null,
+                                    "latitude": null,
+                                    "label": "Locality",
+                                    "code": "SUN12",
+                                    "pincode": [
+                                        160064
+                                    ],
+                                    "area": "Area1",
+                                    "children": []
+                                },
+                                {
+                                    "id": 6,
+                                    "boundaryNum": 1,
+                                    "name": "Westport Industrial Estate",
+                                    "localname": "Westport Industrial Estate",
+                                    "longitude": null,
+                                    "latitude": null,
+                                    "label": "Locality",
+                                    "code": "SUN13",
+                                    "pincode": [
+                                        160065
+                                    ],
+                                    "area": "Area1",
+                                    "children": []
+                                },
+                                {
+                                    "id": 7,
+                                    "boundaryNum": 1,
+                                    "name": "Heritage Row",
+                                    "localname": "Heritage Row",
+                                    "longitude": null,
+                                    "latitude": null,
+                                    "label": "Locality",
+                                    "code": "SUN14",
+                                    "area": "Area3",
+                                    "children": []
+                                },
+                                {
+                                    "id": 8,
+                                    "boundaryNum": 1,
+                                    "name": "Old Town Square",
+                                    "localname": "Old Town Square",
+                                    "longitude": null,
+                                    "latitude": null,
+                                    "label": "Locality",
+                                    "code": "SUN15",
+                                    "area": "Area3",
+                                    "children": []
+                                }
                               ]
                           }
                       ]
