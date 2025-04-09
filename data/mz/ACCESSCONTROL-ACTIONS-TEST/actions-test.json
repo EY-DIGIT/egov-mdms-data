@@ -15414,18 +15414,6 @@
       "serviceCode": "health-idgen",
       "code": "null",
       "path": ""
-    },
-    {
-      "id": 2041,
-      "name": "Microplan draft API",
-      "url": "/resource-generator/drafts",
-      "parentModule": "",
-      "displayName": "Microplan draft API",
-      "orderNumber": 0,
-      "enabled": true,
-      "serviceCode": "microplan",
-      "code": "null",
-      "path": ""
     }
   ]
 }

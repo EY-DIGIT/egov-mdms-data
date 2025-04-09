@@ -21175,12 +21175,6 @@
       "actionid": 1723,
       "actioncode": "",
       "tenantId": "mz"
-    },
-    {
-      "rolecode": "MICROPLAN_ADMIN",
-      "actionid": 2041,
-      "actioncode": "",
-      "tenantId": "mz"
     }
   ]
 }
