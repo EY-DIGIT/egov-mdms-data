@@ -13,70 +13,15 @@
           "required": true
         },
         {
-          "documentType": "TRADEPREMISESPROOF",
-          "applicationType": [
-            "NEW",
-            "RENEWAL"
-          ],
-          "required": true
-        },
-        {
-          "documentType": "OWNERPHOTO",
-          "applicationType": [
-            "NEW",
-            "RENEWAL"
-          ],
-          "required": true
-        },
-        {
-          "documentType": "MISCDOCUMENTS",
-          "applicationType": [
-            "NEW",
-            "RENEWAL"
-          ],
-          "required": true
-        },
-        {
           "documentType": "BUSINESSREGISTRATIONCERTIFICATE",
           "applicationType": [
             "NEW",
             "RENEWAL"
           ],
           "required": true
-        },
-        {
-          "documentType": "TAXIDENTIFICATIONNUMBER",
-          "applicationType": [
-            "NEW",
-            "RENEWAL"
-          ],
-          "required": true
-        },
-        {
-          "documentType": "ENVIRONMENTALCLEARANCECERTIFICATE",
-          "applicationType": [
-            "NEW",
-            "RENEWAL"
-          ],
-          "required": true
-        },
-        {
-          "documentType": "FIRE&SAFETYCERTIFICATE",
-          "applicationType": [
-            "NEW",
-            "RENEWAL"
-          ],
-          "required": true
-        },
-        {
-          "documentType": "OLDLICENCENO",
-          "applicationType": [
-            "RENEWAL"
-          ],
-          "required": true
         }
       ],
-      "tradeType": "GOODS"
+      "tradeType": "RETAIL"
     },
     {
       "allowedDocs": [
@@ -89,23 +34,20 @@
           "required": true
         },
         {
-          "documentType": "TRADEPREMISESPROOF",
+          "documentType": "BUSINESSREGISTRATIONCERTIFICATE",
           "applicationType": [
             "NEW",
             "RENEWAL"
           ],
           "required": true
-        },
+        }
+      ],
+      "tradeType": "SERVICES"
+    },
+    {
+      "allowedDocs": [
         {
-          "documentType": "OWNERPHOTO",
-          "applicationType": [
-            "NEW",
-            "RENEWAL"
-          ],
-          "required": true
-        },
-        {
-          "documentType": "MISCDOCUMENTS",
+          "documentType": "IDENTIFICATIONPROOF",
           "applicationType": [
             "NEW",
             "RENEWAL"
@@ -119,40 +61,9 @@
             "RENEWAL"
           ],
           "required": true
-        },
-        {
-          "documentType": "TAXIDENTIFICATIONNUMBER",
-          "applicationType": [
-            "NEW",
-            "RENEWAL"
-          ],
-          "required": true
-        },
-        {
-          "documentType": "ENVIRONMENTALCLEARANCECERTIFICATE",
-          "applicationType": [
-            "NEW",
-            "RENEWAL"
-          ],
-          "required": true
-        },
-        {
-          "documentType": "FIRE&SAFETYCERTIFICATE",
-          "applicationType": [
-            "NEW",
-            "RENEWAL"
-          ],
-          "required": true
-        },
-        {
-          "documentType": "OLDLICENCENO",
-          "applicationType": [
-            "RENEWAL"
-          ],
-          "required": true
         }
       ],
-      "tradeType": "SERVICES"
+      "tradeType": "MANUFACTURING"
     }
   ]
 }
