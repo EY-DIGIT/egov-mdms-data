@@ -1,49 +1,48 @@
 {
   "tenantId": "pg",
   "moduleName": "PropertyTax",
-  "SubOwnerShipCategory":
-  [
+  "SubOwnerShipCategory": [
     {
       "name": "Single Owner",
-      "code": "SO",
+      "code": "SINGLEOWNER",
       "active": true,
-      "ownerShipCategory": "PRIVATE"
+      "ownerShipCategory": "INDIVIDUAL"
     },
     {
-      "name": "Joint Owners",
-      "code": "JO",
+      "name": "Multiple Owners",
+      "code": "MULTIPLEOWNERS",
       "active": true,
-      "ownerShipCategory": "PRIVATE"
+      "ownerShipCategory": "INDIVIDUAL"
     },
     {
-      "name": "Proprietorship",
-      "code": "PO",
+      "name": "Private Company",
+      "code": "PRIVATECOMPANY",
       "active": true,
-      "ownerShipCategory": "COMPANY"
+      "ownerShipCategory": "INSTITUTIONALPRIVATE"
     },
     {
-      "name": "Partnership",
-      "code": "PA",
+      "name": "Private Board",
+      "code": "PRIVATEBOARD",
       "active": true,
-      "ownerShipCategory": "COMPANY"
+      "ownerShipCategory": "INSTITUTIONALPRIVATE"
+    },
+    {
+      "name": "ULB Government",
+      "code": "ULBGOVERNMENT",
+      "active": true,
+      "ownerShipCategory": "INSTITUTIONALGOVERNMENT"
     },
     {
       "name": "State Government",
-      "code": "SG",
+      "code": "STATEGOVERNMENT",
       "active": true,
-      "ownerShipCategory": "GOVERNMENT"
+      "ownerShipCategory": "INSTITUTIONALGOVERNMENT"
     },
     {
       "name": "Central Government",
-      "code": "CG",
+      "code": "CENTRALGOVERNMENT",
       "active": true,
-      "ownerShipCategory": "GOVERNMENT"
-    },
-    {
-      "name": "Local Government",
-      "code": "LG",
-      "active": true,
-      "ownerShipCategory": "GOVERNMENT"
+      "ownerShipCategory": "INSTITUTIONALGOVERNMENT"
     }
   ]
 }
