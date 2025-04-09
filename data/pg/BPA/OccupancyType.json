@@ -2,7 +2,40 @@
   "tenantId":"pg",
   "moduleName":"BPA",
   "OccupancyType":[
-     {
+   {
+      "name":"Institutional",
+      "code":"I1",
+      "active":true,
+      "maxCoverage":65.0,
+      "minFar":3.0,
+      "maxFar":4.0,
+      "orderNumber":1,
+      "description":"Institutional",
+      "colorCode":null
+   }, 
+   {
+      "name":"Commercial",
+      "code":"C1",
+      "active":true,
+      "maxCoverage":65.0,
+      "minFar":3.0,
+      "maxFar":4.0,
+      "orderNumber":1,
+      "description":"Commercial",
+      "colorCode":null
+   }, 
+   {
+      "name":"Residential",
+      "code":"R1",
+      "active":true,
+      "maxCoverage":65.0,
+      "minFar":3.0,
+      "maxFar":4.0,
+      "orderNumber":1,
+      "description":"Residential",
+      "colorCode":null
+   },  
+   {
         "name":"Residential",
         "code":"A",
         "active":true,

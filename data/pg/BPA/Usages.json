@@ -3,6 +3,96 @@
   "moduleName": "BPA",
   "Usages": [
     {
+      "name": "Clinic",
+      "code": "CLI",
+      "active": true,
+      "occupancyType": "",
+      "subOccupancyType": "HF",
+      "description": "",
+      "orderNumber": ,
+      "colorCode": null
+    },
+    {
+      "name": "Hospital",
+      "code": "HOS",
+      "active": true,
+      "occupancyType": "",
+      "subOccupancyType": "HF",
+      "description": "",
+      "orderNumber": ,
+      "colorCode": null
+    },
+    {
+      "name": "Factories",
+      "code": "FAC",
+      "active": true,
+      "occupancyType": "",
+      "subOccupancyType": "IB",
+      "description": "",
+      "orderNumber": ,
+      "colorCode": null
+    },
+    {
+      "name": "Warehouses",
+      "code": "WAR",
+      "active": true,
+      "occupancyType": "",
+      "subOccupancyType": "IB",
+      "description": "",
+      "orderNumber": ,
+      "colorCode": null
+    },
+    {
+      "name": "Hotels",
+      "code": "HOT",
+      "active": true,
+      "occupancyType": "",
+      "subOccupancyType": "RS",
+      "description": "",
+      "orderNumber": ,
+      "colorCode": null
+    },
+    {
+      "name": "Restaurants",
+      "code": "RTU",
+      "active": true,
+      "occupancyType": "",
+      "subOccupancyType": "RS",
+      "description": "",
+      "orderNumber": ,
+      "colorCode": null
+    },
+    {
+      "name": "Showrooms",
+      "code": "SHO",
+      "active": true,
+      "occupancyType": "",
+      "subOccupancyType": "RS",
+      "description": "",
+      "orderNumber": ,
+      "colorCode": null
+    },
+    {
+      "name": "Residential",
+      "code": "RES",
+      "active": true,
+      "occupancyType": "",
+      "subOccupancyType": "MF",
+      "description": "",
+      "orderNumber": ,
+      "colorCode": null
+    },
+    {
+      "name": "Apartment",
+      "code": "APA",
+      "active": true,
+      "occupancyType": "",
+      "subOccupancyType": "IF",
+      "description": "",
+      "orderNumber": ,
+      "colorCode": null
+    },
+    {
       "name": "Single family",
       "code": "A-R-SF",
       "active": true,

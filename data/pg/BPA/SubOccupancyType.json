@@ -2,7 +2,91 @@
   "tenantId": "pg",
   "moduleName": "BPA",
   "SubOccupancyType": [
-    {
+   {
+      "name":"Healthcare Facilities ",
+      "code":"HF",
+      "active":true,
+      "occupancyType":"I1",
+      "maxCoverage":65.0,
+      "minFar":3.0,
+      "maxFar":4.0,
+      "orderNumber":1,
+      "description":"Sharing",
+      "colorCode":25
+   }, 
+   {
+      "name":"Government Buildings (Courthouses, City Halls)",
+      "code":"GB",
+      "active":true,
+      "occupancyType":"I1",
+      "maxCoverage":65.0,
+      "minFar":3.0,
+      "maxFar":4.0,
+      "orderNumber":1,
+      "description":"Sharing",
+      "colorCode":25
+   }, 
+   {
+      "name":"Industrial Buildings ",
+      "code":"IB",
+      "active":true,
+      "occupancyType":"C1",
+      "maxCoverage":65.0,
+      "minFar":3.0,
+      "maxFar":4.0,
+      "orderNumber":1,
+      "description":"Sharing",
+      "colorCode":25
+   }, 
+   {
+      "name":"Retail Stores ",
+      "code":"RS",
+      "active":true,
+      "occupancyType":"C1",
+      "maxCoverage":65.0,
+      "minFar":3.0,
+      "maxFar":4.0,
+      "orderNumber":1,
+      "description":"Sharing",
+      "colorCode":25
+   }, 
+   {
+      "name":"Office Buildings ",
+      "code":"OB",
+      "active":true,
+      "occupancyType":"C1",
+      "maxCoverage":65.0,
+      "minFar":3.0,
+      "maxFar":4.0,
+      "orderNumber":1,
+      "description":"Sharing",
+      "colorCode":25
+   }, 
+   {
+      "name":"Sharing ",
+      "code":"MF",
+      "active":true,
+      "occupancyType":"R1",
+      "maxCoverage":65.0,
+      "minFar":3.0,
+      "maxFar":4.0,
+      "orderNumber":1,
+      "description":"Sharing",
+      "colorCode":25
+   }, 
+   {
+      "name":"Independent ",
+      "code":"IF",
+      "active":true,
+      "occupancyType":"R1",
+      "maxCoverage":65.0,
+      "minFar":3.0,
+      "maxFar":4.0,
+      "orderNumber":1,
+      "description":"Independent",
+      "colorCode":25
+   }, 
+   {
          "name":"Residential",
          "code":"A-R",
          "active":true,
