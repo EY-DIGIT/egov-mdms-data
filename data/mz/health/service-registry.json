@@ -521,7 +521,7 @@
           "path": "/referralmanagement/beneficiary-downsync/v1/_get"
         },
         {
-          "action": "search",
+          "action": "clf_search",
           "entityName": "CLFDownsync",
           "path": "/referralmanagement/beneficiary-downsync/v1/_get/CLF/household"
         }
