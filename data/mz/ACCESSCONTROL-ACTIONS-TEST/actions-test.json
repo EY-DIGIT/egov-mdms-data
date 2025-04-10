@@ -15406,7 +15406,7 @@
     {
       "id": 2040,
       "name": "ID pool dispatch",
-      "url": "/health-idgen/id/id_pool/dispatch",
+      "url": "/health-idgen/id/id_pool/_dispatch",
       "parentModule": "",
       "displayName": "ID pool dispatch",
       "orderNumber": 0,
