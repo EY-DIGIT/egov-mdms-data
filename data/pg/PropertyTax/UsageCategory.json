@@ -4,7 +4,7 @@
   "UsageCategory": [
     {
       "name": "Residential",
-      "code": "RESIDENTIAL.RESIDENTIAL",
+      "code": "RESIDENTIAL",
       "active": true,
       "fromFY": "2015-16"
     },
