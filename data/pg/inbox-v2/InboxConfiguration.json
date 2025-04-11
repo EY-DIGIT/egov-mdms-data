@@ -481,7 +481,7 @@
       ],
       "sortBy": {
         "path": "Data.@timestamp",
-        "defaultOrder": "DESC"
+        "defaultOrder": "ASC"
       },
       "sourceFilterPathList": [
         "Data.currentProcessInstance",
@@ -554,7 +554,7 @@
       ],
       "sortBy": {
         "path": "Data.@timestamp",
-        "defaultOrder": "DESC"
+        "defaultOrder": "ASC"
       },
       "sourceFilterPathList": [
         "Data.currentProcessInstance",
@@ -565,7 +565,7 @@
         "Data.propertyId",
         "Data.workflow",
         "Data.locality",
-        "Data.name"
+        "Data.owners"
       ]
     },
     {
@@ -719,7 +719,7 @@
       ],
       "sortBy": {
         "path": "Data.@timestamp",
-        "defaultOrder": "DESC"
+        "defaultOrder": "ASC"
       },
       "sourceFilterPathList": [
         "Data.currentProcessInstance",
