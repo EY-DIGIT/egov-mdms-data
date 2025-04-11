@@ -17,22 +17,22 @@
       "fromFY": "2015-16"
     },
     {
-      "name": "Distribution",
-      "code": "DISTRIBUTION",
+      "name": "Fulfilment Centre",
+      "code": "FULFILMENTCENTRE",
       "usageCategorySubMinor": "WAREHOUSE",
       "active": true,
       "fromFY": "2015-16"
     },
     {
-      "name": "Electronics",
-      "code": "ELECTRONICS",
+      "name": "Apparel Retail",
+      "code": "APPARELRETAIL",
       "usageCategorySubMinor": "RETAILSTORE",
       "active": true,
       "fromFY": "2015-16"
     },
     {
-      "name": "Grocery",
-      "code": "GROCERY",
+      "name": "Electronics Retail",
+      "code": "ELECTRONICSRETAIL",
       "usageCategorySubMinor": "RETAILSTORE",
       "active": true,
       "fromFY": "2015-16"
