@@ -33036,6 +33036,36 @@
         "actionid": 65,
         "actioncode": "",
         "tenantId": "pg"
+    },
+    {
+        "rolecode": "PT_COLLECTION_EMP",
+        "actionid": 65,
+        "actioncode": "",
+        "tenantId": "pg"
+    },
+    {
+        "rolecode": "PT_DOC_VERIFIER",
+        "actionid": 65,
+        "actioncode": "",
+        "tenantId": "pg"
+    },
+    {
+        "rolecode": "PT_CEMP",
+        "actionid": 65,
+        "actioncode": "",
+        "tenantId": "pg"
+    },
+    {
+        "rolecode": "PT_FIELD_INSPECTOR",
+        "actionid": 65,
+        "actioncode": "",
+        "tenantId": "pg"
+    },
+    {
+        "rolecode": "PT_APPROVER",
+        "actionid": 65,
+        "actioncode": "",
+        "tenantId": "pg"
     }
   ]
 }
