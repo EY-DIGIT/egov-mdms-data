@@ -3,7 +3,7 @@
     "moduleName": "TradeLicense",
     "CommonFieldsConfig": [
       {
-        "head": "1",
+        "head": "",
         "body": [
           {
             "type": "component",
@@ -453,7 +453,7 @@
         ]
       },
       {
-        "head": "2",
+        "head": "",
         "body": [
           {
             "type": "component",
