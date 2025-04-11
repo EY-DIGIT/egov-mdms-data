@@ -564,7 +564,8 @@
         "Data.acknowldgementNumber",
         "Data.propertyId",
         "Data.workflow",
-        "Data.locality"
+        "Data.locality",
+        "Data.name"
       ]
     },
     {
