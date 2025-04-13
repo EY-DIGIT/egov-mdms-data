@@ -79,6 +79,11 @@
       "isStateLevel": true,
       "uniqueKeys": []
     },
+	"uiCommonConstants": {
+      "masterName": "uiCommonConstants",
+      "isStateLevel": true,
+      "uniqueKeys": []
+    },
     "IdFormat": {
       "masterName": "IdFormat",
       "moduleDefinition": null,
