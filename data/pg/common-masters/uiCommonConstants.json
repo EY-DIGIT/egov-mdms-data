@@ -24,7 +24,7 @@
                "home": {
                   "routePath": "/#/login/",
                   "isOrigin": false,
-                  "domain": "https://unified-qa-dashboard.digit.org",
+                  "domain": "https://urban.eydemoapp.in",
                   "title": "DASHBOARD_KUBE"
                }
             }
