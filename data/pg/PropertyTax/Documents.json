@@ -242,14 +242,15 @@
           "code": "OWNER.SPECIALCATEGORYPROOF.HANDICAPCERTIFICATE",
           "active": true,
           "parentValue": [
-            "HANDICAPPED"
+            "HANDICAPPED",
+            "DISABLED"
           ]
         },
         {
-          "code": "OWNER.SPECIALCATEGORYPROOF.BPLDOCUMENT",
+          "code": "OWNER.SPECIALCATEGORYPROOF.SENIORCITIZENID",
           "active": true,
           "parentValue": [
-            "BPL"
+            "SENIORCITIZEN"
           ]
         },
         {
