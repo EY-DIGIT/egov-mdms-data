@@ -4474,17 +4474,6 @@
       "leftIcon": "dynamic:MeasurementIcon"
     },
     {
-      "id": 382,
-      "name": "Collection Create Reciept",
-      "url": "/collection-services/payments/_create",
-      "displayName": "Create Payment",
-      "orderNumber": 0,
-      "enabled": false,
-      "serviceCode": "COLLECTION",
-      "code": "null",
-      "path": ""
-    },
-    {
       "id": 383,    
       "name": "Deviation Pdf",
       "url": "/egov-pdf/download/deviationStatement/deviation-statement",
