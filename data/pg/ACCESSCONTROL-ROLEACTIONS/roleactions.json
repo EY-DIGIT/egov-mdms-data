@@ -33066,6 +33066,42 @@
         "actionid": 65,
         "actioncode": "",
         "tenantId": "pg"
+    },
+    {
+        "rolecode": "BPA_NOC_VERIFIER",
+        "actionid": 65,
+        "actioncode": "",
+        "tenantId": "pg"
+    },
+    {
+        "rolecode": "BPA_FIELD_INSPECTOR",
+        "actionid": 65,
+        "actioncode": "",
+        "tenantId": "pg"
+    },
+    {
+        "rolecode": "BPA_VERIFIER",
+        "actionid": 65,
+        "actioncode": "",
+        "tenantId": "pg"
+    },
+    {
+        "rolecode": "CEMP",
+        "actionid": 65,
+        "actioncode": "",
+        "tenantId": "pg"
+    },
+    {
+        "rolecode": "FIRE_NOC_APPROVER",
+        "actionid": 65,
+        "actioncode": "",
+        "tenantId": "pg"
+    },
+    {
+        "rolecode": "BPA_APPROVER",
+        "actionid": 65,
+        "actioncode": "",
+        "tenantId": "pg"
     }
   ]
 }
