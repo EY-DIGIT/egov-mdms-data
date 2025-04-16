@@ -4,7 +4,7 @@
   "InboxQueryConfiguration": [
     {
       "module": "RAINMAKER-PGR",
-      "index": "pgr-services",
+      "index": "pgr-services-health",
       "allowedSearchCriteria": [
         {
           "name": "area",
