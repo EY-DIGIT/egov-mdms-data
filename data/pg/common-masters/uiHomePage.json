@@ -57,7 +57,7 @@
         }
       ]
     },
-    "informationAndUpdatesCard": {
+    "informationAndUpdatesCard-disabled": {
       "code": "HOME_CITIZEN_INFO_UPDATE_CARD",
       "name": "Home Citizen Information and Updates card",
       "enabled": true,
