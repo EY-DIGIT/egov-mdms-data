@@ -19186,7 +19186,7 @@
     {
         "id": 5423,
         "name": "PT_HOW_IT_WORKS",
-        "url": "digit-ui-card",
+        "url": "digit-ui-card-disabled",
         "displayName": "How It Works",
         "orderNumber": 9,
         "parentModule": "PT",
