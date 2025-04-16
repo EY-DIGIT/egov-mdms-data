@@ -798,7 +798,8 @@
         "Data.tradeLicenseDetail",
         "Data.tenantId",
         "Data.applicationNumber",
-        "Data.applicationDate"
+        "Data.applicationDate",
+        "Data.status"
       ]
     }
   ]
