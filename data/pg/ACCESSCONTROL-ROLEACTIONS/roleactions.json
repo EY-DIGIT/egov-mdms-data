@@ -33102,6 +33102,12 @@
         "actionid": 65,
         "actioncode": "",
         "tenantId": "pg"
+    },
+    {
+        "rolecode": "SYSTEM_PAYMENT",
+        "actionid": 4863,
+        "actioncode": "",
+        "tenantId": "pg"
     }
   ]
 }
