@@ -50,6 +50,12 @@
           "operator": "EQUAL"
         },
         {
+          "name": "complaintType",
+          "path": "Data.service.serviceCode.keyword",
+          "isMandatory": false,
+          "operator": "EQUAL"
+        },
+        {
           "name": "mobileNumber",
           "path": "Data.service.user.mobileNumber.keyword",
           "isMandatory": false,
