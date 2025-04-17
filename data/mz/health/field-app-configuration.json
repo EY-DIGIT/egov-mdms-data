@@ -126,6 +126,11 @@
           "name": "OTHER"
         }
       ],
+      "BENEFICIARY_ID_CONFIG":[
+        {
+          "MIN_COUNT":50
+        }
+      ],
       "HOUSEHOLD_DELETION_REASON_OPTIONS": [
         {
           "code": "HOUSEHOLD_RELOCATED",
