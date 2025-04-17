@@ -64,6 +64,7 @@
         "Data.service.serviceRequestId",
         "Data.service.address.locality.code",
         "Data.service.applicationStatus",
+        "Data.service.serviceCode",
         "Data.workflow",
         "Data.service.user",
         "Data.auditDetails",
