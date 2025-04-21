@@ -15438,6 +15438,18 @@
       "serviceCode": "null",
       "code": "null",
       "path": ""
+    },
+     {
+      "id": 2043,
+      "name": "Service Update",
+      "url": "/health-service-request/service/v1/_update",
+      "displayName": "Service update",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "service-request",
+      "code": "null",
+      "path": ""
     }
   ]
 }
