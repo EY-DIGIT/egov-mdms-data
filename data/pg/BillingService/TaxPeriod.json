@@ -2321,6 +2321,14 @@
       "service": "DEATH_CERT",
       "code": "DEATHCERT",
       "financialYear": "2019-30"
+    },
+    {
+      "fromDate": 1743445800000,
+      "toDate": 2090600999000,
+      "periodCycle": "TENYEARS",
+      "service": "WS.ONE_TIME_FEE",
+      "code": "WS10YRS2025",
+      "financialYear": "2025-36"
     }
   ]
 }
