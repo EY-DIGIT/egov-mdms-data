@@ -3175,7 +3175,7 @@
       "leftIcon": "",
       "url": "url",
       "name": "FSM EMPLOYEE COLLECT PAYMENT",
-      "enabled": true,
+      "enabled": false,
       "navigationURL": "/sanitation-ui/employee/fsm/collect-payment",
       "parentModule": "",
       "serviceCode": "",
