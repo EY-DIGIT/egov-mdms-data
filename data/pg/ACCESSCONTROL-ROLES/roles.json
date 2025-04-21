@@ -1027,6 +1027,26 @@
       "code": "SYSTEM_PAYMENT",
       "name": "System Payment Employee",
       "description": "Employee at the counter who performs assessment on behalf of citizen"
+    },
+    {
+      "code": "TL_CITIZEN",
+      "name": "Trade license Citizen",
+      "description": "Trade license for citizen"
+    },
+    {
+      "code": "PT_CITIZEN",
+      "name": "Property Tax Citizen",
+      "description": "Property Tax for citizen"
+    },
+    {
+      "code": "BPA_CITIZEN",
+      "name": "BPA Citizen",
+      "description": "BPA for citizen"
+    },
+    {
+      "code":"MC_CITIZEN",
+      "name":"MCollect Citizen",
+      "description":"MCollect for citizen"
     }
   ]
 }
