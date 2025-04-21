@@ -165,10 +165,10 @@
           ]
         },
         {
-          "code": "OWNER.SPECIALCATEGORYPROOF.BPLDOCUMENT",
+          "code": "OWNER.SPECIALCATEGORYPROOF.SENIORCITIZENID",
           "active": true,
           "parentValue": [
-            "BPL"
+            "SENIORCITIZEN"
           ]
         },
         {

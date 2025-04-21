@@ -1,8 +1,7 @@
 {
   "tenantId": "pg",
   "moduleName": "PropertyTax",
-  "SubOwnerShipCategory":
-  [
+  "SubOwnerShipCategory": [
     {
       "name": "Single Owner",
       "code": "SINGLEOWNER",
@@ -18,18 +17,6 @@
     {
       "name": "Private Company",
       "code": "PRIVATECOMPANY",
-      "active": true,
-      "ownerShipCategory": "INSTITUTIONALPRIVATE"
-    },
-    {
-      "name": "NGO",
-      "code": "NGO",
-      "active": true,
-      "ownerShipCategory": "INSTITUTIONALPRIVATE"
-    },
-    {
-      "name": "Private Trust",
-      "code": "PRIVATETRUST",
       "active": true,
       "ownerShipCategory": "INSTITUTIONALPRIVATE"
     },
@@ -54,18 +41,6 @@
     {
       "name": "Central Government",
       "code": "CENTRALGOVERNMENT",
-      "active": true,
-      "ownerShipCategory": "INSTITUTIONALGOVERNMENT"
-    },
-    {
-      "name": "Others - Private Instituition",
-      "code": "OTHERSPRIVATEINSTITUITION",
-      "active": true,
-      "ownerShipCategory": "INSTITUTIONALPRIVATE"
-    },
-    {
-      "name": "Others - Government Instituition",
-      "code": "OTHERGOVERNMENTINSTITUITION",
       "active": true,
       "ownerShipCategory": "INSTITUTIONALGOVERNMENT"
     }

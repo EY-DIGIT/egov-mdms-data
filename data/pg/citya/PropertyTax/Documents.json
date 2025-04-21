@@ -288,14 +288,15 @@
           "code": "OWNER.SPECIALCATEGORYPROOF.HANDICAPCERTIFICATE",
           "active": true,
           "parentValue": [
-            "HANDICAPPED"
+            "HANDICAPPED",
+            "DISABLED"
           ]
         },
         {
-          "code": "OWNER.SPECIALCATEGORYPROOF.BPLDOCUMENT",
+          "code": "OWNER.SPECIALCATEGORYPROOF.SENIORCITIZENID",
           "active": true,
           "parentValue": [
-            "BPL"
+            "SENIORCITIZEN"
           ]
         },
         {
@@ -303,6 +304,13 @@
           "active": true,
           "parentValue": [
             "WIDOW"
+          ]
+        },
+        {
+          "code": "OWNER.SPECIALCATEGORYPROOF.GENERALID",
+          "active": true,
+          "parentValue": [
+            "GENERAL"
           ]
         }
       ],

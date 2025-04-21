@@ -14,14 +14,6 @@
       {
         "code": "TRANSGENDER",
         "active": true
-      },
-      {
-        "code": "NONBINARY",
-        "active": true
-      },
-      {
-        "code": "PREFERNOTTODISCLOSE",
-        "active": true
       }
     ]
   }

@@ -5819,6 +5819,76 @@
       "order": "3",
       "isRequired": false,
       "IsBillamend": true
+    },
+    {
+      "category": "FEE",
+      "service": "1001.PKF",
+      "name": "1001.PKF_FEE",
+      "code": "1001.PKF_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": true
+    },
+    {
+      "category": "FEE",
+      "service": "1001.PEF",
+      "name": "1001.PEF_FEE",
+      "code": "1001.PEF_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "1004.SNT",
+      "name": "1004.SNT_TAX",
+      "code": "1004.SNT_TAX",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "1004.RDT",
+      "name": "1004.RDT_TAX",
+      "code": "1004.RDT_TAX",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "1003.ELT",
+      "name": "1003.ELT_CHARGES",
+      "code": "1003.ELT_CHARGES",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "1003.SEC",
+      "name": "1003.SEC_CHARGES",
+      "code": "1003.SEC_CHARGES",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": true
+    },
+    {
+      "category": "FINES",
+      "service": "1002.LIT",
+      "name": "1002.LIT_FINES",
+      "code": "1002.LIT_FINES",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": true
     }
   ]
 }

@@ -843,9 +843,37 @@
             "format": "SY-[cy:yyyy-MM-dd]-[SEQ_EG_DOC_ID]",
             "idname": "ss.surveyid"
         },
-	   {
+	{
       "format": "IND-[cy:yyyy-MM-dd]-[SEQ_ADDRESS_IND]",
       "idname": "individual.id"
-    }
+    	},
+	{
+	    "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+	    "idname": "1001.pef.receipt.id"
+	},
+	{
+	    "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+	    "idname": "1001.pkf.receipt.id"
+	},
+	{
+	    "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+	    "idname": "1004.snt.receipt.id"
+	},
+	{
+	    "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+	    "idname": "1004.rdt.receipt.id"
+	},
+	{
+	    "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+	    "idname": "1003.elt.receipt.id"
+	},
+	{
+	    "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+	    "idname": "1003.sec.receipt.id"
+	},
+	{
+	    "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+	    "idname": "1002.lit.receipt.id"
+	}
   ]
 }

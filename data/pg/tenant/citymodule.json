@@ -12,9 +12,6 @@
                     "code": "pg.cityb"
                 },
                 {
-                    "code": "pg.cityc"
-                },
-                {
                     "code": "pg.citya"
                 }
             ]
@@ -27,9 +24,6 @@
             "tenants": [
                 {
                     "code": "pg.cityb"
-                },
-                {
-                    "code": "pg.cityc"
                 },
                 {
                     "code": "pg.citya"
@@ -46,9 +40,6 @@
                     "code": "pg.cityb"
                 },
                 {
-                    "code": "pg.cityc"
-                },
-                {
                     "code": "pg.citya"
                 }
             ]
@@ -61,9 +52,6 @@
             "tenants": [
                 {
                     "code": "pg.cityb"
-                },
-                {
-                    "code": "pg.cityc"
                 },
                 {
                     "code": "pg.citya"
@@ -80,9 +68,6 @@
                     "code": "pg.cityb"
                 },
                 {
-                    "code": "pg.cityc"
-                },
-                {
                     "code": "pg.citya"
                 }
             ]
@@ -95,9 +80,6 @@
             "tenants": [
                 {
                     "code": "pg.cityb"
-                },
-                {
-                    "code": "pg.cityc"
                 },
                 {
                     "code": "pg.citya"
@@ -114,9 +96,6 @@
                     "code": "pg.cityb"
                 },
                 {
-                    "code": "pg.cityc"
-                },
-                {
                     "code": "pg.citya"
                 }
             ]
@@ -129,9 +108,6 @@
             "tenants": [
                 {
                     "code": "pg.cityb"
-                },
-                {
-                    "code": "pg.cityc"
                 },
                 {
                     "code": "pg.citya"
@@ -148,9 +124,6 @@
                    "code": "pg.cityb"
                },
                {
-                   "code": "pg.cityc"
-               },
-               {
                    "code": "pg.citya"
                }
            ]
@@ -163,9 +136,6 @@
         "tenants": [
             {
                 "code": "pg.cityb"
-            },
-            {
-                "code": "pg.cityc"
             },
             {
                 "code": "pg.citya"
@@ -181,9 +151,6 @@
                 "code": "pg.cityb"
             },
             {
-                "code": "pg.cityc"
-            },
-            {
                 "code": "pg.citya"
             }
         ]
@@ -196,9 +163,6 @@
            "tenants": [
                {
                    "code": "pg.cityb"
-               },
-               {
-                   "code": "pg.cityc"
                },
                {
                    "code": "pg.citya"
@@ -216,9 +180,6 @@
                 "code": "pg.cityb"
             },
             {
-                "code": "pg.cityc"
-            },
-            {
                 "code": "pg.citya"
             }
         ]
@@ -233,9 +194,6 @@
                 "code": "pg.cityb"
             },
             {
-                "code": "pg.cityc"
-            },
-            {
                 "code": "pg.citya"
             }
       ]
@@ -248,9 +206,6 @@
         "tenants": [
             {
                 "code": "pg.cityb"
-            },
-            {
-                "code": "pg.cityc"
             },
             {
                 "code": "pg.citya"
@@ -269,9 +224,6 @@
         },
         {
           "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
         }
 
       ]
@@ -288,9 +240,6 @@
         },
         {
           "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
         }
       ]
     },
@@ -305,9 +254,6 @@
         },
         {
           "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
         }
       ]
     },
@@ -322,9 +268,6 @@
         },
         {
           "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
         }
       ]
     },
@@ -340,9 +283,6 @@
         },
         {
           "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
         }
       ]
     },
@@ -357,9 +297,6 @@
         },
         {
           "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
         }
       ]
     },
@@ -374,9 +311,6 @@
         },
         {
           "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
         }
       ]
     },
@@ -392,9 +326,6 @@
         },
         {
           "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
         }
       ]
     },
@@ -410,9 +341,6 @@
         },
         {
           "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
         }
       ]
     },
@@ -439,9 +367,6 @@
         },
         {
           "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
         }
       ]
     },
@@ -457,12 +382,6 @@
         },
         {
           "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-	{
-          "code": "pg.balasore"
         }
       ]
     },
@@ -477,9 +396,6 @@
         },
         {
           "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
         }
       ]
     },
@@ -494,9 +410,6 @@
         },
         {
           "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
         }
       ]
     },
@@ -511,9 +424,6 @@
         },
         {
           "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
         }
       ]
     },
@@ -528,9 +438,6 @@
         },
         {
           "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
         }
       ]
     },
@@ -545,9 +452,6 @@
         },
         {
           "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
         }
       ]
     },
@@ -562,9 +466,6 @@
         },
         {
           "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
         }
       ]
     },
@@ -579,9 +480,6 @@
         },
         {
           "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
         }
       ]
     },
@@ -596,9 +494,6 @@
         },
         {
           "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
         }
       ]
     },
@@ -614,9 +509,6 @@
         },
         {
           "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
         }
       ]
     },
@@ -631,9 +523,6 @@
         },
         {
           "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
         }
       ]
     },
@@ -648,9 +537,6 @@
         },
         {
           "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
         }
       ]
     },
@@ -666,9 +552,6 @@
         },
         {
           "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
         }
       ]
     },
@@ -684,9 +567,6 @@
         },
         {
           "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
         }
       ]
     },
@@ -702,9 +582,6 @@
         },
         {
           "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
         }
       ]
     },
@@ -719,9 +596,6 @@
         },
         {
           "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
         }
       ]
     }

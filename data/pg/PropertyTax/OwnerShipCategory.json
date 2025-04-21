@@ -1,8 +1,7 @@
 {
   "tenantId": "pg",
   "moduleName": "PropertyTax",
-  "OwnerShipCategory":
-  [
+  "OwnerShipCategory": [
     {
       "name": "Individual(s)",
       "code": "INDIVIDUAL",
@@ -34,17 +33,6 @@
       "active": true
     },
     {
-      "name": "NGO",
-      "code": "INSTITUTIONALPRIVATE.NGO",
-      "active": true
-    },
-    {
-      "name": "Private Trust",
-      "code": "INSTITUTIONALPRIVATE.PRIVATETRUST",
-      "active": true
-    },
-   
-    {
       "name": "ULB Government",
       "code": "INSTITUTIONALGOVERNMENT.ULBGOVERNMENT",
       "active": true
@@ -53,7 +41,11 @@
       "name": "State Government",
       "code": "INSTITUTIONALGOVERNMENT.STATEGOVERNMENT",
       "active": true
+    },
+    {
+      "name": "Central Government",
+      "code": "INSTITUTIONALGOVERNMENT.CENTRALGOVERNMENT",
+      "active": true
     }
-  
   ]
 }

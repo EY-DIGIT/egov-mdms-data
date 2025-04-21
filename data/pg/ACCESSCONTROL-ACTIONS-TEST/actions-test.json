@@ -4474,17 +4474,6 @@
       "leftIcon": "dynamic:MeasurementIcon"
     },
     {
-      "id": 382,
-      "name": "Collection Create Reciept",
-      "url": "/collection-services/payments/_create",
-      "displayName": "Create Payment",
-      "orderNumber": 0,
-      "enabled": false,
-      "serviceCode": "COLLECTION",
-      "code": "null",
-      "path": ""
-    },
-    {
       "id": 383,    
       "name": "Deviation Pdf",
       "url": "/egov-pdf/download/deviationStatement/deviation-statement",
@@ -19186,7 +19175,7 @@
     {
         "id": 5423,
         "name": "PT_HOW_IT_WORKS",
-        "url": "digit-ui-card",
+        "url": "digit-ui-card-disabled",
         "displayName": "How It Works",
         "orderNumber": 9,
         "parentModule": "PT",
@@ -19222,7 +19211,7 @@
     {
         "id": 5425,
         "name": "FirenocCitizen",
-        "url": "digit-ui-card",
+        "url": "digit-ui-card-disabled",
         "displayName": "FireNoc Search",
         "orderNumber": 1,
         "parentModule": "FireNoc",
@@ -19240,7 +19229,7 @@
     {
         "id": 5426,
         "name": "BirthCitizen",
-        "url": "digit-ui-card",
+        "url": "digit-ui-card-disabled",
         "displayName": "Birth Search",
         "orderNumber": 1,
         "parentModule": "Birth",
@@ -19258,7 +19247,7 @@
     {
         "id": 5427,
         "name": "DeathCitizen",
-        "url": "digit-ui-card",
+        "url": "digit-ui-card-disabled",
         "displayName": "Death Search",
         "orderNumber": 1,
         "parentModule": "Death",
@@ -19441,7 +19430,7 @@
     {
         "id": 5440,
         "name": "ACTION_TEST_WNS_MY_BILLS",
-        "url": "digit-ui-card",
+        "url": "digit-ui-card-disabled",
         "displayName": "My Bills",
         "orderNumber": 2,
         "parentModule": "WS",
@@ -19459,7 +19448,7 @@
     {
         "id": 5441,
         "name": "ACTION_TEST_MY_PAYMENTS",
-        "url": "digit-ui-card",
+        "url": "digit-ui-card-disabled",
         "displayName": "My Payments",
         "orderNumber": 6,
         "parentModule": "WS",
@@ -19477,7 +19466,7 @@
     {
         "id": 5442,
         "name": "ACTION_TEST_APPLY_NEW_CONNECTION",
-        "url": "digit-ui-card",
+        "url": "digit-ui-card-disabled",
         "displayName": "Apply for New Connection",
         "orderNumber": 4,
         "parentModule": "WS",
@@ -19495,7 +19484,7 @@
     {
         "id": 5443,
         "name": "ACTION_TEXT_WS_SEARCH_AND_PAY",
-        "url": "digit-ui-card",
+        "url": "digit-ui-card-disabled",
         "displayName": "Search & Pay",
         "orderNumber": 1,
         "parentModule": "WS",
@@ -19513,7 +19502,7 @@
     {
         "id": 5444,
         "name": "ACTION_TEXT_WS_MY_APPLICATION",
-        "url": "digit-ui-card",
+        "url": "digit-ui-card-disabled",
         "displayName": "My Applications",
         "orderNumber": 5,
         "parentModule": "WS",
@@ -19531,7 +19520,7 @@
     {
         "id": 5445,
         "name": "ACTION_TEXT_WS_MY_CONNECTION",
-        "url": "digit-ui-card",
+        "url": "digit-ui-card-disabled",
         "displayName": "My Connections",
         "orderNumber": 3,
         "parentModule": "WS",
@@ -19585,7 +19574,7 @@
     {
         "id": 5448,
         "name": "CS_HOME_APPLY_FOR_DESLUDGING",
-        "url": "digit-ui-card",
+        "url": "digit-ui-card-disabled",
         "displayName": "Apply for Emptying of Septic Tank/Pit",
         "orderNumber": 1,
         "parentModule": "FSM",
@@ -19603,7 +19592,7 @@
     {
         "id": 5449,
         "name": "CS_HOME_MY_APPLICATIONS",
-        "url": "digit-ui-card",
+        "url": "digit-ui-card-disabled",
         "displayName": "My Applications",
         "orderNumber": 2,
         "parentModule": "FSM",
@@ -19621,7 +19610,7 @@
     {
         "id": 5450,
         "name": "CS_COMMON_FILE_A_COMPLAINT",
-        "url": "digit-ui-card",
+        "url": "digit-ui-card-disabled",
         "displayName": "File a Complaint",
         "orderNumber": 1,
         "parentModule": "PGR",
@@ -19639,7 +19628,7 @@
     {
         "id": 5451,
         "name": "CS_HOME_MY_COMPLAINTS",
-        "url": "digit-ui-card",
+        "url": "digit-ui-card-disabled",
         "displayName": "My Complaints",
         "orderNumber": 2,
         "parentModule": "PGR",
@@ -19801,7 +19790,7 @@
     {
         "id": 5460,
         "name": "ABG_SEARCH_BILL_COMMON_HEADER",
-        "url": "digit-ui-card",
+        "url": "digit-ui-card-disabled",
         "displayName": "Search Bills",
         "orderNumber": 1,
         "parentModule": "Bills",
@@ -19882,7 +19871,7 @@
     {
         "id": 5466,
         "name": "PRIVACY_AUDIT_REPORT",
-        "url": "digit-ui-card",
+        "url": "digit-ui-card-disabled",
         "displayName": "Privacy Audit Report",
         "orderNumber": 7,
         "parentModule": "WS",
@@ -19929,7 +19918,7 @@
     {
         "id": 5469,
         "name": "WS_FAQ_S",
-        "url": "digit-ui-card",
+        "url": "digit-ui-card-disabled",
         "displayName": "FAQs",
         "orderNumber": 8,
         "parentModule": "WS",
@@ -20857,6 +20846,90 @@
     "serviceCode": "trackingservice",
     "code": "null",
     "path": ""
-}
+   },
+   {
+      "id": 5551,
+      "name": "Park Entry Fee Payment search",
+      "url": "/collection-services/payments/1001.PEF/_search",
+      "displayName": "Park Entry Fee Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+  },
+  {
+      "id": 5552,
+      "name": "Parking Fee Payment search",
+      "url": "/collection-services/payments/1001.PKF/_search",
+      "displayName": "Parking Fee Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+  },
+  {
+      "id": 5553,
+      "name": "Sanitation Tax Payment search",
+      "url": "/collection-services/payments/1004.SNT/_search",
+      "displayName": "Sanitation Tax Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+  },
+  {
+      "id": 5554,
+      "name": "Road Tax Payment search",
+      "url": "/collection-services/payments/1004.RDT/_search",
+      "displayName": "Road Tax Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+  },
+  {
+      "id": 5555,
+      "name": "Electricity Charges Payment search",
+      "url": "/collection-services/payments/1003.ELT/_search",
+      "displayName": "Electricity Charges Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+  },
+  {
+      "id": 5556,
+      "name": "Security Charges Payment search",
+      "url": "/collection-services/payments/1003.SEC/_search",
+      "displayName": "Security Charges Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+  },
+  {
+      "id": 5557,
+      "name": "Littering Fine Payment search",
+      "url": "/collection-services/payments/1002.LIT/_search",
+      "displayName": "Littering Fine Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+  }
   ]
 }
