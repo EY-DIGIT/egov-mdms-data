@@ -3369,30 +3369,6 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "FSM_CREATOR_EMP",
-      "actionid": 225,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "FSM_EDITOR_EMP",
-      "actionid": 225,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "FSM_ADMIN",
-      "actionid": 225,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "FSM_DSO",
-      "actionid": 225,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
       "rolecode": "FSM_EMP_FSTPO",
       "actionid": 329,
       "actioncode": "",
