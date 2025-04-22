@@ -26204,6 +26204,24 @@
       "tenantId": "pg"
   },
   {
+      "rolecode": "WS_DOC_VERIFIER",
+      "actionid": 5138,
+      "actioncode": "",
+      "tenantId": "pg"
+  },
+  {
+      "rolecode": "WS_FIELD_INSPECTOR",
+      "actionid": 5138,
+      "actioncode": "",
+      "tenantId": "pg"
+  },
+  {
+      "rolecode": "WS_APPROVER",
+      "actionid": 5138,
+      "actioncode": "",
+      "tenantId": "pg"
+  },
+  {
       "rolecode": "SUPERUSER",
       "actionid": 5138,
       "actioncode": "",
