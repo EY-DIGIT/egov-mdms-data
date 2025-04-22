@@ -33108,7 +33108,127 @@
         "actionid": 4863,
         "actioncode": "",
         "tenantId": "pg"
-    }
+    },
+    {
+      "rolecode": "BPA_CITIZEN",
+      "actionid": 5455,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "BPA_CITIZEN",
+      "actionid": 5456,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "BPA_CITIZEN",
+      "actionid": 5457,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "BPA_CITIZEN",
+      "actionid": 5473,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "MC_CITIZEN",
+      "actionid": 5446,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "MC_CITIZEN",
+      "actionid": 5447,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "MC_CITIZEN",
+      "actionid": 5468,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+        "rolecode": "PT_CITIZEN",
+        "actionid": 5350,
+        "actioncode": "",
+        "tenantId": "pg"
+    },
+    {
+        "rolecode": "PT_CITIZEN",
+        "actionid": 5474,
+        "actioncode": "",
+        "tenantId": "pg"
+    },
+    {
+      "rolecode": "PT_CITIZEN",
+      "actionid": 5351,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "PT_CITIZEN",
+      "actionid": 5471,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "PT_CITIZEN",
+      "actionid": 5470,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "PT_CITIZEN",
+      "actionid": 5472,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "PT_CITIZEN",
+      "actionid": 5437,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "PT_CITIZEN",
+      "actionid": 5424,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "PT_CITIZEN",
+      "actionid": 5350,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "TL_CITIZEN",
+      "actionid": 5453,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "TL_CITIZEN",
+      "actionid": 5452,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "TL_CITIZEN",
+      "actionid": 5454,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "TL_CITIZEN",
+      "actionid": 5422,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
   ]
 }
  
