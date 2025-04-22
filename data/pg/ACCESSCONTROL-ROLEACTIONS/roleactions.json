@@ -33228,6 +33228,11 @@
       "actionid": 5422,
       "actioncode": "",
       "tenantId": "pg"
+    },{
+      "rolecode": "BPAREG_EMPLOYEE",
+      "actionid": 4991,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
