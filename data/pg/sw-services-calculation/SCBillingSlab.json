@@ -10,9 +10,14 @@
       "minimumCharge": 0,
       "slabs": [
         {
-          "from": 0,
+          "from": 1,
+          "to": 150,
+          "charge": 200
+        },
+        {
+          "from": 150,
           "to": 1000000000,
-          "charge": 15
+          "charge": 200
         }
       ]
     },
@@ -24,9 +29,14 @@
       "minimumCharge": 0,
       "slabs": [
         {
-          "from": 0,
+          "from": 1,
+          "to": 150,
+          "charge": 200
+        },
+        {
+          "from": 150,
           "to": 1000000000,
-          "charge": 15
+          "charge": 200
         }
       ]
     },
@@ -38,9 +48,14 @@
       "minimumCharge": 0,
       "slabs": [
         {
-          "from": 0,
+          "from": 150,
+          "to": 300,
+          "charge": 500
+        },
+        {
+          "from": 300,
           "to": 1000000000,
-          "charge": 30
+          "charge": 500
         }
       ]
     },
@@ -52,9 +67,14 @@
       "minimumCharge": 0,
       "slabs": [
         {
-          "from": 0,
+          "from": 150,
+          "to": 300,
+          "charge": 500
+        },
+        {
+          "from": 300,
           "to": 1000000000,
-          "charge": 30
+          "charge": 500
         }
       ]
     },
@@ -143,7 +163,18 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non Metered",
       "minimumCharge": 100,
-      "slabs": []
+      "slabs": [
+        {
+          "from": 1,
+          "to": 150,
+          "charge": 200
+        },
+        {
+          "from": 150,
+          "to": 1000000000,
+          "charge": 200
+        }
+      ]
     },
     {
       "id": "12",
@@ -151,7 +182,18 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non Metered",
       "minimumCharge": 250,
-      "slabs": []
+      "slabs": [
+        {
+          "from": 150,
+          "to": 300,
+          "charge": 500
+        },
+        {
+          "from": 300,
+          "to": 1000000000,
+          "charge": 500
+        }
+      ]
     },
     {
       "id": "13",

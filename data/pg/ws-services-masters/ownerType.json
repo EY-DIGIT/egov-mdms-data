@@ -3,18 +3,6 @@
   "moduleName": "ws-services-masters",
   "OwnerType": [
     {
-      "name": "Freedom ws-services-mastersFighter",
-      "code": "FREEDOMFIGHTER",
-      "active": true,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "type": "WS"
-    },
-    {
       "name": "Widow",
       "code": "WIDOW",
       "active": true,
@@ -27,8 +15,8 @@
       "type": "WS"
     },
     {
-      "name": "Handicapped Person",
-      "code": "HANDICAPPED",
+      "name": "Disabled",
+      "code": "DISABLED",
       "active": true,
       "applicationDocument": [
         "OWNERIDPROOF",
@@ -39,8 +27,8 @@
       "type": "WS"
     },
     {
-      "name": "Below Poverty Line",
-      "code": "BPL",
+      "name": "Senior Citizen",
+      "code": "SENIORCITIZEN",
       "active": true,
       "applicationDocument": [
         "OWNERIDPROOF",
