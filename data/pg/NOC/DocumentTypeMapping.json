@@ -18,7 +18,7 @@
             "docTypes": [
                 {
                     "documentType": "NOC.FIRE",
-                    "required": false
+                    "required": true
                 }
             ]
         },
@@ -48,7 +48,7 @@
             "docTypes": [
                 {
                     "documentType": "NOC.AIRPORT",
-                    "required": false
+                    "required": true
                 }
             ]
         },
