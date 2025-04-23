@@ -3394,12 +3394,6 @@
     },
     {
       "rolecode": "FSM_EMP_FSTPO",
-      "actionid": 341,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "FSM_EMP_FSTPO",
       "actionid": 342,
       "actioncode": "",
       "tenantId": "pg"
