@@ -3394,18 +3394,6 @@
     },
     {
       "rolecode": "FSM_EMP_FSTPO",
-      "actionid": 339,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "FSM_EMP_FSTPO",
-      "actionid": 340,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "FSM_EMP_FSTPO",
       "actionid": 341,
       "actioncode": "",
       "tenantId": "pg"
@@ -4175,12 +4163,6 @@
     {
       "rolecode": "FSM_EMP_FSTPO",
       "actionid": 310,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "FSM_EMP_FSTPO",
-      "actionid": 222,
       "actioncode": "",
       "tenantId": "pg"
     },
@@ -24344,19 +24326,7 @@
       "tenantId": "pg"
   },
   {
-      "rolecode": "FSM_EMP_FSTPO",
-      "actionid": 4737,
-      "actioncode": "",
-      "tenantId": "pg"
-  },
-  {
       "rolecode": "FSM_DSO",
-      "actionid": 4748,
-      "actioncode": "",
-      "tenantId": "pg"
-  },
-  {
-      "rolecode": "FSM_EMP_FSTPO",
       "actionid": 4748,
       "actioncode": "",
       "tenantId": "pg"
