@@ -19871,7 +19871,7 @@
     {
         "id": 5466,
         "name": "PRIVACY_AUDIT_REPORT",
-        "url": "digit-ui-card",
+        "url": "digit-ui-card-disabled",
         "displayName": "Privacy Audit Report",
         "orderNumber": 7,
         "parentModule": "WS",
