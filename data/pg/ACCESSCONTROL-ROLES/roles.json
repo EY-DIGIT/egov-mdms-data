@@ -1047,6 +1047,26 @@
       "code":"MC_CITIZEN",
       "name":"MCollect Citizen",
       "description":"MCollect for citizen"
+    },
+    {
+      "code":"WS_CITIZEN",
+      "name":"Water and Sewerage Citizen",
+      "description":"Water and Sewerage for citizen"
+    },
+    {
+      "code":"BD_CITIZEN",
+      "name":"Birth and Death Citizen",
+      "description":"Birth and Death for citizen"
+    },
+    {
+      "code":"FN_CITIZEN",
+      "name":"Fire Noc Citizen",
+      "description":"Fire Noc for citizen"
+    },
+    {
+      "code":"SY_CITIZEN",
+      "name":"Survey Citizen",
+      "description":"Survey for citizen"
     }
   ]
 }
