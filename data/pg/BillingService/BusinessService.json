@@ -368,6 +368,19 @@
       "isCitizen": true,
       "type": "Adhoc",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
+    },
+    {
+      "businessService": "FIRENOC",
+      "code": "FIRENOC",
+      "collectionModesNotAllowed": [
+        "DD","OFFLINE_NEFT","OFFLINE_RTGS","POSTAL_ORDER"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     }
   ]
 }
