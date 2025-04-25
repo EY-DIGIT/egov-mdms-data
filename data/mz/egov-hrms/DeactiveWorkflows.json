@@ -1,0 +1,10 @@
+{
+    "tenantId": "mz",
+    "moduleName": "egov-hrms",
+    "DeactiveWorkflows": [
+        {
+            "code": "ACTIVATE_EMPLOYEE_HEAD",
+            "name": "HR_ACTIVATE_EMPLOYEE_HEAD"
+        }
+    ]
+}
