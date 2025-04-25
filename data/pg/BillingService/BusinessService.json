@@ -381,6 +381,18 @@
       "isActive": true,
       "type": "Adhoc",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
+    },
+    {
+      "businessService": "FSM.TRIP_CHARGES",
+      "code": "FSM.TRIP_CHARGES",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": true,
+      "minAmountPayable": 200,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
     }
   ]
 }
