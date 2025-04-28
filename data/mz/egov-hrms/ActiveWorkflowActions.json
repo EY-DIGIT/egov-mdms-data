@@ -1,0 +1,18 @@
+{
+    "tenantId": "mz",
+    "moduleName": "egov-hrms",
+    "ActiveWorkflowActions": [
+        {
+            "code": "EDIT_CAMPAIGN_ASSIGNMENT",
+            "name": "HR_COMMON_EDIT_CAMPAIGNS_HEADER"
+        },
+        {
+            "code": "DEACTIVATE_EMPLOYEE_HEAD",
+            "name": "HR_DEACTIVATE_EMPLOYEE_HEAD"
+        },
+        {
+            "code": "COMMON_EDIT_EMPLOYEE_HEADER",
+            "name": "HR_COMMON_EDIT_EMPLOYEE_HEADER"
+        }
+    ]
+}
