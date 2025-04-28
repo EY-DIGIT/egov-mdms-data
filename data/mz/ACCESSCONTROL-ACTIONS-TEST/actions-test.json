@@ -15462,6 +15462,18 @@
       "serviceCode": "health-idgen",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2045,
+      "name": "HCM-ADMIN-CONSOLE.SimplifiedAppConfigOne update",
+      "url": "mdms-v2/v2/_update/HCM-ADMIN-CONSOLE.SimplifiedAppConfigOne ",
+      "parentModule": "",
+      "displayName": "HCM-ADMIN-CONSOLE.SimplifiedAppConfigOne update API",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "mdms",
+      "code": "null",
+      "path": ""
     }
   ]
 }
