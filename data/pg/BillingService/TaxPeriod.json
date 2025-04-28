@@ -403,6 +403,14 @@
       "financialYear": "2022-23"
     },
     {
+      "fromDate": 1427826600000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "ADMN.Election_rally_fees",
+      "code": "ADHAN2030",
+      "financialYear": "2015-30"
+    },
+    {
       "fromDate": 1617215400000,
       "toDate": 1648751399000,
       "periodCycle": "ANNUAL",

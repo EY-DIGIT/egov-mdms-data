@@ -4,7 +4,7 @@
   "InboxQueryConfiguration": [
     {
       "module": "RAINMAKER-PGR",
-      "index": "pgr-services",
+      "index": "pgr-services-health",
       "allowedSearchCriteria": [
         {
           "name": "area",
@@ -50,6 +50,12 @@
           "operator": "EQUAL"
         },
         {
+          "name": "complaintType",
+          "path": "Data.service.serviceCode.keyword",
+          "isMandatory": false,
+          "operator": "EQUAL"
+        },
+        {
           "name": "mobileNumber",
           "path": "Data.service.user.mobileNumber.keyword",
           "isMandatory": false,
@@ -64,6 +70,7 @@
         "Data.service.serviceRequestId",
         "Data.service.address.locality.code",
         "Data.service.applicationStatus",
+        "Data.service.serviceCode",
         "Data.workflow",
         "Data.service.user",
         "Data.auditDetails",
