@@ -3,23 +3,23 @@
   "moduleName": "common-masters",
   "OwnerType": [
     {
-      "code": "VETERANS",
+      "code": "WIDOW",
       "active": true
     },
     {
-      "code": "DISABLEDINDIVIDUALS",
+      "code": "DISABLED",
       "active": true
     },
     {
-      "code": "MINORITYAPPLICANTS",
+      "code": "DEFENSE",
       "active": true
     },
     {
-      "code": "LGBTQ+INDIVIDUALS",
+      "code": "SENIORCITIZEN",
       "active": true
     },
     {
-      "code": "ECONOMICALLYDISADVANTAGED",
+      "code": "NONE",
       "active": true
     }
   ]
