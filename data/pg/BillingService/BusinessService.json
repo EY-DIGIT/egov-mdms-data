@@ -354,7 +354,7 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "isCitizen": true,
-      "type": "Adhoc",
+      "type": "Adhoc-false",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
@@ -366,7 +366,7 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "isCitizen": true,
-      "type": "Adhoc",
+      "type": "Adhoc-false",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
@@ -379,7 +379,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc",
+      "type": "Adhoc-false",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
