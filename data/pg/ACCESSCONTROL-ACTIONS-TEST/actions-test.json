@@ -20857,6 +20857,18 @@
     "serviceCode": "trackingservice",
     "code": "null",
     "path": ""
-}
+  },
+    {
+      "id": 5551,
+      "name": "MDMS",
+      "url": "/mdms-v2/v2/_create/BillingService.BusinessService",
+      "displayName": "create Billing Master",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    }
   ]
 }
