@@ -54,6 +54,34 @@
           "label": "ACTION_TEST_BPA_STAKEHOLDER_HOME",
           "enabled": true,
           "navigationUrl": "/digit-ui/citizen/obps-home"
+        },
+        {
+          "code": "ACTION_TEST_WATER_AND_SEWERAGE",
+          "name": "Water & Sewerage",
+          "label": "ACTION_TEST_WATER_AND_SEWERAGE",
+          "enabled": true,
+          "navigationUrl": "/digit-ui/citizen/ws-home"
+        },
+        {
+          "code": "ACTION_TEST_FIRE_NOC",
+          "name": "Fire No Objection Certificate",
+          "label": "ACTION_TEST_FIRE_NOC",
+          "enabled": true,
+          "navigationUrl": "/digit-ui/citizen/fire-noc/home"
+        },
+        {
+          "code": "ACTION_TEST_BIRTH_CERTIFICATE",
+          "name": "Birth Certificate",
+          "label": "ACTION_TEST_BIRTH_CERTIFICATE",
+          "enabled": true,
+          "navigationUrl": "/digit-ui/citizen/birth-citizen/home"
+        },
+        {
+          "code": "ACTION_TEST_DEATH_CERTIFICATE",
+          "name": "Death Certificate",
+          "label": "ACTION_TEST_DEATH_CERTIFICATE",
+          "enabled": true,
+          "navigationUrl": "/digit-ui/citizen/death-citizen/home"
         }
       ]
     },
