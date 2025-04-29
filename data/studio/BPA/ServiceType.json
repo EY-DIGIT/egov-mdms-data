@@ -1,0 +1,28 @@
+{
+    "tenantId": "studio",
+    "moduleName": "BPA",
+    "ServiceType": [
+      {
+        "code": "NEW_CONSTRUCTION",
+        "active": true,
+        "applicationType":["BUILDING_PLAN_SCRUTINY","BUILDING_OC_PLAN_SCRUTINY"]
+      },
+      {
+        "code": "Renovation",
+        "active": true,
+        "applicationType":["BUILDING_PLAN_SCRUTINY","BUILDING_OC_PLAN_SCRUTINY"],
+        "description":"As per document"
+      },
+      {
+        "code": "Addition",
+        "active": true,
+        "applicationType":["BUILDING_PLAN_SCRUTINY","BUILDING_OC_PLAN_SCRUTINY"],
+        "description":"As per document"
+      },
+       {
+        "code": "NEW_CONSTRUCTION",
+        "active": true,
+        "applicationType":["BUILDING_PLAN_SCRUTINY","BUILDING_OC_PLAN_SCRUTINY"]
+      }
+    ]
+  }

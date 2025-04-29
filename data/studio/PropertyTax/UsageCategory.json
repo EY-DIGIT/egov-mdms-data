@@ -1,0 +1,210 @@
+{
+  "tenantId": "studio",
+  "moduleName": "PropertyTax",
+  "UsageCategory": [
+    {
+      "name": "Residential",
+      "code": "RESIDENTIAL",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Commercial",
+      "code": "NONRESIDENTIAL.COMMERCIAL",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "name": "Industrial",
+      "code": "NONRESIDENTIAL.INDUSTRIAL",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "name": "Institutional",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "name": "Factory",
+      "code": "NONRESIDENTIAL.INDUSTRIAL.FACTORY",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "name": "Warehouse",
+      "code": "NONRESIDENTIAL.INDUSTRIAL.WAREHOUSE",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "name": "Retail Store",
+      "code": "NONRESIDENTIAL.COMMERCIAL.RETAILSTORE",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "name": "Office Building",
+      "code": "NONRESIDENTIAL.COMMERCIAL.OFFICEBUILDING",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "name": "Educational",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL.EDUCATIONAL",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "name": "Healtcare",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL.HEALTHCARE",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "name": "Textile",
+      "code": "NONRESIDENTIAL.INDUSTRIAL.FACTORY.TEXTILE",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "name": "Automobile",
+      "code": "NONRESIDENTIAL.INDUSTRIAL.FACTORY.AUTOMOBILE",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "name": "Apparel Retail",
+      "code": "NONRESIDENTIAL.COMMERCIAL.RETAILSTORE.APPARELRETAIL",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "name": "Electronics Retail",
+      "code": "NONRESIDENTIAL.COMMERCIAL.RETAILSTORE.ELECTRONICSRETAIL",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "name": "Co Working",
+      "code": "NONRESIDENTIAL.COMMERCIAL.OFFICEBUILDING.COWORKING",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "name": "School",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL.EDUCATIONAL.SCHOOL",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "name": "University",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL.EDUCATIONAL.UNIVERSITY",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "name": "Diagnostics",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL.HEALTHCARE.DIAGNOSTICS",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "name": "Hospital",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL.HEALTHCARE.HOSPITAL",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+    "tenantId": "studio",
+    "moduleName": "NOC",
+    "DocumentTypeMapping": [
+        {
+            "applicationType": "PROVISIONAL",
+            "nocType": "FIRE_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.FIRE",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "FIRE_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.FIRE",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "applicationType": "RENEW",
+            "nocType": "FIRE_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.FIRE",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "applicationType": "PROVISIONAL",
+            "nocType": "AIRPORT_AUTHORITY",
+            "docTypes": [
+                {
+                    "documentType": "NOC.AIRPORT",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "AIRPORT_AUTHORITY",
+            "docTypes": [
+                {
+                    "documentType": "NOC.AIRPORT",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "applicationType": "RENEW",
+            "nocType": "AIRPORT_AUTHORITY",
+            "docTypes": [
+                {
+                    "documentType": "NOC.AIRPORT",
+                    "required": false
+                }
+            ]
+        }
+    ]
+}

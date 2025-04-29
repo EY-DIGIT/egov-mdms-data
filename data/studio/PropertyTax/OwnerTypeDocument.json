@@ -1,0 +1,30 @@
+{
+  "tenantId": "studio",
+  "moduleName": "PropertyTax",
+  "OwnerTypeDocument": [
+    {
+      "name": "Senior Citizen ID proof",
+      "code": "SENIORCITIZENID",
+      "ownerTypeCode": "SENIORCITIZEN",
+      "active": true
+    },
+    {
+      "name": "Death Certificate",
+      "code": "DEATHCERTIFICATE",
+      "ownerTypeCode": "WIDOW",
+      "active": true
+    },
+    {
+      "name": "Certificate from authorized personnel",
+      "code": "HANDICAPCERTIFICATE",
+      "ownerTypeCode": "DISABLED",
+      "active": true
+    },
+    {
+      "name": "Defence ID proof",
+      "code": "DEFENCEID",
+      "ownerTypeCode": "DEFENSE",
+      "active": true
+    }
+  ]
+}

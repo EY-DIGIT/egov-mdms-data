@@ -1,0 +1,30 @@
+{
+  "tenantId": "studio",
+  "moduleName": "ws-services-calculation",
+  "RoadType": [
+    {
+      "name": "Main Road",
+      "code": "RD1",
+      "unitCost": 6,
+      "isActive": true
+    },
+    {
+      "name": "Internal Road",
+      "code": "RD2",
+      "unitCost": 120,
+      "isActive": true
+    },
+    {
+      "name": "Highway",
+      "code": "RD3",
+      "unitCost": 30,
+      "isActive": true
+    },
+    {
+      "name": "Unpaved Road",
+      "code": "RD4",
+      "unitCost": 180,
+      "isActive": true
+    }
+  ]
+}

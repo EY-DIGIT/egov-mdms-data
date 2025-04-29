@@ -1,0 +1,10 @@
+{
+  "tenantId": "studio",
+  "moduleName": "ws-services-masters",
+  "PropertySearch": [
+    {
+      "code": "allowCitizenToUseAnyProperty",
+      "enabled": true
+    }
+  ]
+}

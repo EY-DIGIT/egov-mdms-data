@@ -1,0 +1,23 @@
+{
+    "tenantId": "studio",
+    "moduleName": "TradeLicense",
+    "Documents": [
+        {
+            "code": "OWNER.OWNERIDPROOF",
+            "documentType": "OWNER",
+            "required": true,
+            "active": true,
+            "dropdownData": [
+                {
+                    "code": "OWNER.IDENTIFICATIONPROOF",
+                    "active": false
+                },
+                {
+                    "code": "OWNER.BUSINESSREGISTRATIONCERTIFICATE",
+                    "active": false
+                }
+            ],
+            "description": "OWNER.OWNERIDPROOF.OWNERIDPROOF_DESCRIPTION"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+  "tenantId": "studio",
+  "moduleName": "common-masters",
+  "OwnerType": [
+    {
+      "code": "VETERANS",
+      "active": true
+    },
+    {
+      "code": "DISABLEDINDIVIDUALS",
+      "active": true
+    },
+    {
+      "code": "MINORITYAPPLICANTS",
+      "active": true
+    },
+    {
+      "code": "LGBTQ+INDIVIDUALS",
+      "active": true
+    },
+    {
+      "code": "ECONOMICALLYDISADVANTAGED",
+      "active": true
+    }
+  ]
+}

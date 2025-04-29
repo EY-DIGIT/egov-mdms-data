@@ -1,0 +1,22 @@
+{
+  "tenantId": "studio",
+  "moduleName": "PropertyTax",
+  "Interest": [
+    {
+      "rate": 18,
+      "minAmount": 200,
+      "flatAmount": 100,
+      "maxAmount": 20000,
+      "fromFY": "2022-23",
+      "startingDay": "1/04/2022"
+    },
+    {
+      "rate": 20,
+      "minAmount": 400,
+      "flatAmount": 500,
+      "maxAmount": 50000,
+      "fromFY": "2025-26",
+      "startingDay": "1/04/2025"
+    }
+  ]
+}

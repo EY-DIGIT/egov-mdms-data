@@ -1,0 +1,18 @@
+{
+  "tenantId": "studio",
+  "moduleName": "PropertyTax",
+  "ConstructionSubType": [
+    {
+      "id": "1",
+      "name": "Permanent",
+      "code": "PERMANENT",
+      "active": true
+    },
+    {
+      "id": "2",
+      "name": "Temporary",
+      "code": "TEMPORARY",
+      "active": true
+    }
+  ]
+}

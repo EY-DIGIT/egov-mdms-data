@@ -1,0 +1,20 @@
+{
+  "tenantId": "studio",
+  "moduleName": "PropertyTax",
+  "Rebate": [
+    {
+      "rate": 10,
+      "maxAmount": 500,
+      "flatAmount": 300,
+      "fromFY": "2022-23",
+      "endingDay": "30/06"
+    },
+    {
+      "rate": 15,
+      "maxAmount": 1000,
+      "flatAmount": 500,
+      "fromFY": "2025-26",
+      "endingDay": "30/06"
+    }
+  ]
+}

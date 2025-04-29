@@ -1,0 +1,24 @@
+{
+  "tenantId": "studio",
+  "moduleName": "PropertyTax",
+  "PropertySubType": [
+    {
+      "name": "Flat/Part of the building",
+      "code": "SHAREDPROPERTY",
+      "active": true,
+      "propertyType": "BUILTUP"
+    },
+    {
+      "name": "Independent Building",
+      "code": "INDEPENDENTPROPERTY",
+      "active": true,
+      "propertyType": "BUILTUP"
+    },
+    {
+      "name": "Vacant Land",
+      "code": "LAND",
+      "active": true,
+      "propertyType": "VACANT"
+    }
+  ]
+}

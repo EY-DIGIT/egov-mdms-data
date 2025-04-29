@@ -1,0 +1,2342 @@
+{
+  "tenantId": "studio",
+  "moduleName": "BillingService",
+  "TaxPeriod": [
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "1001.PKF",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "1001.PEF",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "1004.SNT",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "1004.RDT",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "1003.ELT",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "1003.SEC",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "1002.LIT",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1743445800000,
+      "toDate": 1774981799000,
+      "periodCycle": "ANNUAL",
+      "service": "FIRENOC",
+      "code": "FIRENOCAN2025",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1774981800000,
+      "toDate": 1806517799000,
+      "periodCycle": "ANNUAL",
+      "service": "PT.MUTATION",
+      "code": "PTMUTAN2026",
+      "financialYear": "2026-27"
+    },
+    {
+      "fromDate": 1743445800000,
+      "toDate": 1774981799000,
+      "periodCycle": "ANNUAL",
+      "service": "PT.MUTATION",
+      "code": "PTMUTAN2025",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1774981800000,
+      "toDate": 1806517799000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLRENEWAL2026",
+      "financialYear": "2026-27"
+    },
+    {
+      "fromDate": 1774981800000,
+      "toDate": 1806517799000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLAN2026",
+      "financialYear": "2026-27"
+    },
+    {
+      "fromDate": 1743445800000,
+      "toDate": 1774981799000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLRENEWAL2025",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1743445800000,
+      "toDate": 1774981799000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLAN2025",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1743445800000,
+      "toDate": 1774981799000,
+      "periodCycle": "ANNUAL",
+      "service": "WS",
+      "code": "WC2025",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1743445800000,
+      "toDate": 1774981799000,
+      "periodCycle": "ANNUAL",
+      "service": "SW",
+      "code": "SC2025",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1743445800000,
+      "toDate": 1774981799000,
+      "periodCycle": "ANNUAL",
+      "service": "PT",
+      "code": "PTAN2025",
+      "financialYear": "2025-26"
+    },
+        {
+      "fromDate": 1427826600000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "ADMN.Election_rally_fees",
+      "code": "ADHAN2030",
+      "financialYear": "2015-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "ADMN.No_Dues_Certificate,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "ADMN.Parking_Booking_Fee,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "ADMN.Parking_during_election,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "ADMN.RTI,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "ADMN.Road_show,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "ADVT.Canopy_Fee,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "ADVT.Gas_Balloon_Advertisement,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "ADVT.Hoardings,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "ADVT.Light_Wala_Board,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "ADVT.Outdoor_Media_Display_Fee,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "ADVT.Unipolls,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "ADVT.Wall_Paint_Advertisement,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "BIRTH_CERT.BIRTH_CERT,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "CH.Bidi_&_Cigrette_Challan,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "CH.Buring_of_Waste_Challan_fee,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "CH.Cattle_Challan,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "CH.Challan_for_Misuse_of_Water,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "CH.Collection_and_Demolition_Waste_Challan_fee,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "CH.Dairy_Animals_Challan,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "CH.Dengue_Challan,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "CH.Littering_Challan,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "CH.Plastic_Challan,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "CH.Rehri_Challan,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "CH.SBM_garbage_plastic_polythene_challan,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "CH.Santitation_dumping_garbage,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "CSS.Cow_Cess,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "CSS.Labor_Cess,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "DEATH_CERT,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "DISP_FIXED_ASSET.BUILDING,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "DISP_FIXED_ASSET.LAND,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "DISP_FIXED_ASSET.MOTOR_VEHICLE,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "FN.Advance_Provident_Fund,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "FN.CPF_received_check,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "FN.GPF,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "FN.Grants_cheque,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "FN.PF_transfer_(Accounts),",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "FN.Recovery_employee/contractor,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "FN.Security_Deposit_Fee_Refundable_Fee,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "FTP.Architect_license_fee,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "FTP.Building_planner_renew,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "FTP.Composition_fees,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "FTP.Construction_Waste,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "FTP.Demolition_Waste,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "FTP.Draftsmen_fees,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "FTP.Leave_encashment_and_gratuity,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "FTP.License_fees_building_branch,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "FTP.Telecom_tower_fees,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "LCF.Rehri_Rickshaw_Fee,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "LCF.Trade_License_Fee,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "NKS.2_year_time_limit_of_Renewal_Building_Naksha,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "NKS.Alteration_additional_charge,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "NKS.Boundary_Wall_fees,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "NKS.Building_fees,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "NKS.Building_safety_Certificate_fee,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "NKS.Change_of_Land_Use_Fees,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "NKS.Colony_Sambandhi_fees,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "NKS.Development_fees,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "NKS.Economic_Weaker_Section_Projects_Fees,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "NKS.Economic_Weaker_Section_Scheme_Charges,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "NKS.Hadud_Certificate_Fees,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "NKS.Information_Certificate_fee,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "NKS.Malba_fees,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "NKS.NOC/Completion_of_building_approval,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "NKS.Naksha_changes,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "NKS.Naksha_fees,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "NKS.Naksha_renew_fees,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "NKS.Naksha_samjota_fees,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "NKS.No_Dues_Certificate,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "NKS.Rain_Harvesting_Charges,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "NKS.Regularisation_of_Buildings,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "NKS.Sub_division_charges_fee,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "NKS.Under_Development_Fees,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "OM.Plumber_License_Fee,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "OM.Road_Cut_Fees,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "OM.Sewerage_Disconnection_Connection_Fees,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "OM.Water_connection/disconnection_fees,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "OTHER.Bus_Adda_Fee,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "OTHER.Candy_fee_Slaughter_House,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "OTHER.Conservancy_fee,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "OTHER.Dispensary_Fee,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "OTHER.Dog_Registration,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "OTHER.Fire_Call_Report_Fee,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "OTHER.Fire_NOC_fee,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "OTHER.Fire_Tender_Fee,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "OTHER.License_fee_Slaughter_House,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "OTHER.Misc_Challans,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "OTHER.NOC_Fees,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "OTHER.No_Due_Certificate_electricity,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "OTHER.Other_fees,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "OTHER.Registery_and_bank_loan,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "OTHER.Sale_of_Compost_Fees,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "OTHER.Sale_of_Recyclable_Fees,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "OTHER.Street_Light_Pole_Transfer_fee,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "OTHER.Swimming_Pool_And_Gymnactics_Hall_Fees,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "OTHER.Water_Charges,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "REV_GRANTS,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "RT.Commercial_Use_of_Municipal_Land,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "RT.Community_Centre_Booking_Fee,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "RT.Jamin_Theka,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "RT.Land_Rent,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "RT.Municipal_Shops_Rent,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "RT.Parking_Fee,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "RT.Sale_of_Land,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "RT.Service_Tax_GST_of_Rent_of_MC_Properties,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "RT.Street_Vendor,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "RT.Street_vendor_ICARD/Certificate_Fees,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "RT.Tower_Annual_Rent,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "RT.Tower_Installation,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "RT.Tower_Rent,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "SNT.Dead_animals_contract,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "SNT.Licence_Pure_food,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "SNT.clean_safai_sanitation,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "ST.Expenditure_santitation_Not_Income,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "ST.Stationary_Not_Income,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "TB.Advertisement_fee,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "TB.Rehri_Rickshaw_Challan,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "TB.Tehbazaari,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "TX.Electricity_Chungi,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "TX.House_Tax,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "TX.No_Dues_Certificate,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "TX.Property_Tax_Dishonoured_Cheque_Payment,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "TX.Property_tax_13_14,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "TX.TS1_copy_register_for_old_survey,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "TX.Transfer_Property_Fees,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "Tehbazaari Fee.Challan_Under_section_156_121_etc,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "WF.Contractor_Enlistment,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "WF.OFC_Permission_fees,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1270060200000,
+      "toDate": 1901212199000,
+      "periodCycle": "20 Years",
+      "service": "WF.Tender Form Fee,",
+      "code": "TXPTAN2030",
+      "financialYear": " 2010-30"
+    },
+    {
+      "fromDate": 1711909800000,
+      "toDate": 1901212199000,
+      "periodCycle": "TWOYEARS",
+      "service": "WS",
+      "code": "WC2024",
+      "financialYear": "2024-25"
+    },
+    {
+      "fromDate": 1711909800000,
+      "toDate": 1901212199000,
+      "periodCycle": "TWOYEARS",
+      "service": "SW",
+      "code": "SC2024",
+      "financialYear": "2024-25"
+    },
+    {
+      "fromDate": 1711909800000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "PT",
+      "code": "PTAN2024",
+      "financialYear": "2024-25"
+    },
+    {
+      "fromDate": 1680287400000,
+      "toDate": 1711909799000,
+      "periodCycle": "ANNUAL",
+      "service": "PT",
+      "code": "PTAN2023",
+      "financialYear": "2023-24"
+    },
+    {
+      "fromDate": 1648751400000,
+      "toDate": 1680287399000,
+      "periodCycle": "ANNUAL",
+      "service": "PT",
+      "code": "PTAN2022",
+      "financialYear": "2022-23"
+    },
+    {
+      "fromDate": 1617215400000,
+      "toDate": 1648751399000,
+      "periodCycle": "ANNUAL",
+      "service": "PT",
+      "code": "PTAN2021",
+      "financialYear": "2021-22"
+    },
+    {
+      "fromDate": 1585679400000,
+      "toDate": 1617175799000,
+      "periodCycle": "ANNUAL",
+      "service": "PT",
+      "code": "PTAN2020",
+      "financialYear": "2020-21"
+    },
+    {
+      "fromDate": 1554076799000,
+      "toDate": 1585679399000,
+      "periodCycle": "ANNUAL",
+      "service": "PT",
+      "code": "PTAN2019",
+      "financialYear": "2019-20"
+    },
+    {
+      "fromDate": 1522540800000,
+      "toDate": 1554076799000,
+      "periodCycle": "ANNUAL",
+      "service": "PT",
+      "code": "PTAN2018",
+      "financialYear": "2018-19"
+    },
+    {
+      "fromDate": 1491004800000,
+      "toDate": 1522540798000,
+      "periodCycle": "ANNUAL",
+      "service": "PT",
+      "code": "PTAN2017",
+      "financialYear": "2017-18"
+    },
+    {
+      "fromDate": 1459468800000,
+      "toDate": 1491004799000,
+      "periodCycle": "ANNUAL",
+      "service": "PT",
+      "code": "PTAN2016",
+      "financialYear": "2016-17"
+    },
+    {
+      "fromDate": 1711909800000,
+      "toDate": 1743445799000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLAN2024",
+      "financialYear": "2024-25"
+    },
+    {
+      "fromDate": 1680287400000,
+      "toDate": 1711909799000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLAN2023",
+      "financialYear": "2023-24"
+    },
+    {
+      "fromDate": 1680287400000,
+      "toDate": 1711909799000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLRENEWAL2023",
+      "financialYear": "2023-24"
+    },
+    {
+      "fromDate": 1648751400000,
+      "toDate": 1680287399000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLAN2022",
+      "financialYear": "2022-23"
+    },
+     {
+      "fromDate": 1617215400000,
+      "toDate": 1648751399000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLAN2021",
+      "financialYear": "2021-22"
+    },
+    {
+      "fromDate": 1522540800000,
+      "toDate": 1554076799000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLAN2018",
+      "financialYear": "2018-19"
+    },
+    {
+      "fromDate": 1491004800000,
+      "toDate": 1522540798000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLAN2017",
+      "financialYear": "2017-18"
+    },
+    {
+      "fromDate": 1459468800000,
+      "toDate": 1491004799000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLAN2016",
+      "financialYear": "2016-17"
+    },
+    {
+      "fromDate": 1554076799000,
+      "toDate": 1585679399000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLAN2019",
+      "financialYear": "2019-20"
+    },
+    {
+      "fromDate": 1711909800000,
+      "toDate": 1743445799000,
+      "periodCycle": "ANNUAL",
+      "service": "FIRENOC",
+      "code": "FIRENOCAN2024",
+      "financialYear": "2024-25"
+    },
+    {
+      "fromDate": 1648751400000,
+      "toDate": 1680287399000,
+      "periodCycle": "ANNUAL",
+      "service": "FIRENOC",
+      "code": "FIRENOCAN2022",
+      "financialYear": "2022-23"
+    },
+    {
+      "fromDate": 1554076799000,
+      "toDate": 1585679399000,
+      "periodCycle": "ANNUAL",
+      "service": "FIRENOC",
+      "code": "FIRENOCAN2019",
+      "financialYear": "2019-20"
+    },
+    {
+      "fromDate": 1522540800000,
+      "toDate": 1554076799000,
+      "periodCycle": "ANNUAL",
+      "service": "FIRENOC",
+      "code": "FIRENOCAN2018",
+      "financialYear": "2018-19"
+    },
+    {
+      "fromDate": 1491004800000,
+      "toDate": 1522540798000,
+      "periodCycle": "ANNUAL",
+      "service": "FIRENOC",
+      "code": "FIRENOCAN2017",
+      "financialYear": "2017-18"
+    },
+    {
+      "fromDate": 1459468800000,
+      "toDate": 1491004799000,
+      "periodCycle": "ANNUAL",
+      "service": "FIRENOC",
+      "code": "FIRENOCAN2016",
+      "financialYear": "2016-17"
+    },
+    {
+      "fromDate": 1711909800000,
+      "toDate": 1743445799000,
+      "periodCycle": "ANNUAL",
+      "service": "TX.No_Dues_Certificate",
+      "code": "TXNDCAN2024",
+      "financialYear": "2024-25"
+    },
+    {
+      "fromDate": 1648751400000,
+      "toDate": 1680287399000,
+      "periodCycle": "ANNUAL",
+      "service": "TX.No_Dues_Certificate",
+      "code": "TXNDCAN2022",
+      "financialYear": "2022-23"
+    },
+    {
+      "fromDate": 1617215400000,
+      "toDate": 1648751399000,
+      "periodCycle": "ANNUAL",
+     "service": "TX.No_Dues_Certificate",
+      "code": "TXNDCAN2021",
+      "financialYear": "2021-22"
+    },
+    {
+      "fromDate": 1585704194000,
+      "toDate": 1617235154000,
+      "periodCycle": "ANNUAL",
+     "service": "TX.No_Dues_Certificate",
+      "code": "TXNDCAN2017",
+      "financialYear": "2020-21"
+    },
+    {
+      "fromDate": 1554076799000,
+      "toDate": 1585679399000,
+      "periodCycle": "ANNUAL",
+      "service": "TX.No_Dues_Certificate",
+      "code": "TXNDCAN2019",
+      "financialYear": "2019-20"
+    },
+    {
+      "fromDate": 1522540800000,
+      "toDate": 1554076799000,
+      "periodCycle": "ANNUAL",
+      "service": "TX.No_Dues_Certificate",
+      "code": "TXNDCAN2018",
+      "financialYear": "2018-19"
+    },
+    {
+      "fromDate": 1491004800000,
+      "toDate": 1522540798000,
+      "periodCycle": "ANNUAL",
+      "service": "TX.No_Dues_Certificate",
+      "code": "TXNDCAN2017",
+      "financialYear": "2017-18"
+    },
+    {
+      "fromDate": 1648751400000,
+      "toDate": 1680287399000,
+      "periodCycle": "ANNUAL",
+      "service": "TX.Electricity_Chungi",
+      "code": "TXNDCAN2022",
+      "financialYear": "2022-23"
+    },
+    {
+      "fromDate": 1617215400000,
+      "toDate": 1648751399000,
+      "periodCycle": "ANNUAL",
+     "service": "TX.Electricity_Chungi",
+      "code": "TXNDCAN2021",
+      "financialYear": "2021-22"
+    },
+    {
+      "fromDate": 1585704194000,
+      "toDate": 1617235154000,
+      "periodCycle": "ANNUAL",
+     "service": "TX.Electricity_Chungi",
+      "code": "TXNDCAN2017",
+      "financialYear": "2020-21"
+    },
+    {
+      "fromDate": 1554076799000,
+      "toDate": 1585679399000,
+      "periodCycle": "ANNUAL",
+      "service": "TX.Electricity_Chungi",
+      "code": "TXNDCAN2019",
+      "financialYear": "2019-20"
+    },
+    {
+      "fromDate": 1522540800000,
+      "toDate": 1554076799000,
+      "periodCycle": "ANNUAL",
+      "service": "TX.Electricity_Chungi",
+      "code": "TXNDCAN2018",
+      "financialYear": "2018-19"
+    },
+    {
+      "fromDate": 1711909800000,
+      "toDate": 1743445799000,
+      "periodCycle": "ANNUAL",
+      "service": "TX.TS1_copy_register_for_old_survey",
+      "code": "TXNDCAN2024",
+      "financialYear": "2024-25"
+    },
+    {
+      "fromDate": 1648751400000,
+      "toDate": 1680287399000,
+      "periodCycle": "ANNUAL",
+      "service": "TX.TS1_copy_register_for_old_survey",
+      "code": "TXNDCAN2022",
+      "financialYear": "2022-23"
+    },
+    {
+      "fromDate": 1617215400000,
+      "toDate": 1648751399000,
+      "periodCycle": "ANNUAL",
+     "service": "TX.TS1_copy_register_for_old_survey",
+      "code": "TXNDCAN2021",
+      "financialYear": "2021-22"
+    },
+    {
+      "fromDate": 1585704194000,
+      "toDate": 1617235154000,
+      "periodCycle": "ANNUAL",
+     "service": "TX.TS1_copy_register_for_old_survey",
+      "code": "TXNDCAN2017",
+      "financialYear": "2020-21"
+    },
+    {
+      "fromDate": 1554076799000,
+      "toDate": 1585679399000,
+      "periodCycle": "ANNUAL",
+      "service": "TX.TS1_copy_register_for_old_survey",
+      "code": "TXNDCAN2019",
+      "financialYear": "2019-20"
+    },
+    {
+      "fromDate": 1522540800000,
+      "toDate": 1554076799000,
+      "periodCycle": "ANNUAL",
+      "service": "TX.TS1_copy_register_for_old_survey",
+      "code": "TXNDCAN2018",
+      "financialYear": "2018-19"
+    },
+    {
+      "fromDate": 1711909800000,
+      "toDate": 1743445799000,
+      "periodCycle": "ANNUAL",
+      "service": "TX.Transfer_Property_Fees",
+      "code": "TXNDCAN2024",
+      "financialYear": "2024-25"
+    },
+    {
+      "fromDate": 1648751400000,
+      "toDate": 1680287399000,
+      "periodCycle": "ANNUAL",
+      "service": "TX.Transfer_Property_Fees",
+      "code": "TXNDCAN2022",
+      "financialYear": "2022-23"
+    },
+    {
+      "fromDate": 1617215400000,
+      "toDate": 1648751399000,
+      "periodCycle": "ANNUAL",
+     "service": "TX.Transfer_Property_Fees",
+      "code": "TXNDCAN2021",
+      "financialYear": "2021-22"
+    },
+    {
+      "fromDate": 1585704194000,
+      "toDate": 1617235154000,
+      "periodCycle": "ANNUAL",
+     "service": "TX.Transfer_Property_Fees",
+      "code": "TXNDCAN2017",
+      "financialYear": "2020-21"
+    },
+    {
+      "fromDate": 1554076799000,
+      "toDate": 1585679399000,
+      "periodCycle": "ANNUAL",
+      "service": "TX.Transfer_Property_Fees",
+      "code": "TXNDCAN2019",
+      "financialYear": "2019-20"
+    },
+    {
+      "fromDate": 1522540800000,
+      "toDate": 1554076799000,
+      "periodCycle": "ANNUAL",
+      "service": "TX.Transfer_Property_Fees",
+      "code": "TXNDCAN2018",
+      "financialYear": "2018-19"
+    },
+    {
+      "fromDate": 1711909800000,
+      "toDate": 1743445799000,
+      "periodCycle": "ANNUAL",
+      "service": "ADVT.Hoardings",
+      "code": "ADHAN2024",
+      "financialYear": "2024-25"
+    },
+    {
+      "fromDate": 1648751400000,
+      "toDate": 1680287399000,
+      "periodCycle": "ANNUAL",
+      "service": "ADVT.Hoardings",
+      "code": "ADHAN2022",
+      "financialYear": "2022-23"
+    },
+    {
+      "fromDate": 1617215400000,
+      "toDate": 1648751399000,
+      "periodCycle": "ANNUAL",
+      "service": "ADVT.Hoardings",
+      "code": "ADHAN2021",
+      "financialYear": "2021-22"
+    },
+    {
+      "fromDate": 1585704194000,
+      "toDate": 1617235154000,
+      "periodCycle": "ANNUAL",
+      "service": "ADVT.Hoardings",
+      "code": "ADHAN2020",
+      "financialYear": "2020-21"
+    },
+    {
+      "fromDate": 1554076799000,
+      "toDate": 1585679399000,
+      "periodCycle": "ANNUAL",
+      "service": "ADVT.Hoardings",
+      "code": "ADHAN2019",
+      "financialYear": "2019-20"
+    },
+    {
+      "fromDate": 1522540800000,
+      "toDate": 1554076799000,
+      "periodCycle": "ANNUAL",
+      "service": "ADVT.Hoardings",
+      "code": "ADHAN2018",
+      "financialYear": "2018-19"
+    },
+    {
+      "fromDate": 1491004800000,
+      "toDate": 1522540798000,
+      "periodCycle": "ANNUAL",
+      "service": "ADVT.Hoardings",
+      "code": "ADHAN2017",
+      "financialYear": "2017-18"
+    },
+    {
+      "fromDate": 1711909800000,
+      "toDate": 1743445799000,
+      "periodCycle": "ANNUAL",
+      "service": "ADVT.Unipolls",
+      "code": "ADHAN2024",
+      "financialYear": "2024-25"
+    },
+    {
+      "fromDate": 1648751400000,
+      "toDate": 1680287399000,
+      "periodCycle": "ANNUAL",
+      "service": "ADVT.Unipolls",
+      "code": "ADHAN2022",
+      "financialYear": "2022-23"
+    },
+    {
+      "fromDate": 1617215400000,
+      "toDate": 1648751399000,
+      "periodCycle": "ANNUAL",
+      "service": "ADVT.Unipolls",
+      "code": "ADHAN2021",
+      "financialYear": "2021-22"
+    },
+    {
+      "fromDate": 1585704194000,
+      "toDate": 1617235154000,
+      "periodCycle": "ANNUAL",
+      "service": "ADVT.Unipolls",
+      "code": "ADHAN2020",
+      "financialYear": "2020-21"
+    },
+    {
+      "fromDate": 1554076799000,
+      "toDate": 1585679399000,
+      "periodCycle": "ANNUAL",
+      "service": "ADVT.Unipolls",
+      "code": "ADHAN2019",
+      "financialYear": "2019-20"
+    },
+    {
+      "fromDate": 1522540800000,
+      "toDate": 1554076799000,
+      "periodCycle": "ANNUAL",
+      "service": "ADVT.Unipolls",
+      "code": "ADHAN2018",
+      "financialYear": "2018-19"
+    },
+    {
+      "fromDate": 1711909800000,
+      "toDate": 1743445799000,
+      "periodCycle": "ANNUAL",
+      "service": "ADVT.Light_Wala_Board",
+      "code": "ADHAN2024",
+      "financialYear": "2024-25"
+    },
+    {
+      "fromDate": 1648751400000,
+      "toDate": 1680287399000,
+      "periodCycle": "ANNUAL",
+      "service": "ADVT.Light_Wala_Board",
+      "code": "ADHAN2022",
+      "financialYear": "2022-23"
+    },
+    {
+      "fromDate": 1617215400000,
+      "toDate": 1648751399000,
+      "periodCycle": "ANNUAL",
+      "service": "ADVT.Light_Wala_Board",
+      "code": "ADHAN2021",
+      "financialYear": "2021-22"
+    },
+    {
+      "fromDate": 1585704194000,
+      "toDate": 1617235154000,
+      "periodCycle": "ANNUAL",
+      "service": "ADVT.Light_Wala_Board",
+      "code": "ADHAN2020",
+      "financialYear": "2020-21"
+    },
+    {
+      "fromDate": 1554076799000,
+      "toDate": 1585679399000,
+      "periodCycle": "ANNUAL",
+      "service": "ADVT.Light_Wala_Board",
+      "code": "ADHAN2019",
+      "financialYear": "2019-20"
+    },
+    {
+      "fromDate": 1522540800000,
+      "toDate": 1554076799000,
+      "periodCycle": "ANNUAL",
+      "service": "ADVT.Light_Wala_Board",
+      "code": "ADHAN2018",
+      "financialYear": "2018-19"
+    },
+    {
+      "fromDate": 1711909800000,
+      "toDate": 1743445799000,
+      "periodCycle": "ANNUAL",
+      "service": "ADVT.Wall_Paint_Advertisement",
+      "code": "ADHAN2024",
+      "financialYear": "2024-25"
+    },
+    {
+      "fromDate": 1648751400000,
+      "toDate": 1680287399000,
+      "periodCycle": "ANNUAL",
+      "service": "ADVT.Wall_Paint_Advertisement",
+      "code": "ADHAN2022",
+      "financialYear": "2022-23"
+    },
+     {
+      "fromDate": 1617215400000,
+      "toDate": 1648751399000,
+      "periodCycle": "ANNUAL",
+      "service": "ADVT.Wall_Paint_Advertisement",
+      "code": "ADHAN2021",
+      "financialYear": "2021-22"
+    },
+    {
+      "fromDate": 1585704194000,
+      "toDate": 1617235154000,
+      "periodCycle": "ANNUAL",
+      "service": "ADVT.Wall_Paint_Advertisement",
+      "code": "ADHAN2020",
+      "financialYear": "2020-21"
+    },
+    {
+      "fromDate": 1554076799000,
+      "toDate": 1585679399000,
+      "periodCycle": "ANNUAL",
+      "service": "ADVT.Wall_Paint_Advertisement",
+      "code": "ADHAN2019",
+      "financialYear": "2019-20"
+    },
+    {
+      "fromDate": 1522540800000,
+      "toDate": 1554076799000,
+      "periodCycle": "ANNUAL",
+      "service": "ADVT.Wall_Paint_Advertisement",
+      "code": "ADHAN2018",
+      "financialYear": "2018-19"
+    },
+    {
+      "fromDate": 1711909800000,
+      "toDate": 1743445799000,
+      "periodCycle": "ANNUAL",
+      "service": "ADVT.Gas_Balloon_Advertisement",
+      "code": "ADHAN2024",
+      "financialYear": "2024-25"
+    },
+    {
+      "fromDate": 1648751400000,
+      "toDate": 1680287399000,
+      "periodCycle": "ANNUAL",
+      "service": "ADVT.Gas_Balloon_Advertisement",
+      "code": "ADHAN2022",
+      "financialYear": "2022-23"
+    },
+    {
+      "fromDate": 1617215400000,
+      "toDate": 1648751399000,
+      "periodCycle": "ANNUAL",
+      "service": "ADVT.Gas_Balloon_Advertisement",
+      "code": "ADHAN2021",
+      "financialYear": "2021-22"
+    },
+    {
+      "fromDate": 1585704194000,
+      "toDate": 1617235154000,
+      "periodCycle": "ANNUAL",
+      "service": "ADVT.Gas_Balloon_Advertisement",
+      "code": "ADHAN2020",
+      "financialYear": "2020-21"
+    },
+    {
+      "fromDate": 1554076799000,
+      "toDate": 1585679399000,
+      "periodCycle": "ANNUAL",
+      "service": "ADVT.Gas_Balloon_Advertisement",
+      "code": "ADHAN2019",
+      "financialYear": "2019-20"
+    },
+    {
+      "fromDate": 1522540800000,
+      "toDate": 1554076799000,
+      "periodCycle": "ANNUAL",
+      "service": "ADVT.Gas_Balloon_Advertisement",
+      "code": "ADHAN2018",
+      "financialYear": "2018-19"
+    },
+    {
+      "fromDate": 1711909800000,
+      "toDate": 1743445799000,
+      "periodCycle": "ANNUAL",
+      "service": "RT.Municipal_Shops_Rent",
+      "code": "RTMSRAN2024",
+      "financialYear": "2024-25"
+    },
+    {
+      "fromDate": 1648751400000,
+      "toDate": 1680287399000,
+      "periodCycle": "ANNUAL",
+      "service": "RT.Municipal_Shops_Rent",
+      "code": "RTMSRAN2022",
+      "financialYear": "2022-23"
+    },
+    {
+      "fromDate": 1617215400000,
+      "toDate": 1648751399000,
+      "periodCycle": "ANNUAL",
+      "service": "RT.Municipal_Shops_Rent",
+      "code": "RTMSRAN2021",
+      "financialYear": "2021-22"
+    },
+    {
+      "fromDate": 1585704194000,
+      "toDate": 1617235154000,
+      "periodCycle": "ANNUAL",
+      "service": "RT.Municipal_Shops_Rent",
+      "code": "RTMSRAN2020",
+      "financialYear": "2020-21"
+    },
+    {
+      "fromDate": 1554076799000,
+      "toDate": 1585679399000,
+      "periodCycle": "ANNUAL",
+      "service": "RT.Municipal_Shops_Rent",
+      "code": "RTMSRAN2019",
+      "financialYear": "2019-20"
+    },
+    {
+      "fromDate": 1522540800000,
+      "toDate": 1554076799000,
+      "periodCycle": "ANNUAL",
+      "service": "RT.Municipal_Shops_Rent",
+      "code": "RTMSRAN2018",
+      "financialYear": "2018-19"
+    },
+    {
+      "fromDate": 1491004800000,
+      "toDate": 1522540798000,
+      "periodCycle": "ANNUAL",
+      "service": "RT.Municipal_Shops_Rent",
+      "code": "RTMSRAN2017",
+      "financialYear": "2017-18"
+    },
+    {
+      "fromDate": 1711909800000,
+      "toDate": 1743445799000,
+      "periodCycle": "ANNUAL",
+      "service": "RT.Parking_Fee",
+      "code": "RTPFAN2024",
+      "financialYear": "2024-25"
+    },
+    {
+      "fromDate": 1648751400000,
+      "toDate": 1680287399000,
+      "periodCycle": "ANNUAL",
+      "service": "RT.Parking_Fee",
+      "code": "RTPFAN2022",
+      "financialYear": "2022-23"
+    },
+    {
+      "fromDate": 1617215400000,
+      "toDate": 1648751399000,
+      "periodCycle": "ANNUAL",
+      "service": "RT.Parking_Fee",
+      "code": "RTPFAN2021",
+      "financialYear": "2021-22"
+    },
+    {
+      "fromDate": 1585704194000,
+      "toDate": 1617235154000,
+      "periodCycle": "ANNUAL",
+      "service": "RT.Parking_Fee",
+      "code": "RTPFAN2020",
+      "financialYear": "2020-21"
+    },
+    {
+      "fromDate": 1554076799000,
+      "toDate": 1585679399000,
+      "periodCycle": "ANNUAL",
+      "service": "RT.Parking_Fee",
+      "code": "RTPFAN2019",
+      "financialYear": "2019-20"
+    },
+    {
+      "fromDate": 1522540800000,
+      "toDate": 1554076799000,
+      "periodCycle": "ANNUAL",
+      "service": "RT.Parking_Fee",
+      "code": "RTPFAN2018",
+      "financialYear": "2018-19"
+    },
+    {
+      "fromDate": 1491004800000,
+      "toDate": 1522540798000,
+      "periodCycle": "ANNUAL",
+      "service": "RT.Parking_Fee",
+      "code": "RTPFAN2017",
+      "financialYear": "2017-18"
+    },
+    {
+      "fromDate": 1711909800000,
+      "toDate": 1743445799000,
+      "periodCycle": "ANNUAL",
+     "service": "RT.Jamin_Theka",
+      "code": "RTJTAN2024",
+      "financialYear": "2024-25"
+    },
+    {
+      "fromDate": 1648751400000,
+      "toDate": 1680287399000,
+      "periodCycle": "ANNUAL",
+      "service": "RT.Jamin_Theka",
+      "code": "RTJTAN2022",
+      "financialYear": "2022-23"
+    },
+    {
+      "fromDate": 1617215400000,
+      "toDate": 1648751399000,
+      "periodCycle": "ANNUAL",
+      "service": "RT.Jamin_Theka",
+      "code": "RTJTAN2021",
+      "financialYear": "2021-22"
+    },
+    {
+      "fromDate": 1585704194000,
+      "toDate": 1617235154000,
+      "periodCycle": "ANNUAL",
+      "service": "RT.Jamin_Theka",
+      "code": "RTJTAN2020",
+      "financialYear": "2020-21"
+    },
+    {
+      "fromDate": 1554076799000,
+      "toDate": 1585679399000,
+      "periodCycle": "ANNUAL",
+      "service": "RT.Jamin_Theka",
+      "code": "RTJTAN2019",
+      "financialYear": "2019-20"
+    },
+    {
+      "fromDate": 1522540800000,
+      "toDate": 1554076799000,
+      "periodCycle": "ANNUAL",
+      "service": "RT.Jamin_Theka",
+      "code": "RTJTAN2018",
+      "financialYear": "2018-19"
+    },
+    {
+      "fromDate": 1491004800000,
+      "toDate": 1522540798000,
+      "periodCycle": "ANNUAL",
+      "service": "RT.Jamin_Theka",
+      "code": "RTJTAN2017",
+      "financialYear": "2017-18"
+    },
+    {
+      "fromDate": 1711909800000,
+      "toDate": 1743445799000,
+      "periodCycle": "ANNUAL",
+      "service": "REV_GRANTS",
+      "code": "REVGRAN2024",
+      "financialYear": "2024-25"
+    },
+    {
+      "fromDate": 1554076801000,
+      "toDate": 1585699199000,
+      "periodCycle": "ANNUAL",
+      "service": "REV_GRANTS",
+      "code": "REVGRAN2019",
+      "financialYear": "2019-20"
+    },
+    {
+      "fromDate": 1585699201000,
+      "toDate": 1617235199000,
+      "periodCycle": "ANNUAL",
+      "service": "REV_GRANTS",
+      "code": "REVGRAN2020",
+      "financialYear": "2020-21"
+    },
+    {
+      "fromDate": 1617235201000,
+      "toDate": 1648771199000,
+      "periodCycle": "ANNUAL",
+      "service": "REV_GRANTS",
+      "code": "REVGRAN2021",
+      "financialYear": "2021-22"
+    },
+    {
+      "fromDate": 1648751400000,
+      "toDate": 1680287399000,
+      "periodCycle": "ANNUAL",
+      "service": "REV_GRANTS",
+      "code": "REVGRAN2022",
+      "financialYear": "2022-23"
+    },
+    {
+      "fromDate": 1522540801000,
+      "toDate": 1838159999000,
+      "periodCycle": "FORTENYEARS",
+      "service": "DISP_FIXED_ASSET.LAND",
+      "code": "DFAL10YRS2018",
+      "financialYear": "2018-28"
+    },
+    {
+      "fromDate": 1522540801000,
+      "toDate": 1838159999000,
+      "periodCycle": "FORTENYEARS",
+      "service": "DISP_FIXED_ASSET.BUILDING",
+      "code": "DFAB10YRS2018",
+      "financialYear": "2018-28"
+    },
+    {
+      "fromDate": 1522540801000,
+      "toDate": 1838159999000,
+      "periodCycle": "FORTENYEARS",
+      "service": "DISP_FIXED_ASSET.MOTOR_VEHICLE",
+      "code": "DFAMV10YRS2018",
+      "financialYear": "2018-28"
+    },
+    {
+      "fromDate": 1522540801000,
+      "toDate": 1838159999000,
+      "periodCycle": "FORTENYEARS",
+      "service": "BPAREG",
+      "code": "BPAREG10YRS2018",
+      "financialYear": "2018-28"
+    },
+    {
+      "fromDate": 1554076800000,
+      "toDate": 1617235199999,
+      "periodCycle": "TWOYEARS",
+      "service": "WS",
+      "code": "WC2018",
+      "financialYear": "2020-21"
+    },
+    {
+      "fromDate": 1617215400000,
+      "toDate": 1648771199999,
+      "periodCycle": "TWOYEARS",
+      "service": "WS",
+      "code": "WC2021",
+      "financialYear": "2021-22"
+    },
+    {
+      "fromDate": 1617215400000,
+      "toDate": 1648771199999,
+      "periodCycle": "TWOYEARS",
+      "service": "SW",
+      "code": "SC2021",
+      "financialYear": "2021-22"
+    },
+    {
+      "fromDate": 1648771200000,
+      "toDate": 1680307199000,
+      "periodCycle": "TWOYEARS",
+      "service": "WS",
+      "code": "WC2022",
+      "financialYear": "2022-23"
+    },
+    {
+      "fromDate": 1648771200000,
+      "toDate": 1680307199000,
+      "periodCycle": "TWOYEARS",
+      "service": "SW",
+      "code": "SC2022",
+      "financialYear": "2022-23"
+    },
+    {
+      "fromDate": 1554076800000,
+      "toDate": 1617235199999,
+      "periodCycle": "TWOYEARS",
+      "service": "SW",
+      "code": "SC2018",
+      "financialYear": "2020-21"
+    },
+    {
+      "fromDate": 1522540801000,
+      "toDate": 1838159999000,
+      "periodCycle": "FORTENYEARS",
+      "service": "BPA.NC_APP_FEE",
+      "code": "BPA10YRS2018",
+      "financialYear": "2018-28"
+    },
+    {
+      "fromDate": 1522540801000,
+      "toDate": 1838159999000,
+      "periodCycle": "FORTENYEARS",
+      "service": "BPA.NC_SAN_FEE",
+      "code": "BPA10YRS2018",
+      "financialYear": "2018-28"
+    },
+    {
+      "fromDate": 1711909800000,
+      "toDate": 1743445799000,
+      "periodCycle": "ANNUAL",
+      "service": "PT.MUTATION",
+      "code": "PTMUTAN2024",
+      "financialYear": "2024-25"
+    },
+    {
+      "fromDate": 1680287400000,
+      "toDate": 1711909799000,
+      "periodCycle": "ANNUAL",
+      "service": "PT.MUTATION",
+      "code": "PTMUTAN2023",
+      "financialYear": "2023-24"
+    },
+    {
+      "fromDate": 1648751400000,
+      "toDate": 1680287399000,
+      "periodCycle": "ANNUAL",
+      "service": "PT.MUTATION",
+      "code": "PTMUTAN2022",
+      "financialYear": "2022-23"
+    },
+    {
+      "fromDate": 1617215400000,
+      "toDate": 1648751399000,
+      "periodCycle": "ANNUAL",
+      "service": "PT.MUTATION",
+      "code": "PTMUTAN2021",
+      "financialYear": "2021-22"
+    },
+    {
+      "fromDate": 1585785599000,
+      "toDate": 1617235199000,
+      "periodCycle": "ANNUAL",
+      "service": "PT.MUTATION",
+      "code": "PTMUTAN2020",
+      "financialYear": "2020-21"
+    },
+    {
+      "fromDate": 1554076799000,
+      "toDate": 1585679399000,
+      "periodCycle": "ANNUAL",
+      "service": "PT.MUTATION",
+      "code": "PTMUTAN2019",
+      "financialYear": "2019-20"
+    },
+    {
+      "fromDate": 1522540800000,
+      "toDate": 1554076799000,
+      "periodCycle": "ANNUAL",
+      "service": "PT.MUTATION",
+      "code": "PTMUTAN2018",
+      "financialYear": "2018-19"
+    },
+    {
+      "fromDate": 1491004800000,
+      "toDate": 1522540798000,
+      "periodCycle": "ANNUAL",
+      "service": "PT.MUTATION",
+      "code": "PTMUTAN2017",
+      "financialYear": "2017-18"
+    },
+    {
+      "fromDate": 1459468800000,
+      "toDate": 1491004799000,
+      "periodCycle": "ANNUAL",
+      "service": "PT.MUTATION",
+      "code": "PTMUTAN2016",
+      "financialYear": "2016-17"
+    },
+    {
+      "fromDate": 1711909800000,
+      "toDate": 1743445799000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLRENEWAL2024",
+      "financialYear": "2024-25"
+    },
+    {
+      "fromDate": 1648751400000,
+      "toDate": 1680287399000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLRENEWAL2022",
+      "financialYear": "2022-23"
+    },
+    {
+      "fromDate": 1617172199000,
+      "toDate": 1648751399000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLRENEWAL2021",
+      "financialYear": "2021-22"
+    },
+    {
+      "fromDate": 1585679399000,
+      "toDate": 1617172199000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLRENEWAL2020",
+      "financialYear": "2020-21"
+    },
+    {
+      "fromDate": 1554076799000,
+      "toDate": 1585679399000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLRENEWAL2019",
+      "financialYear": "2019-20"
+    },
+    {
+      "fromDate": 1522540800000,
+      "toDate": 1554076799000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLRENEWAL2018",
+      "financialYear": "2018-19"
+    },
+    {
+      "fromDate": 1491004800000,
+      "toDate": 1522540798000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLRENEWAL2017",
+      "financialYear": "2017-18"
+    },
+    {
+      "fromDate": 1459468800000,
+      "toDate": 1491004799000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLRENEWAL2016",
+      "financialYear": "2016-17"
+    },
+    {
+      "fromDate": 1554057000000,
+      "toDate": 1901212199000,
+      "periodCycle": "TENYEARS",
+      "service": "WS.ONE_TIME_FEE",
+      "code": "WS10YRS2019",
+      "financialYear": "2019-30"
+    },
+    {
+      "fromDate": 1554057000000,
+      "toDate": 1901212199000,
+      "periodCycle": "TENYEARS",
+      "service": "SW.ONE_TIME_FEE",
+      "code": "SW10YRS2019",
+      "financialYear": "2019-30"
+    },
+     {
+      "fromDate": 1522540801000,
+      "toDate": 1838159999000,
+      "periodCycle": "FORTENYEARS",
+      "service": "BPA.LOW_RISK_PERMIT_FEE",
+      "code": "BPA10YRS2018",
+      "financialYear": "2018-28"
+    },
+    {
+      "fromDate": 1522540801000,
+      "toDate": 1838159999000,
+      "periodCycle": "FORTENYEARS",
+      "service": "BPA.NC_OC_APP_FEE",
+      "code": "BPAOCAPP10YRS2018",
+      "financialYear": "2018-28"
+    },
+    {
+      "fromDate": 1522540801000,
+      "toDate": 1838159999000,
+      "periodCycle": "FORTENYEARS",
+      "service": "BPA.NC_OC_SAN_FEE",
+      "code": "BPAOCSAN10YRS2018",
+      "financialYear": "2018-28"
+    },
+    {
+      "fromDate": 1606815883000,
+      "toDate": 1924948799000,
+      "periodCycle": "FORTENYEARS",
+      "service": "FSM.TRIP_CHARGES",
+      "code": "FSMTRIPCHARGE10YRS",
+      "financialYear": "2020-2030"
+    },
+    {
+      "fromDate": 1554076800000,
+      "toDate": 1901145600000,
+      "periodCycle": "ANNUAL",
+      "service": "BIRTH_CERT.BIRTH_CERT",
+      "code": "BIRTHCERT",
+      "financialYear": "2019-30"
+    },
+    {
+      "fromDate": 1554076800000,
+      "toDate": 1901145600000,
+      "periodCycle": "ANNUAL",
+      "service": "DEATH_CERT",
+      "code": "DEATHCERT",
+      "financialYear": "2019-30"
+    },
+    {
+      "fromDate": 1743445800000,
+      "toDate": 2090600999000,
+      "periodCycle": "TENYEARS",
+      "service": "WS.ONE_TIME_FEE",
+      "code": "WS10YRS2025",
+      "financialYear": "2025-36"
+    },
+    {
+      "fromDate": 1743445800000,
+      "toDate": 2090600999000,
+      "periodCycle": "TENYEARS",
+      "service": "SW.ONE_TIME_FEE",
+      "code": "SW10YRS2025",
+      "financialYear": "2025-36"
+    }
+  ]
+}

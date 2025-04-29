@@ -1,0 +1,66 @@
+{
+  "tenantId": "studio",
+  "moduleName": "ws-services-masters",
+  "OwnerType": [
+    {
+      "name": "Widow",
+      "code": "WIDOW",
+      "active": true,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "type": "WS"
+    },
+    {
+      "name": "Disabled",
+      "code": "DISABLED",
+      "active": true,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "type": "WS"
+    },
+    {
+      "name": "Senior Citizen",
+      "code": "SENIORCITIZEN",
+      "active": true,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "type": "WS"
+    },
+    {
+      "name": "Defense Personnel",
+      "code": "DEFENSE",
+      "active": true,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "type": "WS"
+    },
+    {
+      "name": "None of the above",
+      "code": "NONE",
+      "active": true,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "type": "WS"
+    }
+  ]
+}

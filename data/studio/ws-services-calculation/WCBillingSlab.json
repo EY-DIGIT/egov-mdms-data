@@ -1,0 +1,102 @@
+{
+  "tenantId": "studio",
+  "moduleName": "ws-services-calculation",
+  "WCBillingSlab": [
+    {
+      "id": "1",
+      "buildingType": "RESIDENTIAL",
+      "connectionType": "Metered",
+      "calculationAttribute": "Water consumption",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 1,
+          "to": 150,
+          "charge": 3,
+          "meterCharge": 0
+        },
+        {
+          "from": 150,
+          "to": 1000000000,
+          "charge": 3,
+          "meterCharge": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "buildingType": "NONRESIDENTIAL",
+      "calculationAttribute": "Water consumption",
+      "connectionType": "Metered",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 150,
+          "charge": 3,
+          "meterCharge": 0
+        },
+        {
+          "from": 150,
+          "to": 300,
+          "charge": 4,
+          "meterCharge": 0
+        },
+        {
+          "from": 300,
+          "to": 1000000000,
+          "charge": 4,
+          "meterCharge": 0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "buildingType": "RESIDENTIAL",
+      "calculationAttribute": "No. of taps",
+      "connectionType": "Non Metered",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 1,
+          "to": 150,
+          "charge": 200,
+          "meterCharge": 0
+        },
+        {
+          "from": 150,
+          "to": 1000000000,
+          "charge": 200,
+          "meterCharge": 0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "buildingType": "NONRESIDENTIAL",
+      "calculationAttribute": "No. of taps",
+      "connectionType": "Non Metered",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 150,
+          "charge": 200,
+          "meterCharge": 0
+        },
+        {
+          "from": 150,
+          "to": 200,
+          "charge": 300,
+          "meterCharge": 0
+        },
+        {
+          "from": 200,
+          "to": 1000000000,
+          "charge": 300,
+          "meterCharge": 0
+        }
+      ]
+    }
+  ]
+}

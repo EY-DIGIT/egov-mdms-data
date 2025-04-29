@@ -1,0 +1,76 @@
+{
+  "tenantId": "studio",
+  "moduleName": "PropertyTax",
+  "UsageCategoryDetail": [
+    {
+      "name": "Textile",
+      "code": "TEXTILE",
+      "usageCategorySubMinor": "FACTORY",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Automobile",
+      "code": "AUTOMOBILE",
+      "usageCategorySubMinor": "FACTORY",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Fulfilment Centre",
+      "code": "FULFILMENTCENTRE",
+      "usageCategorySubMinor": "WAREHOUSE",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Apparel Retail",
+      "code": "APPARELRETAIL",
+      "usageCategorySubMinor": "RETAILSTORE",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Electronics Retail",
+      "code": "ELECTRONICSRETAIL",
+      "usageCategorySubMinor": "RETAILSTORE",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Co Working",
+      "code": "COWORKING",
+      "usageCategorySubMinor": "OFFICEBUILDING",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "School",
+      "code": "SCHOOL",
+      "usageCategorySubMinor": "EDUCATIONAL",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "University",
+      "code": "UNIVERSITY",
+      "usageCategorySubMinor": "EDUCATIONAL",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Diagnostics",
+      "code": "DIAGNOSTICS",
+      "usageCategorySubMinor": "HEALTHCARE",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Hospital",
+      "code": "HOSPITAL",
+      "usageCategorySubMinor": "HEALTHCARE",
+      "active": true,
+      "fromFY": "2015-16"
+    }
+  ]
+}

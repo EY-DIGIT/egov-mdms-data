@@ -1,0 +1,10 @@
+{
+    "tenantId": "studio",
+    "moduleName": "commonUiConfig",
+    "CBOBillInboxConfig": [
+        {
+            "rejectedCode" : "REJECTED",
+            "approvedCode" : "APPROVED" 
+        }
+    ]
+}

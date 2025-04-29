@@ -1,0 +1,16 @@
+{
+  "tenantId": "studio",
+  "moduleName": "ws-services-masters",
+  "waterSource": [
+    {
+      "name": "Ground-Well",
+      "code": "GROUND.WELL",
+      "active": true
+    },
+    {
+      "name": "Ground-Tap",
+      "code": "GROUND.TAP",
+      "active": true
+    }
+  ]
+}

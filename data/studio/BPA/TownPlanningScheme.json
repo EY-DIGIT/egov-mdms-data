@@ -1,0 +1,21 @@
+{
+  "tenantId": "studio",
+  "moduleName": "BPA",
+  "TownPlanningScheme": [
+    {
+      "name": "Residential",
+      "code": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "name": "LayoutPlanning",
+      "code": "SCM1",
+      "active": true
+    },
+    {
+      "name": "HospitalLayout",
+      "code": "SCM2",
+      "active": true
+    }
+  ]
+}

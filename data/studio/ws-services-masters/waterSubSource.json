@@ -1,0 +1,23 @@
+{
+  "tenantId": "studio",
+  "moduleName": "ws-services-masters",
+  "waterSubSource": [
+    {
+      "name": "Ground",
+      "code": "GROUND",
+      "subsource": [
+        {
+          "name": "Well",
+          "code": "WELL",
+          "active": true
+        },
+        {
+          "name": "Tap",
+          "code": "TAP",
+          "active": true
+        }
+      ],
+      "active": true
+    }
+  ]
+}

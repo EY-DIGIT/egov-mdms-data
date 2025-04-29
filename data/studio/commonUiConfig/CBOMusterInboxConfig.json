@@ -1,0 +1,9 @@
+{
+    "tenantId": "studio",
+    "moduleName": "commonUiConfig",
+    "CBOMusterInboxConfig": [
+        {
+            "reSubmitCode" : "PENDINGFORCORRECTION"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+  "tenantId": "studio",
+  "moduleName": "PropertyTax",
+  "SubOwnerShipCategory": [
+    {
+      "name": "Single Owner",
+      "code": "SINGLEOWNER",
+      "active": true,
+      "ownerShipCategory": "INDIVIDUAL"
+    },
+    {
+      "name": "Multiple Owners",
+      "code": "MULTIPLEOWNERS",
+      "active": true,
+      "ownerShipCategory": "INDIVIDUAL"
+    },
+    {
+      "name": "Private Company",
+      "code": "PRIVATECOMPANY",
+      "active": true,
+      "ownerShipCategory": "INSTITUTIONALPRIVATE"
+    },
+    {
+      "name": "Private Board",
+      "code": "PRIVATEBOARD",
+      "active": true,
+      "ownerShipCategory": "INSTITUTIONALPRIVATE"
+    },
+    {
+      "name": "ULB Government",
+      "code": "ULBGOVERNMENT",
+      "active": true,
+      "ownerShipCategory": "INSTITUTIONALGOVERNMENT"
+    },
+    {
+      "name": "State Government",
+      "code": "STATEGOVERNMENT",
+      "active": true,
+      "ownerShipCategory": "INSTITUTIONALGOVERNMENT"
+    },
+    {
+      "name": "Central Government",
+      "code": "CENTRALGOVERNMENT",
+      "active": true,
+      "ownerShipCategory": "INSTITUTIONALGOVERNMENT"
+    }
+  ]
+}

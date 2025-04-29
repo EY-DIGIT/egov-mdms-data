@@ -1,0 +1,31 @@
+{
+	"tenantId": "pg.citya",
+	"moduleName": "birth-death-service",
+	"hospitalList": [
+		{
+			"hospitalName": "Trinity Lifecare",
+			"hospitalAddress": "Heritage Square, Victoria",
+			"active": "true"
+		},
+		{
+			"hospitalName": "Goodhealth Hospital",
+			"hospitalAddress": "Evergreen Park, Victoria",
+			"active": "true"
+		},
+		{
+			"hospitalName": "Baskin Hospital",
+			"hospitalAddress": "Maplewood, Victoria",
+			"active": "true"
+		},
+		{
+			"hospitalName": "Sundown Hospital",
+			"hospitalAddress": "Central Plaza, Victoria",
+			"active": "true"
+		},
+		{
+			"hospitalName": "Greater Valley Hospital",
+			"hospitalAddress": "Innovation Park, Victoria",
+			"active": "true"
+		}
+	]
+}
