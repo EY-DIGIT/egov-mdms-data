@@ -344,6 +344,43 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true
+    },
+    {
+      "businessService": "Birth Certificate Fees",
+      "code": "BIRTH_CERT.BIRTH_CERT",
+      "collectionModesNotAllowed": ["DD", "POSTAL_ORDER"],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc-false",
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
+    },
+    {
+      "businessService": "Death Certificate Fees",
+      "code": "DEATH_CERT",
+      "collectionModesNotAllowed": ["DD", "POSTAL_ORDER"],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc-false",
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
+    },
+    {
+      "businessService": "FIRENOC",
+      "code": "FIRENOC",
+      "collectionModesNotAllowed": [
+        "DD","OFFLINE_NEFT","OFFLINE_RTGS","POSTAL_ORDER"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc-false",
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     }
   ]
 }

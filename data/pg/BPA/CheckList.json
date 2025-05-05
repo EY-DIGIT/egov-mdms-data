@@ -10,22 +10,22 @@
       "questions": [
         {
           "question": "RIVER_EXISTS_ON_SITE",
-          "fieldType": "YES/NO/NA",
+          "fieldType": "YES/NO",
           "active": true
         },
         {
           "question": "TREE_EXISTS_ON_SITE",
-          "fieldType": "YES/NO/NA",
+          "fieldType": "YES/NO",
           "active": true
         },
         {
           "question": "PLAN_AS_PER_THE_SITE",
-          "fieldType": "YES/NO/NA",
+          "fieldType": "YES/NO",
           "active": true
         },
         {
           "question": "ROADWIDTH_AS_PER_THE_PLAN",
-          "fieldType": "YES/NO/NA",
+          "fieldType": "YES/NO",
           "active": true
         }
       ],
@@ -60,22 +60,22 @@
       "questions": [
         {
           "question": "RIVER_EXISTS_ON_SITE",
-          "fieldType": "YES/NO/NA",
+          "fieldType": "YES/NO",
           "active": true
         },
         {
           "question": "TREE_EXISTS_ON_SITE",
-          "fieldType": "YES/NO/NA",
+          "fieldType": "YES/NO",
           "active": true
         },
         {
           "question": "PLAN_AS_PER_THE_SITE",
-          "fieldType": "YES/NO/NA",
+          "fieldType": "YES/NO",
           "active": true
         },
         {
           "question": "ROADWIDTH_AS_PER_THE_PLAN",
-          "fieldType": "YES/NO/NA",
+          "fieldType": "YES/NO",
           "active": true
         }
       ],
@@ -110,22 +110,22 @@
       "questions": [
         {
           "question": "RIVER_EXISTS_ON_SITE",
-          "fieldType": "YES/NO/NA",
+          "fieldType": "YES/NO",
           "active": true
         },
         {
           "question": "TREE_EXISTS_ON_SITE",
-          "fieldType": "YES/NO/NA",
+          "fieldType": "YES/NO",
           "active": true
         },
         {
           "question": "PLAN_AS_PER_THE_SITE",
-          "fieldType": "YES/NO/NA",
+          "fieldType": "YES/NO",
           "active": true
         },
         {
           "question": "ROADWIDTH_AS_PER_THE_PLAN",
-          "fieldType": "YES/NO/NA",
+          "fieldType": "YES/NO",
           "active": true
         }
       ],
@@ -211,22 +211,22 @@
       "questions": [
         {
           "question": "RIVER_EXISTS_ON_SITE",
-          "fieldType": "YES/NO/NA",
+          "fieldType": "YES/NO",
           "active": true
         },
         {
           "question": "TREE_EXISTS_ON_SITE",
-          "fieldType": "YES/NO/NA",
+          "fieldType": "YES/NO",
           "active": true
         },
         {
           "question": "PLAN_AS_PER_THE_SITE",
-          "fieldType": "YES/NO/NA",
+          "fieldType": "YES/NO",
           "active": true
         },
         {
           "question": "ROADWIDTH_AS_PER_THE_PLAN",
-          "fieldType": "YES/NO/NA",
+          "fieldType": "YES/NO",
           "active": true
         }
       ],
@@ -261,22 +261,22 @@
       "questions": [
         {
           "question": "RIVER_EXISTS_ON_SITE",
-          "fieldType": "YES/NO/NA",
+          "fieldType": "YES/NO",
           "active": true
         },
         {
           "question": "TREE_EXISTS_ON_SITE",
-          "fieldType": "YES/NO/NA",
+          "fieldType": "YES/NO",
           "active": true
         },
         {
           "question": "PLAN_AS_PER_THE_SITE",
-          "fieldType": "YES/NO/NA",
+          "fieldType": "YES/NO",
           "active": true
         },
         {
           "question": "ROADWIDTH_AS_PER_THE_PLAN",
-          "fieldType": "YES/NO/NA",
+          "fieldType": "YES/NO",
           "active": true
         }
       ],
@@ -311,22 +311,22 @@
       "questions": [
         {
           "question": "RIVER_EXISTS_ON_SITE",
-          "fieldType": "YES/NO/NA",
+          "fieldType": "YES/NO",
           "active": true
         },
         {
           "question": "TREE_EXISTS_ON_SITE",
-          "fieldType": "YES/NO/NA",
+          "fieldType": "YES/NO",
           "active": true
         },
         {
           "question": "PLAN_AS_PER_THE_SITE",
-          "fieldType": "YES/NO/NA",
+          "fieldType": "YES/NO",
           "active": true
         },
         {
           "question": "ROADWIDTH_AS_PER_THE_PLAN",
-          "fieldType": "YES/NO/NA",
+          "fieldType": "YES/NO",
           "active": true
         }
       ],

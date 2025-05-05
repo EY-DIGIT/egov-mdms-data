@@ -4,7 +4,6 @@
     "StaticData": [
         {
             "PT" : {
-                "payViaWhatsApp": "https://api.whatsapp.com/send?phone=918744060444&text=mSeva",
                 "helpline": 
                 { 
                   "contactOne": "7878787878",

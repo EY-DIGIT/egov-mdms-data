@@ -1114,25 +1114,25 @@
       "docTypes": [
         {
           "code": "APPL.IDENTITYPROOF",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 49
         },
         {
           "code": "APPL.ADDRESSPROOF",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 50
         },
         {
           "code": "APPL.LTR",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 51
         },
         {
           "code": "APPL.TDP",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 52
         },
@@ -1156,7 +1156,7 @@
         },
         {
           "code": "BPD.SITP",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 56
         },
@@ -1206,25 +1206,25 @@
       "docTypes": [
         {
           "code": "APPL.IDENTITYPROOF",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 82
         },
         {
           "code": "APPL.ADDRESSPROOF",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 83
         },
         {
           "code": "APPL.LTR",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 84
         },
         {
           "code": "APPL.TDP",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 85
         },
@@ -1298,25 +1298,25 @@
       "docTypes": [
         {
           "code": "APPL.IDENTITYPROOF",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 117
         },
         {
           "code": "APPL.ADDRESSPROOF",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 118
         },
         {
           "code": "APPL.LTR",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 119
         },
         {
           "code": "APPL.TDP",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 120
         },
@@ -1340,7 +1340,7 @@
         },
         {
           "code": "BPD.SITP",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 124
         },
@@ -1390,25 +1390,25 @@
       "docTypes": [
         {
           "code": "APPL.IDENTITYPROOF",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 221
         },
         {
           "code": "APPL.ADDRESSPROOF",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 222
         },
         {
           "code": "APPL.LTR",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 223
         },
         {
           "code": "APPL.TDP",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 224
         },
@@ -1432,7 +1432,7 @@
         },
         {
           "code": "BPD.SITP",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 228
         },
@@ -1482,25 +1482,25 @@
       "docTypes": [
         {
           "code": "APPL.IDENTITYPROOF",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 261
         },
         {
           "code": "APPL.ADDRESSPROOF",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 262
         },
         {
           "code": "APPL.LTR",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 263
         },
         {
           "code": "APPL.TDP",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 264
         },
@@ -1524,7 +1524,7 @@
         },
         {
           "code": "BPD.SITP",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 268
         },
@@ -1574,25 +1574,25 @@
       "docTypes": [
         {
           "code": "APPL.IDENTITYPROOF",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 1
         },
         {
           "code": "APPL.ADDRESSPROOF",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 2
         },
         {
           "code": "APPL.LTR",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 3
         },
         {
           "code": "APPL.TDP",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 4
         },
@@ -1616,7 +1616,7 @@
         },
         {
           "code": "BPD.SITP",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 8
         },

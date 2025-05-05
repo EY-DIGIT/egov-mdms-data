@@ -19211,7 +19211,7 @@
     {
         "id": 5425,
         "name": "FirenocCitizen",
-        "url": "digit-ui-card-disabled",
+        "url": "digit-ui-card",
         "displayName": "FireNoc Search",
         "orderNumber": 1,
         "parentModule": "FireNoc",
@@ -19229,7 +19229,7 @@
     {
         "id": 5426,
         "name": "BirthCitizen",
-        "url": "digit-ui-card-disabled",
+        "url": "digit-ui-card",
         "displayName": "Birth Search",
         "orderNumber": 1,
         "parentModule": "Birth",
@@ -19247,7 +19247,7 @@
     {
         "id": 5427,
         "name": "DeathCitizen",
-        "url": "digit-ui-card-disabled",
+        "url": "digit-ui-card",
         "displayName": "Death Search",
         "orderNumber": 1,
         "parentModule": "Death",
@@ -19430,7 +19430,7 @@
     {
         "id": 5440,
         "name": "ACTION_TEST_WNS_MY_BILLS",
-        "url": "digit-ui-card-disabled",
+        "url": "digit-ui-card",
         "displayName": "My Bills",
         "orderNumber": 2,
         "parentModule": "WS",
@@ -19448,7 +19448,7 @@
     {
         "id": 5441,
         "name": "ACTION_TEST_MY_PAYMENTS",
-        "url": "digit-ui-card-disabled",
+        "url": "digit-ui-card",
         "displayName": "My Payments",
         "orderNumber": 6,
         "parentModule": "WS",
@@ -19466,7 +19466,7 @@
     {
         "id": 5442,
         "name": "ACTION_TEST_APPLY_NEW_CONNECTION",
-        "url": "digit-ui-card-disabled",
+        "url": "digit-ui-card",
         "displayName": "Apply for New Connection",
         "orderNumber": 4,
         "parentModule": "WS",
@@ -19484,7 +19484,7 @@
     {
         "id": 5443,
         "name": "ACTION_TEXT_WS_SEARCH_AND_PAY",
-        "url": "digit-ui-card-disabled",
+        "url": "digit-ui-card",
         "displayName": "Search & Pay",
         "orderNumber": 1,
         "parentModule": "WS",
@@ -19502,7 +19502,7 @@
     {
         "id": 5444,
         "name": "ACTION_TEXT_WS_MY_APPLICATION",
-        "url": "digit-ui-card-disabled",
+        "url": "digit-ui-card",
         "displayName": "My Applications",
         "orderNumber": 5,
         "parentModule": "WS",
@@ -19520,7 +19520,7 @@
     {
         "id": 5445,
         "name": "ACTION_TEXT_WS_MY_CONNECTION",
-        "url": "digit-ui-card-disabled",
+        "url": "digit-ui-card",
         "displayName": "My Connections",
         "orderNumber": 3,
         "parentModule": "WS",
@@ -19754,7 +19754,7 @@
     {
         "id": 5458,
         "name": "PT_SEARCH_AND_PAY",
-        "url": "digit-ui-card",
+        "url": "digit-ui-card-disabled",
         "displayName": "Search and Pay",
         "orderNumber": 1,
         "parentModule": "CommonPT",
@@ -19772,7 +19772,7 @@
     {
         "id": 5459,
         "name": "PT_CREATE_PROPERTY",
-        "url": "digit-ui-card",
+        "url": "digit-ui-card-disabled",
         "displayName": "Create Property",
         "orderNumber": 3,
         "parentModule": "CommonPT",
@@ -19918,7 +19918,7 @@
     {
         "id": 5469,
         "name": "WS_FAQ_S",
-        "url": "digit-ui-card-disabled",
+        "url": "digit-ui-card",
         "displayName": "FAQs",
         "orderNumber": 8,
         "parentModule": "WS",
