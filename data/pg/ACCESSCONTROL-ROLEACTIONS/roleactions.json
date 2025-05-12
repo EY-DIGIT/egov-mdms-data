@@ -19622,6 +19622,12 @@
       "tenantId": "pg"
   },
   {
+      "rolecode": "BPAREG_EMPLOYEE",
+      "actionid": 4877,
+      "actioncode": "",
+      "tenantId": "pg"
+  },
+  {
       "rolecode": "BPAREG_DOC_VERIFIER",
       "actionid": 4931,
       "actioncode": "",
@@ -29660,6 +29666,12 @@
       "tenantId": "pg"
   },
   {
+      "rolecode": "BPAREG_EMPLOYEE",
+      "actionid": 5155,
+      "actioncode": "",
+      "tenantId": "pg"
+  },
+  {
       "rolecode": "BPA_ARCHITECT",
       "actionid": 5155,
       "actioncode": "",
@@ -33654,6 +33666,42 @@
       "actionid": 5425,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+        "rolecode": "BPAREG_DOC_VERIFIER",
+        "actionid": 65,
+        "actioncode": "",
+        "tenantId": "pg"
+    },
+    {
+        "rolecode": "BPAREG_APPROVER",
+        "actionid": 65,
+        "actioncode": "",
+        "tenantId": "pg"
+    },
+    {
+        "rolecode": "BPAREG_EMPLOYEE",
+        "actionid": 65,
+        "actioncode": "",
+        "tenantId": "pg"
+    },
+    {
+        "rolecode": "BPAREG_DOC_VERIFIER",
+        "actionid": 4743,
+        "actioncode": "",
+        "tenantId": "pg"
+    },
+    {
+        "rolecode": "BPAREG_APPROVER",
+        "actionid": 4743,
+        "actioncode": "",
+        "tenantId": "pg"
+    },
+    {
+        "rolecode": "BPAREG_EMPLOYEE",
+        "actionid": 4743,
+        "actioncode": "",
+        "tenantId": "pg"
     }
   ]
 }
