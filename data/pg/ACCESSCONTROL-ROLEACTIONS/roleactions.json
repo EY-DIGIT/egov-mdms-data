@@ -21620,7 +21620,7 @@
       "tenantId": "pg"
   },
   {
-      "rolecode": "BPAREG_DOC_VERIFIER",
+      "rolecode": "BPAREG_APPROVER",
       "actionid": 4930,
       "actioncode": "",
       "tenantId": "pg"
@@ -24645,6 +24645,24 @@
   },
   {
       "rolecode": "SW_CLERK",
+      "actionid": 3699,
+      "actioncode": "",
+      "tenantId": "pg"
+  },
+  {
+      "rolecode": "BPAREG_EMPLOYEE",
+      "actionid": 3699,
+      "actioncode": "",
+      "tenantId": "pg"
+  },
+  {
+      "rolecode": "BPAREG_DOC_VERIFIER",
+      "actionid": 3699,
+      "actioncode": "",
+      "tenantId": "pg"
+  },
+  {
+      "rolecode": "BPAREG_APPROVER",
       "actionid": 3699,
       "actioncode": "",
       "tenantId": "pg"
