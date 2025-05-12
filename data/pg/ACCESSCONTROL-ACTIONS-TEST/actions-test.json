@@ -3336,7 +3336,7 @@
     {
       "id": 269,
       "name": "Inbox Search ofr uI",
-      "url": "/inbox/v1/_search",
+      "url": "/inbox/v2/_search",
       "displayName": "Inbox Search",
       "orderNumber": 0,
       "enabled": false,
@@ -15952,7 +15952,7 @@
     {
         "id": 5155,
         "name": "Inbox Search for UI",
-        "url": "/inbox/v1/_search",
+        "url": "/inbox/v2/_search",
         "displayName": "Inbox Search",
         "orderNumber": 0,
         "enabled": false,
