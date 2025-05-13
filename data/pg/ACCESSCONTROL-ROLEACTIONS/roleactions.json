@@ -33386,6 +33386,18 @@
       "tenantId": "pg"
     },
     {
+      "rolecode": "BPAREG_DOC_VERIFIER",
+      "actionid": 4730,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "BPAREG_APPROVER",
+      "actionid": 4730,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
       "rolecode": "BPAREG_EMPLOYEE",
       "actionid": 4730,
       "actioncode": "",
