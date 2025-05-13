@@ -21205,12 +21205,6 @@
       "actionid": 2045,
       "actioncode": "",
       "tenantId": "mz"
-    },
-    {
-      "rolecode": "CAMPAIGN_MANAGER",
-      "actionid": 2046,
-      "actioncode": "",
-      "tenantId": "mz"
     }
   ]
 }
