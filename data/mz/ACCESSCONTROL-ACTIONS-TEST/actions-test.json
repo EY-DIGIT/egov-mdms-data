@@ -15474,6 +15474,18 @@
       "serviceCode": "mdms",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2046,
+      "name": "HCM-ADMIN-CONSOLE.SimplifiedAppConfigTwo update",
+      "url": "/mdms-v2/v2/_update/HCM-ADMIN-CONSOLE.SimplifiedAppConfigTwo",
+      "parentModule": "",
+      "displayName": "HCM-ADMIN-CONSOLE.SimplifiedAppConfigTwo update API",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "mdms",
+      "code": "null",
+      "path": ""
     }
   ]
 }
