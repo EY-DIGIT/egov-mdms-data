@@ -33338,6 +33338,30 @@
       "tenantId": "pg"
     },
     {
+      "rolecode": "PT_CITIZEN",
+      "actionid": 4945,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "PT_CITIZEN",
+      "actionid": 4896,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "PT_CITIZEN",
+      "actionid": 4991,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "PT_CITIZEN",
+      "actionid": 4957,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
       "rolecode": "TL_CITIZEN",
       "actionid": 5453,
       "actioncode": "",
@@ -33388,6 +33412,12 @@
     {
       "rolecode": "TL_CITIZEN",
       "actionid": 4685,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "TL_CITIZEN",
+      "actionid": 4730,
       "actioncode": "",
       "tenantId": "pg"
     },
