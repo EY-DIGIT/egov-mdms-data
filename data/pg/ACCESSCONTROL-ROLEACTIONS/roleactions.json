@@ -19676,24 +19676,6 @@
       "tenantId": "pg"
   },
   {
-      "rolecode": "TL_APPROVER",
-      "actionid": 4879,
-      "actioncode": "",
-      "tenantId": "pg"
-  },
-  {
-      "rolecode": "TL_CEMP",
-      "actionid": 4879,
-      "actioncode": "",
-      "tenantId": "pg"
-  },
-  {
-      "rolecode": "TL_DOC_VERIFIER",
-      "actionid": 4879,
-      "actioncode": "",
-      "tenantId": "pg"
-  },
-  {
       "rolecode": "CITIZEN",
       "actionid": 4880,
       "actioncode": "",
@@ -25413,73 +25395,7 @@
   },
   {
       "rolecode": "UC_EMP",
-      "actionid": 5092,
-      "actioncode": "",
-      "tenantId": "pg"
-  },
-  {
-      "rolecode": "UC_EMP",
       "actionid": 5093,
-      "actioncode": "",
-      "tenantId": "pg"
-  },
-  {
-      "rolecode": "UC_EMP",
-      "actionid": 5094,
-      "actioncode": "",
-      "tenantId": "pg"
-  },
-  {
-      "rolecode": "UC_EMP",
-      "actionid": 5095,
-      "actioncode": "",
-      "tenantId": "pg"
-  },
-  {
-      "rolecode": "UC_EMP",
-      "actionid": 5096,
-      "actioncode": "",
-      "tenantId": "pg"
-  },
-  {
-      "rolecode": "UC_EMP",
-      "actionid": 5097,
-      "actioncode": "",
-      "tenantId": "pg"
-  },
-  {
-      "rolecode": "UC_EMP",
-      "actionid": 5098,
-      "actioncode": "",
-      "tenantId": "pg"
-  },
-  {
-      "rolecode": "UC_EMP",
-      "actionid": 5099,
-      "actioncode": "",
-      "tenantId": "pg"
-  },
-  {
-      "rolecode": "UC_EMP",
-      "actionid": 5100,
-      "actioncode": "",
-      "tenantId": "pg"
-  },
-  {
-      "rolecode": "UC_EMP",
-      "actionid": 5101,
-      "actioncode": "",
-      "tenantId": "pg"
-  },
-  {
-      "rolecode": "UC_EMP",
-      "actionid": 5102,
-      "actioncode": "",
-      "tenantId": "pg"
-  },
-  {
-      "rolecode": "UC_EMP",
-      "actionid": 5103,
       "actioncode": "",
       "tenantId": "pg"
   },
@@ -25522,24 +25438,6 @@
   {
       "rolecode": "UC_EMP",
       "actionid": 5109,
-      "actioncode": "",
-      "tenantId": "pg"
-  },
-  {
-      "rolecode": "UC_EMP",
-      "actionid": 5110,
-      "actioncode": "",
-      "tenantId": "pg"
-  },
-  {
-      "rolecode": "UC_EMP",
-      "actionid": 5111,
-      "actioncode": "",
-      "tenantId": "pg"
-  },
-  {
-      "rolecode": "UC_EMP",
-      "actionid": 5112,
       "actioncode": "",
       "tenantId": "pg"
   },
