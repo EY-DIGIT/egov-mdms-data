@@ -20930,6 +20930,18 @@
       "serviceCode": "",
       "code": "null",
       "path": ""
+  },
+  {
+      "id": 5558,
+      "name": "DSS Inbox v2 Search",
+      "url": "/inbox/v2/dss/_search",
+      "displayName": "DSS Inbox v2 Search",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "inbox-v2",
+      "code": "null",
+      "path": ""
   }
   ]
 }
