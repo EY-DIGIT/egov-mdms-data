@@ -33386,6 +33386,12 @@
       "tenantId": "pg"
     },
     {
+      "rolecode": "PT_CITIZEN",
+      "actionid": 4743,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
       "rolecode": "TL_CITIZEN",
       "actionid": 5453,
       "actioncode": "",
