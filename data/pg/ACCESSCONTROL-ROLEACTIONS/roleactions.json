@@ -33218,6 +33218,24 @@
       "tenantId": "pg"
     },
     {
+      "rolecode": "BPA_CITIZEN",
+      "actionid": 5155,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "BPA_CITIZEN",
+      "actionid": 4730,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "BPA_CITIZEN",
+      "actionid": 4743,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
       "rolecode": "MC_CITIZEN",
       "actionid": 5446,
       "actioncode": "",
