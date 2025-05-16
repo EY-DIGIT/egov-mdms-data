@@ -363,7 +363,7 @@
     },
     {
       "module": "fsm",
-      "index": "pg-fsm-application",
+      "index": "pg-fsm",
       "allowedSearchCriteria": [
         {
           "name": "tenantId",
