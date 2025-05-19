@@ -363,7 +363,7 @@
     },
     {
       "module": "fsm",
-      "index": "pg-fsm",
+      "index": "pg-fsm-application",
       "allowedSearchCriteria": [
         {
           "name": "tenantId",
@@ -373,7 +373,7 @@
         },
         {
           "name": "status",
-          "path": "Data.processInstance.state.uuid.keyword",
+          "path": "Data.currentProcessInstance.state.uuid.keyword",
           "isMandatory": false
         },
         {
@@ -388,7 +388,7 @@
         },
         {
           "name": "assignee",
-          "path": "Data.processInstance.assignes.uuid.keyword",
+          "path": "Data.currentProcessInstance.assignes.uuid.keyword",
           "isMandatory": false
         },
         {
@@ -415,7 +415,7 @@
         "defaultOrder": "DESC"
       },
       "sourceFilterPathList": [
-        "Data.processInstance",
+        "Data.currentProcessInstance",
         "Data.auditDetails",
         "Data.additionalDetails",
         "Data.tenantId",
