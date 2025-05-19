@@ -373,7 +373,7 @@
         },
         {
           "name": "status",
-          "path": "Data.currentProcessInstance.state.uuid.keyword",
+          "path": "Data.processInstance.state.uuid.keyword",
           "isMandatory": false
         },
         {
@@ -388,7 +388,7 @@
         },
         {
           "name": "assignee",
-          "path": "Data.currentProcessInstance.assignes.uuid.keyword",
+          "path": "Data.processInstance.assignes.uuid.keyword",
           "isMandatory": false
         },
         {
@@ -415,7 +415,7 @@
         "defaultOrder": "DESC"
       },
       "sourceFilterPathList": [
-        "Data.currentProcessInstance",
+        "Data.processInstance",
         "Data.auditDetails",
         "Data.additionalDetails",
         "Data.tenantId",
