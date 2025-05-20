@@ -21211,6 +21211,12 @@
       "actionid": 2046,
       "actioncode": "",
       "tenantId": "mz"
+    },
+   {
+      "rolecode": "TRANSIT_POST_VACCINATOR",
+      "actionid": 2035,
+      "actioncode": "",
+      "tenantId": "mz"
     }
   ]
 }
