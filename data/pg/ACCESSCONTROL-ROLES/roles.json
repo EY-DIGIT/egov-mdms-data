@@ -1022,6 +1022,11 @@
       "code": "CAMPAIGN_MANAGER",
       "name": "Campaign Manager",
       "description": "Campaign Manager"
+    },
+    {
+      "code": "THIRD_PARTY_SUPERUSER",
+      "name": "Third Party Superuser",
+      "description": "Third Party Superuser"
     }
   ]
 }
