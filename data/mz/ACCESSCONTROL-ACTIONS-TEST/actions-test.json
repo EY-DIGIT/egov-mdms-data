@@ -15486,6 +15486,18 @@
       "serviceCode": "mdms",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2047,
+      "name": "Workbench.UISchema",
+      "url": "/mdms-v2/v2/_create/Workbench.UISchema",
+      "parentModule": "",
+      "displayName": "Workbench.UISchema update API",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "mdms",
+      "code": "null",
+      "path": ""
     }
   ]
 }
