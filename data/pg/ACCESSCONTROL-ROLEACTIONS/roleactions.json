@@ -32784,7 +32784,14 @@
       "actionid": 3870,
       "actioncode": "",
       "tenantId": "pg"
+  },
+   {
+      "rolecode": "THIRD_PARTY_SUPERUSER",
+      "actionid": 3605,
+      "actioncode": "",
+      "tenantId": "pg"
   }
+    
   ]
 }
  
