@@ -20930,6 +20930,30 @@
       "serviceCode": "",
       "code": "null",
       "path": ""
-  }
+  },
+    {
+      "id": 5558,
+      "name": "MDMS",
+      "url": "/mdms-v2/v2/_update/FSM.Slum",
+      "displayName": "Update FSM.Slum",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 5559,
+      "name": "MDMS",
+      "url": "/mdms-v2/v2/_create/FSM.Slum",
+      "displayName": "Update FSM.Slum",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    }
   ]
 }
