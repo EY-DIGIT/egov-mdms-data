@@ -33816,7 +33816,19 @@
         "actionid": 4992,
         "actioncode": "",
         "tenantId": "pg"
-    }
+    },
+    {
+      "rolecode": "PT_DOC_VERIFIER",
+      "actionid": 4892,
+      "actioncode": "",
+      "tenantId": "pg"
+   },
+    {
+      "rolecode": "PT_DOC_VERIFIER",
+      "actionid": 125,
+      "actioncode": "",
+      "tenantId": "pg"
+   }
   ]
 }
  
