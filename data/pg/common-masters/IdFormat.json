@@ -874,6 +874,10 @@
 	{
 	    "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
 	    "idname": "1002.lit.receipt.id"
-	}
+	},
+	{
+	    "idname": "pqm.aplnumber",
+	    "format": "[CITY.CODE]-PQM-[cy:yyyy-MM-dd]-[SEQ_EGOV_PQM]"
+	 }
   ]
 }
