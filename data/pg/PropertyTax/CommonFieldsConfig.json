@@ -19,7 +19,7 @@
                     }
                 },
                 {
-                    "route": "pincodeee",
+                    "route": "pincode",
                     "component": "PTSelectPincode",
                     "texts": {
                         "headerCaption": "PT_PROPERTY_LOCATION_CAPTION",
