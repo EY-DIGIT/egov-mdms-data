@@ -33858,7 +33858,13 @@
       "actionid": 5105,
       "actioncode": "",
       "tenantId": "pg"
-   }
+   },
+    {
+      "rolecode": "FSM_COLLECTOR",
+      "actionid": 4991,
+      "actioncode": "",
+      "tenantId": "pg"
+  }
   ]
 }
  
