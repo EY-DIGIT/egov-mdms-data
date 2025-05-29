@@ -15394,24 +15394,24 @@
     {
       "id": 2039,
       "name": "ID pool generate",
-      "url": "/health-idgen/id/id_pool/_generate",
+      "url": "/beneficiary-idgen/id/id_pool/_generate",
       "parentModule": "",
       "displayName": "ID pool generate",
       "orderNumber": 0,
       "enabled": false,
-      "serviceCode": "health-idgen",
+      "serviceCode": "beneficiary-idgen",
       "code": "null",
       "path": ""
     },
     {
       "id": 2040,
       "name": "ID pool dispatch",
-      "url": "/health-idgen/id/id_pool/_dispatch",
+      "url": "/beneficiary-idgen/id/id_pool/_dispatch",
       "parentModule": "",
       "displayName": "ID pool dispatch",
       "orderNumber": 0,
       "enabled": false,
-      "serviceCode": "health-idgen",
+      "serviceCode": "beneficiary-idgen",
       "code": "null",
       "path": ""
     },
@@ -15454,12 +15454,12 @@
     {
       "id": 2044,
       "name": "ID pool Update",
-      "url": "/health-idgen/id/id_pool/_update",
+      "url": "/beneficiary-idgen/id/id_pool/_update",
       "displayName": "ID pool update",
       "orderNumber": 0,
       "parentModule": "",
       "enabled": false,
-      "serviceCode": "health-idgen",
+      "serviceCode": "beneficiary-idgen",
       "code": "null",
       "path": ""
     },
@@ -15510,6 +15510,6 @@
       "serviceCode": "mdms",
       "code": "null",
       "path": ""
-    }
+     }
   ]
 }
