@@ -33834,6 +33834,12 @@
       "actionid": 125,
       "actioncode": "",
       "tenantId": "pg"
+   },
+    {
+      "rolecode": "EMPLOYEE_FINANCE",
+      "actionid": 32,
+      "actioncode": "",
+      "tenantId": "pg"
    }
   ]
 }
