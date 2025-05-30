@@ -633,7 +633,7 @@
         {
           "action": "search",
           "entityName": "uniqueId",
-          "path": "/beneficiary-idgen/id/id_pool/dispatch"
+          "path": "/beneficiary-idgen/id/id_pool/dispatch" 
         }
       ]
 }
