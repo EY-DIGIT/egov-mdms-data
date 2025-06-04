@@ -19266,12 +19266,12 @@
         "serviceCode": "",
         "code": "",
         "path": "",
-        "navigationURL": "/citizen/death-citizen/home",
+        "navigationURL": "/digit-ui/citizen/death",
         "leftIcon": "DeathIcon",
         "rightIcon": "",
         "queryParams": "",
         "sidebar": "digit-ui-links",
-        "sidebarURL": "/citizen/death-citizen/home"
+        "sidebarURL": "/digit-ui/citizen/death"
     },
     {
         "id": 5428,
