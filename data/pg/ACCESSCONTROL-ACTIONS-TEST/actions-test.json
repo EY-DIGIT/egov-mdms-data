@@ -19255,12 +19255,12 @@
         "serviceCode": "",
         "code": "",
         "path": "",
-        "navigationURL": "/citizen/death-citizen/home",
+        "navigationURL": "/digit-ui/citizen/death",
         "leftIcon": "DeathIcon",
         "rightIcon": "",
         "queryParams": "",
         "sidebar": "digit-ui-links",
-        "sidebarURL": "/citizen/death-citizen/home"
+        "sidebarURL": "/digit-ui/citizen/death"
     },
     {
         "id": 5428,
@@ -20954,24 +20954,6 @@
       "serviceCode": "MDMS",
       "code": "null",
       "path": ""
-    },
-    {
-        "id": 5560,
-        "name": "DeathCitizen",
-        "url": "digit-ui-card",
-        "displayName": "Death Search",
-        "orderNumber": 1,
-        "parentModule": "Death",
-        "enabled": true,
-        "serviceCode": "",
-        "code": "",
-        "path": "",
-        "navigationURL": "digit-ui/citizen/death",
-        "leftIcon": "DeathIcon",
-        "rightIcon": "",
-        "queryParams": "",
-        "sidebar": "digit-ui-links",
-        "sidebarURL": "digit-ui/citizen/death"
-    },
+    }
   ]
 }
