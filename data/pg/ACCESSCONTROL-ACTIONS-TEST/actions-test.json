@@ -19255,12 +19255,12 @@
         "serviceCode": "",
         "code": "",
         "path": "",
-        "navigationURL": "/digit-ui/citizen/death",
+        "navigationURL": "/citizen/death-citizen/home",
         "leftIcon": "DeathIcon",
         "rightIcon": "",
         "queryParams": "",
         "sidebar": "digit-ui-links",
-        "sidebarURL": "/digit-ui/citizen/death"
+        "sidebarURL": "/citizen/death-citizen/home"
     },
     {
         "id": 5428,
