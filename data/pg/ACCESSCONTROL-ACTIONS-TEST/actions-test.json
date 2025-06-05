@@ -20881,12 +20881,12 @@
         "serviceCode": "",
         "code": "",
         "path": "",
-        "navigationURL": "digit-ui/citizen/death",
+        "navigationURL": "/digit-ui/citizen/death",
         "leftIcon": "DeathIcon",
         "rightIcon": "",
         "queryParams": "",
         "sidebar": "digit-ui-links",
-        "sidebarURL": "digit-ui/citizen/death"
+        "sidebarURL": "/digit-ui/citizen/death"
     }
   ]
 }
