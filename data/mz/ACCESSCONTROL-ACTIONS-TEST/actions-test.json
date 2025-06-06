@@ -15510,6 +15510,18 @@
       "serviceCode": "mdms",
       "code": "null",
       "path": ""
+     },
+        {
+      "id": 2049,
+      "name": "Create HCM-ADMIN-CONSOLE.SimpleAppConfiguratio",
+      "url": "/mdms-v2/v2/_create/HCM-ADMIN-CONSOLE.SimpleAppConfiguration",
+      "parentModule": "",
+      "displayName": " HCM-ADMIN-CONSOLE.SimpleAppConfiguratio update API",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "mdms",
+      "code": "null",
+      "path": ""
      }
   ]
 }
