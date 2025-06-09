@@ -32703,7 +32703,19 @@
   },
   {
       "rolecode": "EMPLOYEE",
+      "actionid": 5388,
+      "actioncode": "",
+      "tenantId": "pg"
+  },
+   {
+      "rolecode": "DEATH_DOWNLOADER",
       "actionid": 5380,
+      "actioncode": "",
+      "tenantId": "pg"
+  },
+  {
+      "rolecode": "DEATH_DOWNLOADER",
+      "actionid": 5388,
       "actioncode": "",
       "tenantId": "pg"
   }
