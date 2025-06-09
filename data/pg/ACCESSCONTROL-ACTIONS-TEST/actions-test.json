@@ -12817,7 +12817,7 @@
         "displayName": "BPA Stake Holder Search",
         "orderNumber": 1,
         "parentModule": "rainmaker-bpa",
-        "enabled": true,
+        "enabled": false,
         "serviceCode": "BPAREG",
         "code": "null",
         "path": "BPAStakeHolder.Search",
