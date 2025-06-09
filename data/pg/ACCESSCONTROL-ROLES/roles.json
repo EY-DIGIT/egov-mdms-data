@@ -1067,6 +1067,11 @@
       "code": "FN_CITIZEN",
       "name": "FireNOC Citizen",
       "description": "Birth and Death citizen"
+    },
+     {
+      "code": "SY_ADMIN",
+      "name": "Survey Admin",
+      "description": "Survey Admin"
     }
   ]
 }
