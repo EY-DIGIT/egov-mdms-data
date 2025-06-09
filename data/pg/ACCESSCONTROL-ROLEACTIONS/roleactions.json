@@ -32252,7 +32252,7 @@
       "tenantId": "pg"
   },
   {
-      "rolecode": "EMPLOYEE",
+      "rolecode": "SY_ADMIN",
       "actionid": 5490,
       "actioncode": "",
       "tenantId": "pg"
@@ -32264,19 +32264,19 @@
       "tenantId": "pg"
   },
   {
-      "rolecode": "EMPLOYEE",
+      "rolecode": "SY_ADMIN",
       "actionid": 5491,
       "actioncode": "",
       "tenantId": "pg"
   },
   {
-      "rolecode": "EMPLOYEE",
+      "rolecode": "SY_ADMIN",
       "actionid": 5492,
       "actioncode": "",
       "tenantId": "pg"
   },
   {
-      "rolecode": "EMPLOYEE",
+      "rolecode": "SY_ADMIN",
       "actionid": 5493,
       "actioncode": "",
       "tenantId": "pg"
@@ -32288,7 +32288,7 @@
       "tenantId": "pg"
   },
   {
-      "rolecode": "EMPLOYEE",
+      "rolecode": "SY_ADMIN",
       "actionid": 5494,
       "actioncode": "",
       "tenantId": "pg"
