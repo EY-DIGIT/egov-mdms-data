@@ -32252,7 +32252,7 @@
       "tenantId": "pg"
   },
   {
-      "rolecode": "SY_ADMIN",
+      "rolecode": "EMPLOYEE",
       "actionid": 5490,
       "actioncode": "",
       "tenantId": "pg"
@@ -32264,19 +32264,19 @@
       "tenantId": "pg"
   },
   {
-      "rolecode": "SY_ADMIN",
+      "rolecode": "EMPLOYEE",
       "actionid": 5491,
       "actioncode": "",
       "tenantId": "pg"
   },
   {
-      "rolecode": "SY_ADMIN",
+      "rolecode": "EMPLOYEE",
       "actionid": 5492,
       "actioncode": "",
       "tenantId": "pg"
   },
   {
-      "rolecode": "SY_ADMIN",
+      "rolecode": "EMPLOYEE",
       "actionid": 5493,
       "actioncode": "",
       "tenantId": "pg"
@@ -32288,7 +32288,7 @@
       "tenantId": "pg"
   },
   {
-      "rolecode": "SY_ADMIN",
+      "rolecode": "EMPLOYEE",
       "actionid": 5494,
       "actioncode": "",
       "tenantId": "pg"
@@ -33862,6 +33862,36 @@
     {
       "rolecode": "FSM_COLLECTOR",
       "actionid": 4991,
+      "actioncode": "",
+      "tenantId": "pg"
+  },
+    {
+      "rolecode": "SY_ADMIN",
+      "actionid": 5490,
+      "actioncode": "",
+      "tenantId": "pg"
+  },
+  {
+      "rolecode": "SY_ADMIN",
+      "actionid": 5491,
+      "actioncode": "",
+      "tenantId": "pg"
+  },
+  {
+      "rolecode": "SY_ADMIN",
+      "actionid": 5492,
+      "actioncode": "",
+      "tenantId": "pg"
+  },
+  {
+      "rolecode": "SY_ADMIN",
+      "actionid": 5493,
+      "actioncode": "",
+      "tenantId": "pg"
+  },
+  {
+      "rolecode": "SY_ADMIN",
+      "actionid": 5494,
       "actioncode": "",
       "tenantId": "pg"
   }
