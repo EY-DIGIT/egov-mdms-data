@@ -9352,7 +9352,7 @@
     {
         "id": 4593,
         "name": "Financial Expense bill create",
-        "navigationURL": "services/EGF/expensebill/newform",
+        "navigationURL": "digit-ui/employee/services/EGF/expensebill/newform",
         "url": "url",
         "parentModule": "EGF",
         "displayName": "Expense Bill",
@@ -9375,7 +9375,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Transactions.Bills Accounting.Create Voucher",
-        "navigationURL": "services/EGF/voucher/billVoucher-newForm.action"
+        "navigationURL": "digit-ui/employee/services/EGF/voucher/billVoucher-newForm.action"
     },
     {
         "id": 4611,
@@ -9389,7 +9389,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Administration.Cancel Voucher",
-        "navigationURL": "services/EGF/voucher/cancelVoucher-beforeSearch.action"
+        "navigationURL": "digit-ui/employee/services/EGF/voucher/cancelVoucher-beforeSearch.action"
     },
     {
         "id": 4612,
@@ -9403,7 +9403,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Period End Activities.Financial Year",
-        "navigationURL": "services/EGF/HTML/FinancialYearEnq.htm"
+        "navigationURL": "digit-ui/employee/services/EGF/HTML/FinancialYearEnq.htm"
     },
     {
         "id": 4613,
@@ -9417,7 +9417,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Transactions.Payments.Direct Bank Payments",
-        "navigationURL": "services/EGF/payment/directBankPayment-newform.action"
+        "navigationURL": "digit-ui/employee/services/EGF/payment/directBankPayment-newform.action"
     },
     {
         "id": 4614,
@@ -9431,7 +9431,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Transactions.Journal Voucher",
-        "navigationURL": "services/EGF/voucher/journalVoucher-newForm.action"
+        "navigationURL": "digit-ui/employee/services/EGF/voucher/journalVoucher-newForm.action"
     },
     {
         "id": 4615,
@@ -9445,7 +9445,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Masters.Chartofaccounts.Tree View",
-        "navigationURL": "services/EGF/eGov_COA.jsp"
+        "navigationURL": "digit-ui/employee/services/EGF/eGov_COA.jsp"
     },
     {
         "id": 4616,
@@ -9459,7 +9459,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Masters.Chartofaccounts.Detailed Codes.Create Detailed Code",
-        "navigationURL": "services/EGF/masters/chartOfAccounts-addNew.action"
+        "navigationURL": "digit-ui/employee/services/EGF/masters/chartOfAccounts-addNew.action"
     },
     {
         "id": 4617,
@@ -9473,7 +9473,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Reports.Accounting Records.Bank book",
-        "navigationURL": "services/EGF/report/bankBookReport.action"
+        "navigationURL": "digit-ui/employee/services/EGF/report/bankBookReport.action"
     },
     {
         "id": 4618,
@@ -9487,7 +9487,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Reports.MIS Reports.Cheque Issue Register",
-        "navigationURL": "services/EGF/report/chequeIssueRegisterReport.action"
+        "navigationURL": "digit-ui/employee/services/EGF/report/chequeIssueRegisterReport.action"
     },
     {
         "id": 4619,
@@ -9501,7 +9501,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Transactions.Bills Accounting.View Bills",
-        "navigationURL": "services/EGF/bill/billRegisterSearch-newform.action"
+        "navigationURL": "digit-ui/employee/services/EGF/bill/billRegisterSearch-newform.action"
     },
     {
         "id": 4620,
@@ -9515,7 +9515,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Masters.Scheme.Create Scheme",
-        "navigationURL": "services/EGF/masters/scheme-newForm.action"
+        "navigationURL": "digit-ui/employee/services/EGF/masters/scheme-newForm.action"
     },
     {
         "id": 4621,
@@ -9529,7 +9529,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Masters.Scheme.View Scheme",
-        "navigationURL": "services/EGF/masters/scheme-beforeSearch.action"
+        "navigationURL": "digit-ui/employee/services/EGF/masters/scheme-beforeSearch.action"
     },
     {
         "id": 4622,
@@ -9543,7 +9543,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Masters.Scheme.Modify Scheme",
-        "navigationURL": "services/EGF/masters/scheme-beforeSearch-edit.action"
+        "navigationURL": "digit-ui/employee/services/EGF/masters/scheme-beforeSearch-edit.action"
     },
     {
         "id": 4623,
@@ -9557,7 +9557,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Masters.Deductions.Create Deductions",
-        "navigationURL": "services/EGF/recovery/new"
+        "navigationURL": "digit-ui/employee/services/EGF/recovery/new"
     },
     {
         "id": 4624,
@@ -9571,7 +9571,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Masters.Deductions.View Deductions",
-        "navigationURL": "services/EGF/recovery/search/view"
+        "navigationURL": "digit-ui/employee/services/EGF/recovery/search/view"
     },
     {
         "id": 4625,
@@ -9585,7 +9585,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Masters.Deductions.Modify Deductions",
-        "navigationURL": "services/EGF/recovery/search/edit"
+        "navigationURL": "digit-ui/employee/services/EGF/recovery/search/edit"
     },
     {
         "id": 4626,
@@ -9599,7 +9599,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Masters.Scheme.View Sub-scheme",
-        "navigationURL": "services/EGF/masters/subScheme-beforeSearch.action"
+        "navigationURL": "digit-ui/employee/services/EGF/masters/subScheme-beforeSearch.action"
     },
     {
         "id": 4627,
@@ -9613,7 +9613,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Masters.Scheme.Modify Sub-scheme",
-        "navigationURL": "services/EGF/masters/subScheme-beforeSearch-edit.action"
+        "navigationURL": "digit-ui/employee/services/EGF/masters/subScheme-beforeSearch-edit.action"
     },
     {
         "id": 4628,
@@ -9627,7 +9627,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Reports.MIS Reports.Voucher Status Report",
-        "navigationURL": "services/EGF/report/voucherStatusReport-beforeSearch.action"
+        "navigationURL": "digit-ui/employee/services/EGF/report/voucherStatusReport-beforeSearch.action"
     },
     {
         "id": 4629,
@@ -9641,7 +9641,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Administration.Cancel Bills",
-        "navigationURL": "services/EGF/voucher/cancelBill-beforeSearch.action"
+        "navigationURL": "digit-ui/employee/services/EGF/voucher/cancelBill-beforeSearch.action"
     },
     {
         "id": 4630,
@@ -9655,7 +9655,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Transactions.Payments.RTGS Assignment",
-        "navigationURL": "services/EGF/payment/chequeAssignment-beforeRtgsSearch.action"
+        "navigationURL": "digit-ui/employee/services/EGF/payment/chequeAssignment-beforeRtgsSearch.action"
     },
     {
         "id": 4631,
@@ -9669,7 +9669,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Transactions.View Vouchers",
-        "navigationURL": "services/EGF/voucher/voucherSearch-beforesearch.action"
+        "navigationURL": "digit-ui/employee/services/EGF/voucher/voucherSearch-beforesearch.action"
     },
     {
         "id": 4632,
@@ -9683,7 +9683,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Transactions.Payments.Bill Payment",
-        "navigationURL": "services/EGF/payment/payment-beforeSearch.action"
+        "navigationURL": "digit-ui/employee/services/EGF/payment/payment-beforeSearch.action"
     },
     {
         "id": 4633,
@@ -9697,7 +9697,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Transactions.Payments.Cheque Assignment",
-        "navigationURL": "services/EGF/payment/chequeAssignment-beforeSearch.action"
+        "navigationURL": "digit-ui/employee/services/EGF/payment/chequeAssignment-beforeSearch.action"
     },
     {
         "id": 4634,
@@ -9711,7 +9711,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Transactions.Payments.Surrender/Reassign Cheque",
-        "navigationURL": "services/EGF/payment/chequeAssignment-beforeSearchForSurrender.action"
+        "navigationURL": "digit-ui/employee/services/EGF/payment/chequeAssignment-beforeSearchForSurrender.action"
     },
     {
         "id": 4635,
@@ -9725,7 +9725,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Masters.Bank.Account Cheques",
-        "navigationURL": "services/EGF/masters/accountCheque-newform.action"
+        "navigationURL": "digit-ui/employee/services/EGF/masters/accountCheque-newform.action"
     },
     {
         "id": 4636,
@@ -9739,7 +9739,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Masters.Fund.Create Fund",
-        "navigationURL": "services/EGF/fund/new"
+        "navigationURL": "digit-ui/employee/services/EGF/fund/new"
     },
     {
         "id": 4637,
@@ -9753,7 +9753,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Masters.Fund.View Fund",
-        "navigationURL": "services/EGF/fund/search/view"
+        "navigationURL": "digit-ui/employee/services/EGF/fund/search/view"
     },
     {
         "id": 4638,
@@ -9767,7 +9767,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Masters.Fund.Modify Fund",
-        "navigationURL": "services/EGF/fund/search/edit"
+        "navigationURL": "digit-ui/employee/services/EGF/fund/search/edit"
     },
     {
         "id": 4639,
@@ -9781,7 +9781,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Masters.Subledger Configuration.Create other masters",
-        "navigationURL": "services/EGF/accountentity/new"
+        "navigationURL": "digit-ui/employee/services/EGF/accountentity/new"
     },
     {
         "id": 4640,
@@ -9795,7 +9795,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Masters.Subledger Configuration.View Other Masters",
-        "navigationURL": "services/EGF/accountentity/search/view"
+        "navigationURL": "digit-ui/employee/services/EGF/accountentity/search/view"
     },
     {
         "id": 4641,
@@ -9809,7 +9809,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Masters.Subledger Configuration.Modify Other Masters",
-        "navigationURL": "services/EGF/accountentity/search/edit"
+        "navigationURL": "digit-ui/employee/services/EGF/accountentity/search/edit"
     },
     {
         "id": 4642,
@@ -9823,7 +9823,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Masters.Function.Create Function",
-        "navigationURL": "services/EGF/function/new"
+        "navigationURL": "digit-ui/employee/services/EGF/function/new"
     },
     {
         "id": 4643,
@@ -9837,7 +9837,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Masters.Function.View Function",
-        "navigationURL": "services/EGF/function/search/view"
+        "navigationURL": "digit-ui/employee/services/EGF/function/search/view"
     },
     {
         "id": 4644,
@@ -9851,7 +9851,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Masters.Function.Modify Function",
-        "navigationURL": "services/EGF/function/search/edit"
+        "navigationURL": "digit-ui/employee/services/EGF/function/search/edit"
     },
     {
         "id": 4645,
@@ -9865,7 +9865,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Reports.Accounting Records.Trial Balance",
-        "navigationURL": "services/EGF/report/trialBalance-newForm.action"
+        "navigationURL": "digit-ui/employee/services/EGF/report/trialBalance-newForm.action"
     },
     {
         "id": 4646,
@@ -9879,7 +9879,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Masters.Scheme.Create Sub-scheme",
-        "navigationURL": "services/EGF/masters/subScheme-newForm.action"
+        "navigationURL": "digit-ui/employee/services/EGF/masters/subScheme-newForm.action"
     },
     {
         "id": 4647,
@@ -9893,7 +9893,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Reports.MIS Reports.Bill Register Detailed Report",
-        "navigationURL": "services/EGF/report/billRegisterReport-searchform.action"
+        "navigationURL": "digit-ui/employee/services/EGF/report/billRegisterReport-searchform.action"
     },
     {
         "id": 4648,
@@ -9907,7 +9907,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Reports.MIS Reports.Bank Advice Report(RTGS)",
-        "navigationURL": "services/EGF/report/bankAdviceReport-newForm.action"
+        "navigationURL": "digit-ui/employee/services/EGF/report/bankAdviceReport-newForm.action"
     },
     {
         "id": 4649,
@@ -9921,7 +9921,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Masters.Bank.Modify Bank",
-        "navigationURL": "services/EGF/bank/search/edit"
+        "navigationURL": "digit-ui/employee/services/EGF/bank/search/edit"
     },
     {
         "id": 4650,
@@ -9935,7 +9935,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Masters.Bank.Create Bank",
-        "navigationURL": "services/EGF/bank/new"
+        "navigationURL": "digit-ui/employee/services/EGF/bank/new"
     },
     {
         "id": 4651,
@@ -9949,7 +9949,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Reports.MIS Reports.RTGS Register",
-        "navigationURL": "services/EGF/report/rtgsIssueRegisterReport-newForm.action"
+        "navigationURL": "digit-ui/employee/services/EGF/report/rtgsIssueRegisterReport-newForm.action"
     },
     {
         "id": 4652,
@@ -9963,7 +9963,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Reports.Accounting Records.General Ledger",
-        "navigationURL": "services/EGF/report/generalLedgerReport-newForm.action"
+        "navigationURL": "digit-ui/employee/services/EGF/report/generalLedgerReport-newForm.action"
     },
     {
         "id": 4653,
@@ -9977,7 +9977,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Reports.Accounting Records.Subledger Schedule",
-        "navigationURL": "services/EGF/report/subLedgerScheduleReport-newForm.action"
+        "navigationURL": "digit-ui/employee/services/EGF/report/subLedgerScheduleReport-newForm.action"
     },
     {
         "id": 4654,
@@ -9991,7 +9991,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Reports.Accounting Records.Sub Ledger",
-        "navigationURL": "services/EGF/report/subLedgerReport-newForm.action"
+        "navigationURL": "digit-ui/employee/services/EGF/report/subLedgerReport-newForm.action"
     },
     {
         "id": 4655,
@@ -10005,7 +10005,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Reports.Accounting Records.Day Book",
-        "navigationURL": "services/EGF/report/dayBookReport-newForm.action"
+        "navigationURL": "digit-ui/employee/services/EGF/report/dayBookReport-newForm.action"
     },
     {
         "id": 4656,
@@ -10019,7 +10019,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Reports.Accounting Records.Journal Book",
-        "navigationURL": "services/EGF/report/journalBookReport-newForm.action"
+        "navigationURL": "digit-ui/employee/services/EGF/report/journalBookReport-newForm.action"
     },
     {
         "id": 4657,
@@ -10033,7 +10033,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Reports.Accounting Records.Opening Balance",
-        "navigationURL": "services/EGF/report/openingBalanceReport-newForm.action"
+        "navigationURL": "digit-ui/employee/services/EGF/report/openingBalanceReport-newForm.action"
     },
     {
         "id": 4658,
@@ -10047,7 +10047,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Transactions.Payments.Surrender RTGS",
-        "navigationURL": "services/EGF/payment/chequeAssignment-beforeSearchForRTGSSurrender.action"
+        "navigationURL": "digit-ui/employee/services/EGF/payment/chequeAssignment-beforeSearchForRTGSSurrender.action"
     },
     {
         "id": 4659,
@@ -10061,7 +10061,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Masters.Contractor.Create Contractor",
-        "navigationURL": "services/EGF/contractor/newform"
+        "navigationURL": "digit-ui/employee/services/EGF/contractor/newform"
     },
     {
         "id": 4660,
@@ -10075,7 +10075,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Masters.Contractor. View Contractor",
-        "navigationURL": "services/EGF/contractor/search/view"
+        "navigationURL": "digit-ui/employee/services/EGF/contractor/search/view"
     },
     {
         "id": 4661,
@@ -10089,7 +10089,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Masters.Contractor.Modify Contractor",
-        "navigationURL": "services/EGF/contractor/search/edit"
+        "navigationURL": "digit-ui/employee/services/EGF/contractor/search/edit"
     },
     {
         "id": 4662,
@@ -10103,7 +10103,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Masters.Supplier.Create Supplier",
-        "navigationURL": "services/EGF/supplier/newform"
+        "navigationURL": "digit-ui/employee/services/EGF/supplier/newform"
     },
     {
         "id": 4663,
@@ -10117,7 +10117,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Masters.Supplier.View Supplier",
-        "navigationURL": "services/EGF/supplier/search/view"
+        "navigationURL": "digit-ui/employee/services/EGF/supplier/search/view"
     },
     {
         "id": 4664,
@@ -10131,7 +10131,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Masters.Supplier.Modify Supplier",
-        "navigationURL": "services/EGF/supplier/search/edit"
+        "navigationURL": "digit-ui/employee/services/EGF/supplier/search/edit"
     },
     {
         "id": 4665,
@@ -10145,7 +10145,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Masters.Chartofaccounts.Detailed Codes.View Detailed Code",
-        "navigationURL": "services/EGF/masters/chartOfAccounts-viewDetailedCode.action"
+        "navigationURL": "digit-ui/employee/services/EGF/masters/chartOfAccounts-viewDetailedCode.action"
     },
     {
         "id": 4666,
@@ -10159,7 +10159,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Masters.Chartofaccounts.Detailed Codes.Modify Detailed Code",
-        "navigationURL": "services/EGF/masters/chartOfAccounts-editDetailedCode.action"
+        "navigationURL": "digit-ui/employee/services/EGF/masters/chartOfAccounts-editDetailedCode.action"
     },
     {
         "id": 4667,
@@ -10173,7 +10173,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Masters.Bank.View Bank",
-        "navigationURL": "services/EGF/bank/search/view"
+        "navigationURL": "digit-ui/employee/services/EGF/bank/search/view"
     },
     {
         "id": 4668,
@@ -10187,7 +10187,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Masters.Bank.Create Bank Account",
-        "navigationURL": "services/EGF/bankaccount/new"
+        "navigationURL": "digit-ui/employee/services/EGF/bankaccount/new"
     },
     {
         "id": 4669,
@@ -10201,7 +10201,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Masters.Bank.View Bank Account",
-        "navigationURL": "services/EGF/bankaccount/search/view"
+        "navigationURL": "digit-ui/employee/services/EGF/bankaccount/search/view"
     },
     {
         "id": 4670,
@@ -10215,7 +10215,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Masters.Bank.Modify Bank Account",
-        "navigationURL": "services/EGF/bankaccount/search/edit"
+        "navigationURL": "digit-ui/employee/services/EGF/bankaccount/search/edit"
     },
     {
         "id": 4671,
@@ -10229,7 +10229,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Masters.Bank.Create Bank Branch",
-        "navigationURL": "services/EGF/bankbranch/new"
+        "navigationURL": "digit-ui/employee/services/EGF/bankbranch/new"
     },
     {
         "id": 4672,
@@ -10243,7 +10243,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Masters.Bank.View Bank Branch",
-        "navigationURL": "services/EGF/bankbranch/search/view"
+        "navigationURL": "digit-ui/employee/services/EGF/bankbranch/search/view"
     },
     {
         "id": 4673,
@@ -10257,7 +10257,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Masters.Bank.Modify Bank Branch",
-        "navigationURL": "services/EGF/bankbranch/search/edit"
+        "navigationURL": "digit-ui/employee/services/EGF/bankbranch/search/edit"
     },
     {
         "id": 4674,
@@ -10271,7 +10271,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Period End Activities.Opening Balance Entry",
-        "navigationURL": "services/EGF/transactionsummary/new"
+        "navigationURL": "digit-ui/employee/services/EGF/transactionsummary/new"
     },
     {
         "id": 4675,
@@ -10335,7 +10335,7 @@
         "enabled": true,
         "serviceCode": "FinanceMaster",
         "code": "null",
-        "navigationURL": "services/EGF/accountdetailtype/new",
+        "navigationURL": "digit-ui/employee/services/EGF/accountdetailtype/new",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Masters.Subledger Configuration.Create Accounting Entity"
     },
@@ -10349,7 +10349,7 @@
         "enabled": true,
         "serviceCode": "FinanceMaster",
         "code": "null",
-        "navigationURL": "services/EGF/accountdetailtype/search/edit",
+        "navigationURL": "digit-ui/employee/services/EGF/accountdetailtype/search/edit",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Masters.Subledger Configuration.Modify Accounting Entity"
     },
@@ -10362,7 +10362,7 @@
         "parentModule": "",
         "enabled": true,
         "serviceCode": "FinanceMaster",
-        "navigationURL": "services/EGF/accountdetailtype/search/view",
+        "navigationURL": "digit-ui/employee/services/EGF/accountdetailtype/search/view",
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Masters.Subledger Configuration.View Accounting Entity"
@@ -10833,7 +10833,7 @@
         "parentModule": "",
         "enabled": true,
         "serviceCode": "FinanceDeductions",
-        "navigationURL": "services/EGF/deduction/remitRecovery-newform.action",
+        "navigationURL": "digit-ui/employee/services/EGF/deduction/remitRecovery-newform.action",
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Transactions.Deductions.Deduction Payments"
@@ -10860,7 +10860,7 @@
         "parentModule": "",
         "enabled": true,
         "serviceCode": "FinanceDeductions",
-        "navigationURL": "services/EGF/payment/chequeAssignment-beforeSearchForRemittance.action",
+        "navigationURL": "digit-ui/employee/services/EGF/payment/chequeAssignment-beforeSearchForRemittance.action",
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Transactions.Deductions.Deductions Cheque Assignment"
@@ -10885,7 +10885,7 @@
         "parentModule": "",
         "enabled": true,
         "serviceCode": "FinanceMaster",
-        "navigationURL": "services/EGF/purchaseorder/newform",
+        "navigationURL": "digit-ui/employee/services/EGF/purchaseorder/newform",
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Masters.Purchase Order.Create Purchase Order"
@@ -10899,7 +10899,7 @@
         "parentModule": "",
         "enabled": true,
         "serviceCode": "FinanceMaster",
-        "navigationURL": "services/EGF/purchaseorder/search/view",
+        "navigationURL": "digit-ui/employee/services/EGF/purchaseorder/search/view",
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Masters.Purchase Order.View Purchase Order"
@@ -10913,7 +10913,7 @@
         "parentModule": "",
         "enabled": true,
         "serviceCode": "FinanceMaster",
-        "navigationURL": "services/EGF/purchaseorder/search/edit",
+        "navigationURL": "digit-ui/employee/services/EGF/purchaseorder/search/edit",
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Masters.Purchase Order.Modify Purchase Order"
@@ -10967,7 +10967,7 @@
         "parentModule": "",
         "enabled": true,
         "serviceCode": "FinanceMaster",
-        "navigationURL": "services/EGF/workorder/newform",
+        "navigationURL": "digit-ui/employee/services/EGF/workorder/newform",
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Masters.Work Order.Create Work Order"
@@ -10981,7 +10981,7 @@
         "parentModule": "",
         "enabled": true,
         "serviceCode": "FinanceMaster",
-        "navigationURL": "services/EGF/workorder/search/view",
+        "navigationURL": "digit-ui/employee/services/EGF/workorder/search/view",
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Masters.Work Order.View Work Order"
@@ -10995,7 +10995,7 @@
         "parentModule": "",
         "enabled": true,
         "serviceCode": "FinanceMaster",
-        "navigationURL": "services/EGF/workorder/search/edit",
+        "navigationURL": "digit-ui/employee/services/EGF/workorder/search/edit",
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Masters.Work Order.Modify Work Order"
@@ -11021,7 +11021,7 @@
         "enabled": true,
         "serviceCode": "FinanceReport",
         "code": "null",
-        "navigationURL": "services/EGF/report/pendingTDSReport.action",
+        "navigationURL": "digit-ui/employee/services/EGF/report/pendingTDSReport.action",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Reports.Deduction Reports.Remittance Pending "
     },
@@ -11034,7 +11034,7 @@
         "enabled": true,
         "serviceCode": "FinanceReport",
         "code": "null",
-        "navigationURL": "services/EGF/report/pendingTDSReport-summaryReport.action",
+        "navigationURL": "digit-ui/employee/services/EGF/report/pendingTDSReport-summaryReport.action",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Reports.Deduction Reports.Deductions Summary "
     },
@@ -11130,7 +11130,7 @@
     {
         "id": 4744,
         "name": "Financial Contractor bill create",
-        "navigationURL": "services/EGF/contractorbill/newform",
+        "navigationURL": "digit-ui/employee/services/EGF/contractorbill/newform",
         "url": "url",
         "parentModule": "EGF",
         "displayName": "Contractor Bill",
@@ -11144,7 +11144,7 @@
     {
         "id": 4745,
         "name": "Financial Supplier bill create",
-        "navigationURL": "services/EGF/supplierbill/newform",
+        "navigationURL": "digit-ui/employee/services/EGF/supplierbill/newform",
         "url": "url",
         "parentModule": "EGF",
         "displayName": "Supplier Bill",
@@ -11170,7 +11170,7 @@
     {
         "id": 4747,
         "name": "Financial Bank to Bank Transfer",
-        "navigationURL": "services/EGF/contra/contraBTB-newform.action",
+        "navigationURL": "digit-ui/employee/services/EGF/contra/contraBTB-newform.action",
         "url": "url",
         "parentModule": "EGF",
         "displayName": "Bank to Bank Transfer",
@@ -11250,7 +11250,7 @@
     {
         "id": 4753,
         "name": "Income - Expenditures Statement",
-        "navigationURL": "services/EGF/report/incomeExpenditureReport-generateIncomeExpenditureReport.action",
+        "navigationURL": "digit-ui/employee/services/EGF/report/incomeExpenditureReport-generateIncomeExpenditureReport.action",
         "url": "url",
         "parentModule": "EGF",
         "displayName": "Income - Expenditures Statement",
@@ -11264,7 +11264,7 @@
     {
         "id": 4754,
         "name": "Balance Sheet",
-        "navigationURL": "services/EGF/report/balanceSheetReport-generateBalanceSheetReport.action",
+        "navigationURL": "digit-ui/employee/services/EGF/report/balanceSheetReport-generateBalanceSheetReport.action",
         "url": "url",
         "parentModule": "EGF",
         "displayName": "Balance Sheet",
@@ -11278,7 +11278,7 @@
     {
         "id": 4755,
         "name": "createBudgetGroup_Master",
-        "navigationURL": "services/EGF/budgetgroup/new",
+        "navigationURL": "digit-ui/employee/services/EGF/budgetgroup/new",
         "url": "url",
         "parentModule": "EGF",
         "displayName": "Create Budget Group",
@@ -11292,7 +11292,7 @@
     {
         "id": 4756,
         "name": "viewBudgetGroup_Master",
-        "navigationURL": "services/EGF/budgetgroup/search/view",
+        "navigationURL": "digit-ui/employee/services/EGF/budgetgroup/search/view",
         "url": "url",
         "parentModule": "EGF",
         "displayName": "View Budget Group",
@@ -11306,7 +11306,7 @@
     {
         "id": 4757,
         "name": "updateBudgetGroup_Master",
-        "navigationURL": "services/EGF/budgetgroup/search/edit",
+        "navigationURL": "digit-ui/employee/services/EGF/budgetgroup/search/edit",
         "url": "url",
         "parentModule": "EGF",
         "displayName": "Modify Budget Group",
@@ -11320,7 +11320,7 @@
     {
         "id": 4758,
         "name": "createBudgetDefinition_Master",
-        "navigationURL": "services/EGF/budgetdefinition/new",
+        "navigationURL": "digit-ui/employee/services/EGF/budgetdefinition/new",
         "url": "url",
         "parentModule": "EGF",
         "displayName": "Create Budget Definition",
@@ -11334,7 +11334,7 @@
     {
         "id": 4759,
         "name": "viewBudgetDefinition_Master",
-        "navigationURL": "services/EGF/budgetdefinition/search/view",
+        "navigationURL": "digit-ui/employee/services/EGF/budgetdefinition/search/view",
         "url": "url",
         "parentModule": "EGF",
         "displayName": "View Budget Definition",
@@ -11348,7 +11348,7 @@
     {
         "id": 4760,
         "name": "updateBudgetDefinition_Master",
-        "navigationURL": "services/EGF/budgetdefinition/search/edit",
+        "navigationURL": "digit-ui/employee/services/EGF/budgetdefinition/search/edit",
         "url": "url",
         "parentModule": "EGF",
         "displayName": "Modify Budget Definition",
@@ -11362,7 +11362,7 @@
     {
         "id": 4761,
         "name": "Budget Additional Appropriation",
-        "navigationURL": "services/EGF/budget/budgetReAppropriation.action",
+        "navigationURL": "digit-ui/employee/services/EGF/budget/budgetReAppropriation.action",
         "url": "url",
         "parentModule": "EGF",
         "displayName": "Budget Additional Appropriation",
@@ -11376,7 +11376,7 @@
     {
         "id": 4762,
         "name": "uploadBudget_Master",
-        "navigationURL": "services/EGF/budget/budgetLoad-beforeUpload.action",
+        "navigationURL": "digit-ui/employee/services/EGF/budget/budgetLoad-beforeUpload.action",
         "url": "url",
         "parentModule": "EGF",
         "displayName": "Upload Budget",
@@ -11390,7 +11390,7 @@
     {
         "id": 4763,
         "name": "searchBudget_Master",
-        "navigationURL": "services/EGF/approvebudget/search",
+        "navigationURL": "digit-ui/employee/services/EGF/approvebudget/search",
         "url": "url",
         "parentModule": "EGF",
         "displayName": "Approve Uploaded Budget",
@@ -11404,7 +11404,7 @@
     {
         "id": 4764,
         "name": "searchBudget_Master",
-        "navigationURL": "services/EGF/budget/budgetSearch.action",
+        "navigationURL": "digit-ui/employee/services/EGF/budget/budgetSearch.action",
         "url": "url",
         "parentModule": "EGF",
         "displayName": "Search Budget",
@@ -11418,7 +11418,7 @@
     {
         "id": 4765,
         "name": "budgetControlTypeSetUp",
-        "navigationURL": "services/EGF/budgetcheckconfig/new",
+        "navigationURL": "digit-ui/employee/services/EGF/budgetcheckconfig/new",
         "url": "url",
         "parentModule": "EGF",
         "displayName": "Create/Update-Budget Control Type",
@@ -11456,7 +11456,7 @@
         "serviceCode": "FinanceReport",
         "code": "null",
         "path": "Finance.Reports.Budget Reports.Departmentwise Budget",
-        "navigationURL": "services/EGF/budget/budgetReport-departmentWiseReport.action",
+        "navigationURL": "digit-ui/employee/services/EGF/budget/budgetReport-departmentWiseReport.action",
         "leftIcon": "editor:insert-chart"
     },
     {
@@ -11470,7 +11470,7 @@
         "serviceCode": "FinanceReport",
         "code": "null",
         "path": "Finance.Reports.Budget Reports.Functionwise Budget",
-        "navigationURL": "services/EGF/budget/budgetReport-functionwise.action",
+        "navigationURL": "digit-ui/employee/services/EGF/budget/budgetReport-functionwise.action",
         "leftIcon": "editor:insert-chart"
     },
     {
@@ -11484,7 +11484,7 @@
         "serviceCode": "FinanceReport",
         "code": "null",
         "path": "Finance.Reports.Budget Reports.Budget Watch Register",
-        "navigationURL": "services/EGF/report/budgetAppropriationRegisterReport.action",
+        "navigationURL": "digit-ui/employee/services/EGF/report/budgetAppropriationRegisterReport.action",
         "leftIcon": "editor:insert-chart"
     },
     {
@@ -11498,7 +11498,7 @@
         "serviceCode": "FinanceReport",
         "code": "null",
         "path": "Finance.Reports.Budget Reports.Budget Variance Report",
-        "navigationURL": "services/EGF/report/budgetVarianceReport.action",
+        "navigationURL": "digit-ui/employee/services/EGF/report/budgetVarianceReport.action",
         "leftIcon": "editor:insert-chart"
     },
     {
@@ -11512,7 +11512,7 @@
         "serviceCode": "FinanceReport",
         "code": "null",
         "path": "Finance.Reports.Budget Reports.Budget Upload Report",
-        "navigationURL": "services/EGF/budgetuploadreport/search",
+        "navigationURL": "digit-ui/employee/services/EGF/budgetuploadreport/search",
         "leftIcon": "editor:insert-chart"
     },
     {
@@ -11584,7 +11584,7 @@
         "serviceCode": "",
         "code": "",
         "path": "",
-        "navigationURL": "services/EGF/inbox",
+        "navigationURL": "digit-ui/employee/services/EGF/inbox",
         "leftIcon": "editor:insert-chart",
         "rightIcon": "",
         "queryParams": ""
@@ -11741,7 +11741,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Period End Activities.Financial Year.View Financial Year",
-        "navigationURL": "services/EGF/cfinancialyear/search/view"
+        "navigationURL": "digit-ui/employee/services/EGF/cfinancialyear/search/view"
     },
     {
         "id": 4793,
@@ -11755,7 +11755,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Period End Activities.Financial Year.Edit Financial Year",
-        "navigationURL": "services/EGF/cfinancialyear/search/edit"
+        "navigationURL": "digit-ui/employee/services/EGF/cfinancialyear/search/edit"
     },
     {
         "id": 4794,
@@ -11769,7 +11769,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Period End Activities.Transfer Closing Balance",
-        "navigationURL": "services/EGF/pea/transferClosingBalance-new.action"
+        "navigationURL": "digit-ui/employee/services/EGF/pea/transferClosingBalance-new.action"
     },
     {
         "id": 4795,
@@ -11783,7 +11783,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Period End Activities.Close Period",
-        "navigationURL": "services/EGF/closedperiod/search/edit"
+        "navigationURL": "digit-ui/employee/services/EGF/closedperiod/search/edit"
     },
     {
         "id": 4796,
@@ -11797,7 +11797,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Period End Activities.Financial Year.Create Financial Year",
-        "navigationURL": "services/EGF/cfinancialyear/new"
+        "navigationURL": "digit-ui/employee/services/EGF/cfinancialyear/new"
     },
     {
         "id": 4797,
@@ -12300,7 +12300,7 @@
         "parentModule": "",
         "enabled": false,
         "serviceCode": "FinanceDeductions",
-        "navigationURL": "services/EGF/payment/chequeAssignment-beforeRemittanceRtgsSearch.action",
+        "navigationURL": "digit-ui/employee/services/EGF/payment/chequeAssignment-beforeRemittanceRtgsSearch.action",
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Transactions.Deductions.Deductions RTGS Assignment"
@@ -12308,7 +12308,7 @@
     {
         "id": 4837,
         "name": "Financial Bank Reconcilation",
-        "navigationURL": "services/EGF/brs/manualReconciliation-newForm.action",
+        "navigationURL": "digit-ui/employee/services/EGF/brs/manualReconciliation-newForm.action",
         "url": "url",
         "parentModule": "EGF",
         "displayName": "Reconcile with Bank-Manual",
@@ -12322,7 +12322,7 @@
     {
         "id": 4838,
         "name": "Bank Statement Entries - Not In Bank Book",
-        "navigationURL": "services/EGF/payment/bankEntriesNotInBankBook-newform.action",
+        "navigationURL": "digit-ui/employee/services/EGF/payment/bankEntriesNotInBankBook-newform.action",
         "url": "url",
         "parentModule": "EGF",
         "displayName": "Bank Statement Entries - Not In Bank Book",
@@ -12336,7 +12336,7 @@
     {
         "id": 4839,
         "name": "Reconciliation Summary Report",
-        "navigationURL": "services/EGF/brs/bankReconciliation-newForm.action",
+        "navigationURL": "digit-ui/employee/services/EGF/brs/bankReconciliation-newForm.action",
         "url": "url",
         "parentModule": "EGF",
         "displayName": "Reconciliation Summary Report",
@@ -12350,7 +12350,7 @@
     {
         "id": 4840,
         "name": "COA Report",
-        "navigationURL": "services/EGF/masters/coareport/search",
+        "navigationURL": "digit-ui/employee/services/EGF/masters/coareport/search",
         "url": "url",
         "parentModule": "EGF",
         "displayName": "COA Report",
@@ -12662,7 +12662,7 @@
     {
         "id": 4867,
         "name": "Auto reconcile- Statement Upload",
-        "navigationURL": "services/EGF/brs/autoReconciliation-beforeUpload.action",
+        "navigationURL": "digit-ui/employee/services/EGF/brs/autoReconciliation-beforeUpload.action",
         "url": "url",
         "parentModule": "EGF",
         "displayName": "Auto reconcile- Statement Upload",
@@ -12676,7 +12676,7 @@
     {
         "id": 4868,
         "name": "Reconcile Uploaded Statement",
-        "navigationURL": "services/EGF/brs/autoReconciliation-newForm.action",
+        "navigationURL": "digit-ui/employee/services/EGF/brs/autoReconciliation-newForm.action",
         "url": "url",
         "parentModule": "EGF",
         "displayName": "Reconcile Uploaded Statement",
@@ -12714,7 +12714,7 @@
     {
         "id": 4871,
         "name": "View Bank Statement Uploaded Files",
-        "navigationURL": "services/EGF/bankstatement/search",
+        "navigationURL": "digit-ui/employee/services/EGF/bankstatement/search",
         "url": "url",
         "parentModule": "EGF",
         "displayName": "View Bank Statement Uploaded Files",
@@ -12748,7 +12748,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Period End Activities.Close Financial Year",
-        "navigationURL": "services/EGF/cfinancialyear/search/close"
+        "navigationURL": "digit-ui/employee/services/EGF/cfinancialyear/search/close"
     },
     {
         "id": 4874,
@@ -12999,7 +12999,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Period End Activities.Close Period",
-        "navigationURL": "services/EGF/closedperiod/search/view"
+        "navigationURL": "digit-ui/employee/services/EGF/closedperiod/search/view"
     },
     {
         "id": 4892,
@@ -13777,7 +13777,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Reports.MIS Reports.Surrendered Cheque",
-        "navigationURL": "services/EGF/report/cheque/surrendered/form"
+        "navigationURL": "digit-ui/employee/services/EGF/report/cheque/surrendered/form"
     },
     {
         "id": 4960,
@@ -13917,7 +13917,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Period End Activities.Close Period",
-        "navigationURL": "services/EGF/closedperiod/search/reopen"
+        "navigationURL": "digit-ui/employee/services/EGF/closedperiod/search/reopen"
     },
     {
         "id": 4972,
@@ -13987,7 +13987,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Reports.Revenue Reports.Remittance Collection Report",
-        "navigationURL": "services/EGF/report/remittance/collection/form"
+        "navigationURL": "digit-ui/employee/services/EGF/report/remittance/collection/form"
     },
     {
         "id": 4980,
@@ -14045,7 +14045,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Reports.Revenue Reports.Remittance Pending Report",
-        "navigationURL": "services/EGF/report/remittance/pending/form"
+        "navigationURL": "digit-ui/employee/services/EGF/report/remittance/pending/form"
     },
     {
         "id": 4984,
