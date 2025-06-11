@@ -1,9 +1,0 @@
-{
-    "tenantId": "od",
-    "moduleName": "commonUiConfig",
-    "CBOMusterInboxConfig": [
-        {
-            "reSubmitCode" : "PENDINGFORCORRECTION"
-        }
-    ]
-}
