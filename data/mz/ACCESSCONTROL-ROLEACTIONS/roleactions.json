@@ -20223,6 +20223,18 @@
       "tenantid": "mz"
     },
     {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1697,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1748,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
       "rolecode": "FACILITY_CATCHMENT_MAPPER",
       "actionid": 1936,
       "actioncode": "",
