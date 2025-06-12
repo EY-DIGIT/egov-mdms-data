@@ -30476,12 +30476,6 @@
       "tenantId": "pg"
   },
   {
-      "rolecode": "BND_CEMP",
-      "actionid": 5349,
-      "actioncode": "",
-      "tenantId": "pg"
-  },
-  {
       "rolecode": "DASHBOARD_REPORT_VIEWER",
       "actionid": 5349,
       "actioncode": "",
@@ -30508,12 +30502,6 @@
   {
       "rolecode": "DASHBOARD_REPORT_VIEWER",
       "actionid": 5351,
-      "actioncode": "",
-      "tenantId": "pg"
-  },
-  {
-      "rolecode": "BND_CEMP",
-      "actionid": 5352,
       "actioncode": "",
       "tenantId": "pg"
   },
@@ -30544,12 +30532,6 @@
   {
       "rolecode": "DEATH_REPORT_VIEWER",
       "actionid": 5359,
-      "actioncode": "",
-      "tenantId": "pg"
-  },
-  {
-      "rolecode": "BND_CEMP",
-      "actionid": 5360,
       "actioncode": "",
       "tenantId": "pg"
   },
@@ -31006,12 +30988,6 @@
   {
       "rolecode": "CITIZEN",
       "actionid": 5399,
-      "actioncode": "",
-      "tenantId": "pg"
-  },
-  {
-      "rolecode": "BND_CEMP",
-      "actionid": 4886,
       "actioncode": "",
       "tenantId": "pg"
   },
