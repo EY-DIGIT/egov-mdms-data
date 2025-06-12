@@ -12928,7 +12928,7 @@
         "enabled": true,
         "serviceCode": "DSS",
         "code": "null",
-        "path": "Home",
+        "path": "Dashboard.Home",
         "navigationURL": "integration/dss/home",
         "leftIcon": "places:business-center",
         "rightIcon": ""
@@ -18321,7 +18321,7 @@
         "enabled": true,
         "serviceCode": "bnd",
         "code": "null",
-        "path": "BirthRecordsCountReport",
+        "path": "cbbnd.BirthRecordsCountReport",
         "navigationURL": "report/rainmaker-bnd/BirthRecordsCountReport",
         "leftIcon": "action:assignment",
         "rightIcon": ""
@@ -18360,7 +18360,7 @@
         "enabled": true,
         "serviceCode": "bnd",
         "code": "null",
-        "path": "DeathRecordsCountReport",
+        "path": "cbbnd.DeathRecordsCountReport",
         "navigationURL": "report/rainmaker-bnd/DeathRecordsCountReport",
         "leftIcon": "action:assignment",
         "rightIcon": ""
@@ -18387,7 +18387,7 @@
         "enabled": true,
         "serviceCode": "bnd",
         "code": "null",
-        "path": "BirthAndDeathCertificatePayment",
+        "path": "cbbnd.BirthAndDeathCertificatePayment",
         "navigationURL": "report/rainmaker-bnd/BirthAndDeathCertificatePayment",
         "leftIcon": "action:assignment",
         "rightIcon": ""
