@@ -260,7 +260,7 @@
    {
       "module": "Finance",
       "code": "Finance",
-      "active": false,
+      "active": true,
       "order":4,
       "tenants": [
         {
