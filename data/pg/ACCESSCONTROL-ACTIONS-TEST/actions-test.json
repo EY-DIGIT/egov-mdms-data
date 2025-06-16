@@ -10490,7 +10490,7 @@
         "enabled": true,
         "serviceCode": "Collections",
         "code": "null",
-        "navigationURL": "services/collection/receipts/receipt-newform.action?Receipt=Misc#no-back-button",
+        "navigationURL": "/digit-ui/employee/finance/services/collection/receipts/receipt-newform.action?Receipt=Misc#no-back-button",
         "leftIcon": "image:collections",
         "path": "Finance.Revenue/Collections.Miscellaneous Receipts"
     },
@@ -10516,7 +10516,7 @@
         "enabled": true,
         "serviceCode": "Collections",
         "code": "null",
-        "navigationURL": "services/collection/receipts/searchReceipt.action",
+        "navigationURL": "/digit-ui/employee/finance/services/collection/receipts/searchReceipt.action",
         "leftIcon": "image:collections",
         "path": "Finance.Revenue/Collections.Search Receipts"
     },
@@ -10578,7 +10578,7 @@
         "enabled": true,
         "serviceCode": "Collections",
         "code": "null",
-        "navigationURL": "services/collection/receipts/bankRemittance-newform.action",
+        "navigationURL": "/digit-ui/employee/finance/services/collection/receipts/bankRemittance-newform.action",
         "leftIcon": "image:collections",
         "path": "Finance.Revenue/Collections.Cash Remittance"
     },
@@ -10615,7 +10615,7 @@
         "enabled": true,
         "serviceCode": "Collections",
         "code": "null",
-        "navigationURL": "services/collection/receipts/chequeRemittance-newform.action",
+        "navigationURL": "/digit-ui/employee/finance/services/collection/receipts/chequeRemittance-newform.action",
         "leftIcon": "image:collections",
         "path": "Finance.Revenue/Collections.Cheque Remittance"
     },
@@ -10629,7 +10629,7 @@
         "enabled": true,
         "serviceCode": "Collections",
         "code": "null",
-        "navigationURL": "services/collection/service/serviceTypeToBankAccountMapping-newform.action",
+        "navigationURL": "/digit-ui/employee/finance/services/collection/service/serviceTypeToBankAccountMapping-newform.action",
         "leftIcon": "image:collections",
         "path": "Finance.Set-up.Create Bankaccount Mapping"
     },
@@ -10643,7 +10643,7 @@
         "enabled": true,
         "serviceCode": "Collections",
         "code": "null",
-        "navigationURL": "services/collection/service/serviceTypeToBankAccountMapping-list.action",
+        "navigationURL": "/digit-ui/employee/finance/services/collection/service/serviceTypeToBankAccountMapping-list.action",
         "leftIcon": "image:collections",
         "path": "Finance.Set-up.View Bankaccount Mapping"
     },
@@ -14017,7 +14017,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Administration.Dishonor Cheque/DD",
-        "navigationURL": "services/collection/dishonour/cheque/form"
+        "navigationURL": "/digit-ui/employee/finance/services/collection/dishonour/cheque/form"
     },
     {
         "id": 4982,
@@ -14031,7 +14031,7 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Reports.MIS Reports.Dishonored Cheque Report",
-        "navigationURL": "services/collection/report/dishonouredcheque/searchform"
+        "navigationURL": "/digit-ui/employee/finance/services/collection/report/dishonouredcheque/searchform"
     },
     {
         "id": 4983,
