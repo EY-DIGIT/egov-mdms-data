@@ -33882,6 +33882,12 @@
       "actionid": 388,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "MC_CITIZEN",
+      "actionid": 4863,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
