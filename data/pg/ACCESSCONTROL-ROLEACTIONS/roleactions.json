@@ -33870,6 +33870,12 @@
       "actionid": 5494,
       "actioncode": "",
       "tenantId": "pg"
+  },
+  {
+      "rolecode": "WS_CITIZEN",
+      "actionid": 359,
+      "actioncode": "",
+      "tenantId": "pg"
   }
   ]
 }
