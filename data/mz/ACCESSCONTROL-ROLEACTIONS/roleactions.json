@@ -21248,21 +21248,9 @@
       "actioncode": "",
       "tenantId": "mz"
     },
-    {
-    "rolecode": "CAMPAIGN_MANAGER",
-    "actionid": 2050,
-    "actioncode": "",
-    "tenantId": "mz"
-  },
   {
     "rolecode": "MDMS_ADMIN",
     "actionid": 2050,
-    "actioncode": "",
-    "tenantId": "mz"
-  },
-  {
-    "rolecode": "CAMPAIGN_MANAGER",
-    "actionid": 2051,
     "actioncode": "",
     "tenantId": "mz"
   },
@@ -21273,20 +21261,8 @@
     "tenantId": "mz"
   },
   {
-    "rolecode": "CAMPAIGN_MANAGER",
-    "actionid": 2052,
-    "actioncode": "",
-    "tenantId": "mz"
-  },
-  {
     "rolecode": "MDMS_ADMIN",
     "actionid": 2052,
-    "actioncode": "",
-    "tenantId": "mz"
-  },
-  {
-    "rolecode": "CAMPAIGN_MANAGER",
-    "actionid": 2053,
     "actioncode": "",
     "tenantId": "mz"
   },
@@ -21296,21 +21272,9 @@
     "actioncode": "",
     "tenantId": "mz"
   },
-  {
-    "rolecode": "CAMPAIGN_MANAGER",
-    "actionid": 2054,
-    "actioncode": "",
-    "tenantId": "mz"
-  },
-  {
+   {
     "rolecode": "MDMS_ADMIN",
     "actionid": 2054,
-    "actioncode": "",
-    "tenantId": "mz"
-  },
-  {
-    "rolecode": "CAMPAIGN_MANAGER",
-    "actionid": 2055,
     "actioncode": "",
     "tenantId": "mz"
   },
