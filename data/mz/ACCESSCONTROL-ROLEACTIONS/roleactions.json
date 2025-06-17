@@ -21247,6 +21247,90 @@
       "actionid": 2049,
       "actioncode": "",
       "tenantId": "mz"
-    }
+    },
+    {
+    "rolecode": "CAMPAIGN_MANAGER",
+    "actionid": 2050,
+    "actioncode": "",
+    "tenantId": "mz"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 2050,
+    "actioncode": "",
+    "tenantId": "mz"
+  },
+  {
+    "rolecode": "CAMPAIGN_MANAGER",
+    "actionid": 2051,
+    "actioncode": "",
+    "tenantId": "mz"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 2051,
+    "actioncode": "",
+    "tenantId": "mz"
+  },
+  {
+    "rolecode": "CAMPAIGN_MANAGER",
+    "actionid": 2052,
+    "actioncode": "",
+    "tenantId": "mz"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 2052,
+    "actioncode": "",
+    "tenantId": "mz"
+  },
+  {
+    "rolecode": "CAMPAIGN_MANAGER",
+    "actionid": 2053,
+    "actioncode": "",
+    "tenantId": "mz"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 2053,
+    "actioncode": "",
+    "tenantId": "mz"
+  },
+  {
+    "rolecode": "CAMPAIGN_MANAGER",
+    "actionid": 2054,
+    "actioncode": "",
+    "tenantId": "mz"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 2054,
+    "actioncode": "",
+    "tenantId": "mz"
+  },
+  {
+    "rolecode": "CAMPAIGN_MANAGER",
+    "actionid": 2055,
+    "actioncode": "",
+    "tenantId": "mz"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 2055,
+    "actioncode": "",
+    "tenantId": "mz"
+  },
+  {
+    "rolecode": "CAMPAIGN_MANAGER",
+    "actionid": 2056,
+    "actioncode": "",
+    "tenantId": "mz"
+  },
+  {
+    "rolecode": "CAMPAIGN_MANAGER",
+    "actionid": 2057,
+    "actioncode": "",
+    "tenantId": "mz"
+  }
   ]
 }
