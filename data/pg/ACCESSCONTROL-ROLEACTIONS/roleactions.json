@@ -26960,18 +26960,6 @@
       "tenantId": "pg"
   },
   {
-      "rolecode": "WS_CEMP",
-      "actionid": 5178,
-      "actioncode": "",
-      "tenantId": "pg"
-  },
-  {
-      "rolecode": "SW_CEMP",
-      "actionid": 5178,
-      "actioncode": "",
-      "tenantId": "pg"
-  },
-  {
       "rolecode": "SUPERUSER",
       "actionid": 5178,
       "actioncode": "",
@@ -26979,18 +26967,6 @@
   },
   {
       "rolecode": "SUPERUSER",
-      "actionid": 5179,
-      "actioncode": "",
-      "tenantId": "pg"
-  },
-  {
-      "rolecode": "WS_CEMP",
-      "actionid": 5179,
-      "actioncode": "",
-      "tenantId": "pg"
-  },
-  {
-      "rolecode": "SW_CEMP",
       "actionid": 5179,
       "actioncode": "",
       "tenantId": "pg"
