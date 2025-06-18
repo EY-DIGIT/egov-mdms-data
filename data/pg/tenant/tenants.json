@@ -13,7 +13,9 @@
       "twitterUrl": "https://twitter.com/search?q=%23citya",
       "facebookUrl": "https://www.facebook.com/city/citya-Demo",
       "emailId": "complaints.mcj@gmail.com",
-      "OfficeTimings": { "Mon - Fri": "9.00 AM - 6.00 PM" },
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
       "city": {
         "name": "Demo",
         "localName": "Demo",
@@ -46,7 +48,9 @@
       "twitterUrl": "https://twitter.com/search?q=%23citya",
       "facebookUrl": "https://www.facebook.com/city/citya-Demo",
       "emailId": "complaints.mcj@gmail.com",
-      "OfficeTimings": { "Mon - Fri": "9.00 AM - 6.00 PM" },
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
       "city": {
         "name": "CityA",
         "localName": "Janlandhar",
@@ -66,47 +70,21 @@
         "ddrName": "citya"
       },
       "address": "Municipal Corporation Office, Financial District, Victoria City - 144001",
-      "pincode": [144001, 144002, 144003, 144004, 144005, 144006, 144007, 144008, 144009, 144010],
+      "pincode": [
+        144001,
+        144002,
+        144003,
+        144004,
+        144005,
+        144006,
+        144007,
+        144008,
+        144009,
+        144010
+      ],
       "contactNumber": "0181-2227015",
       "pdfHeader": "PG_JALANDHAR_PDF_HEADER",
       "pdfContactDetails": "PG_JALANDHAR_CONTACT_DETAILS"
-    },
-    {
-      "code": "pg.cityb",
-      "name": "CityB",
-      "description": null,
-      "logoId": "https://s3.ap-south-1.amazonaws.com/works-dev-asset/pg.cityb/logo.png",
-      "imageId": "https://s3.ap-south-1.amazonaws.com/works-dev-asset/pg.cityb/logo.png",
-      "domainUrl": "www.citybcorp.com",
-      "type": "CITY",
-      "twitterUrl": "https://twitter.com/search?q=%23AMRITSAR",
-      "facebookUrl": "https://www.facebook.com/city/CityB-Demo",
-      "emailId": "cmcasr@gmail.com",
-      "OfficeTimings": { "Mon - Fri": "9.00 AM - 6.00 PM", "Sat": "9.00 AM - 12.00 PM" },
-      "city": {
-        "name": "CityB",
-        "localName": "CityB",
-        "districtCode": "1",
-        "districtName": "CityB",
-        "districtTenantCode": "pg.cityb",
-        "regionName": "CityB Region",
-        "ulbGrade": "Municipal Corporation",
-        "ulbType": "Municipal Corporation",
-        "longitude": 74.8723,
-        "latitude": 31.634,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "107",
-        "regionCode": "1",
-        "municipalityName": "CityB",
-        "ddrName": "cityb"
-      },
-      "address": "Municipal Corporation Office, Trade & Logistics Park, Salem City - 143002",
-      "pincode": [143001, 143002, 143003, 143004, 143005, 143006, 143007, 143008, 143009, 143010],
-      "contactNumber": "0183-2545155",
-      "helpLineNumber": "0183-2210300",
-      "pdfHeader": "PG_AMRITSAR_PDF_HEADER",
-      "pdfContactDetails": "PG_AMRITSAR_CONTACT_DETAILS"
     }
   ]
 }
