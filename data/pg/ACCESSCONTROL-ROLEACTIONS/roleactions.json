@@ -33942,6 +33942,12 @@
       "actionid": 4863,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+       "rolecode": "BD_CITIZEN",
+      "actionid": 4572,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
