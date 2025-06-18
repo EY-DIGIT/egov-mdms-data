@@ -10492,7 +10492,7 @@
         "code": "null",
         "navigationURL": "/digit-ui/employee/finance/services/collection/receipts/receipt-newform.action?Receipt=Misc#no-back-button",
         "leftIcon": "image:collections",
-        "path": "Finance.Revenue/Collections.Miscellaneous Receipts"
+        "path": "Finance.Revenue / Collections.Miscellaneous Receipts"
     },
     {
         "id": 4692,
@@ -10518,7 +10518,7 @@
         "code": "null",
         "navigationURL": "/digit-ui/employee/finance/services/collection/receipts/searchReceipt.action",
         "leftIcon": "image:collections",
-        "path": "Finance.Revenue/Collections.Search Receipts"
+        "path": "Finance.Revenue / Collections.Search Receipts"
     },
     {
         "id": 4694,
@@ -10580,7 +10580,7 @@
         "code": "null",
         "navigationURL": "/digit-ui/employee/finance/services/collection/receipts/bankRemittance-newform.action",
         "leftIcon": "image:collections",
-        "path": "Finance.Revenue/Collections.Cash Remittance"
+        "path": "Finance.Revenue / Collections.Cash Remittance"
     },
     {
         "id": 4699,
@@ -10617,7 +10617,7 @@
         "code": "null",
         "navigationURL": "/digit-ui/employee/finance/services/collection/receipts/chequeRemittance-newform.action",
         "leftIcon": "image:collections",
-        "path": "Finance.Revenue/Collections.Cheque Remittance"
+        "path": "Finance.Revenue / Collections.Cheque Remittance"
     },
     {
         "id": 4704,
