@@ -65,7 +65,7 @@
           "customProps": {
             "module": "HCM"
           },
-          "isMandatory": false,
+          "isMandatory": true,
           "withoutLabel": true
         }
       ],
