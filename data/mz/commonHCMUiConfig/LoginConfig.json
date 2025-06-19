@@ -102,7 +102,7 @@
         },
         {
           "id": 6,
-          "image": "https://egov-dev-assets.s3.ap-south-1.amazonaws.com/hcm/banner/pagefive.jpeg",
+          "image": "https://egov-dev-assets.s3.ap-south-1.amazonaws.com/hcm/banner/pageconsole.png",
           "title": "CORE_HCM_TITLE_FIVE",
           "description": "CORE_HCM_DESCRIPTION_FIVE"
         },
