@@ -15634,7 +15634,7 @@
       "id": 2059,
       "url": "/mdms-v2/v2/_update/HCM-ADMIN-CONSOLE.AppConfigCache",
       "code": "null",
-      "name": "create data for schema",
+      "name": "Update data for schema",
       "path": "",
       "enabled": true,
       "displayName": "schema create data API",
