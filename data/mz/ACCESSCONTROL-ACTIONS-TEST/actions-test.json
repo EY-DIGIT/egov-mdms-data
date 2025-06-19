@@ -15621,7 +15621,18 @@
      },
     {
       "id": 2058,
-      "url": "/egov-mdms-service/v2/_create/HCM-ADMIN-CONSOLE.AppConfigCache",
+      "url": "/mdms-v2/v2/_create/HCM-ADMIN-CONSOLE.AppConfigCache",
+      "code": "null",
+      "name": "create data for schema",
+      "path": "",
+      "enabled": true,
+      "displayName": "schema create data API",
+      "orderNumber": 0,
+      "serviceCode": "mdms"
+    },
+      {
+      "id": 2059,
+      "url": "/mdms-v2/v2/_update/HCM-ADMIN-CONSOLE.AppConfigCache",
       "code": "null",
       "name": "create data for schema",
       "path": "",
