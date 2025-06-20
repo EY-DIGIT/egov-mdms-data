@@ -1,0 +1,13 @@
+{
+ "tenantId": "pg",
+ "moduleName": "PropertyTax",
+ "SanitationCess": [
+   {
+     "rate": 50,
+     "minAmount": null,
+     "flatAmount": null,
+     "maxAmount" : null,
+     "fromFY": "2024-25"
+   }
+ ]
+}
