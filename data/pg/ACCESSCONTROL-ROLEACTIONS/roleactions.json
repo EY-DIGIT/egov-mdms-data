@@ -33990,6 +33990,12 @@
       "actionid": 5002,
       "actioncode": "",
       "tenantId": "pg"
+  },
+    {
+      "rolecode": "BPA_CITIZEN",
+      "actionid": 5041,
+      "actioncode": "",
+      "tenantId": "pg"
   }
   ]
 }
