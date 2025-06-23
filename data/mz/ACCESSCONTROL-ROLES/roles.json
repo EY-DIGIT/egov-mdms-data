@@ -196,6 +196,11 @@
       "code": "CONSOLE_MASTER_MANAGER",
       "name": "Console master manager",
       "description": "Console master manager"
+    },
+    {
+      "code": "FIELD_SUPPORT",
+      "name": "Field support",
+      "description": "Field support"
     }
   ]
 }
