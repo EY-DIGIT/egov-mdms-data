@@ -21307,6 +21307,12 @@
       "actionid": 2059,
       "actioncode": "",
       "tenantId": "mz"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1697,
+      "actioncode": "",
+      "tenantId": "mz"
     }
   ]
 }
