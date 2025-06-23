@@ -323,9 +323,6 @@
       "tenants": [
         {
           "code": "pg.citya"
-        },
-        {
-          "code": "pg.cityb"
         }
       ]
     },
@@ -338,9 +335,6 @@
       "tenants": [
         {
           "code": "pg.citya"
-        },
-        {
-          "code": "pg.cityb"
         }
       ]
     },
@@ -364,9 +358,6 @@
       "tenants": [
         {
           "code": "pg.citya"
-        },
-        {
-          "code": "pg.cityb"
         }
       ]
     },
