@@ -33960,6 +33960,30 @@
       "actionid": 4863,
       "actioncode": "",
       "tenantId": "pg"
+  },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 4863,
+      "actioncode": "",
+      "tenantId": "pg"
+  },
+    {
+      "rolecode": "TL_CITIZEN",
+      "actionid": 4863,
+      "actioncode": "",
+      "tenantId": "pg"
+  },
+    {
+      "rolecode": "BPA_CITIZEN",
+      "actionid": 4863,
+      "actioncode": "",
+      "tenantId": "pg"
+  },
+{
+      "rolecode": "TL_CITIZEN",
+      "actionid": 4863,
+      "actioncode": "",
+      "tenantId": "pg"
   }
   ]
 }
