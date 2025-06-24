@@ -15640,6 +15640,16 @@
       "displayName": "schema create data API",
       "orderNumber": 0,
       "serviceCode": "mdms"
+    },
+    {
+      "id": 2060,
+      "url": "/project-factory/v2/data/_process",
+      "code": "null",
+      "name": "Template Generate V2",
+      "enabled": true,
+      "displayName": "Template Generate",
+      "orderNumber": 0,
+      "serviceCode": "mdms"
     }
   ]
 }

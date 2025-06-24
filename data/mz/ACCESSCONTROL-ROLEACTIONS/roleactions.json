@@ -21313,6 +21313,12 @@
       "actionid": 1697,
       "actioncode": "",
       "tenantId": "mz"
+    },
+   {
+      "rolecode": "CAMPAIGN_MANAGER",
+      "actionid": 2060,
+      "actioncode": "",
+      "tenantId": "mz"
     }
   ]
 }
