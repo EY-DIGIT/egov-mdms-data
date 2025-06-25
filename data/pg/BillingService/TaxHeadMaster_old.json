@@ -102,66 +102,6 @@
       "order": "1",
       "isRequired": false
     },
-	{
-      "category": "TAX",
-      "service": "PT",
-      "name": "Pt ptax cess",
-      "code": "PT_PTAX_CESS",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "1",
-      "isRequired": false
-    },
-	{
-      "category": "TAX",
-      "service": "PT",
-      "name": "Pt drainage cess",
-      "code": "PT_DRAINAGE_CESS",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "1",
-      "isRequired": false
-    },
-	{
-      "category": "TAX",
-      "service": "PT",
-      "name": "Pt water charges cess",
-      "code": "PT_WATER_CHARGES_CESS",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "1",
-      "isRequired": false
-    },
-	{
-      "category": "TAX",
-      "service": "PT",
-      "name": "Pt education cess",
-      "code": "PT_EDUCATION_CESS",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "1",
-      "isRequired": false
-    },
-	{
-      "category": "TAX",
-      "service": "PT",
-      "name": "Pt urban cess one",
-      "code": "PT_URBAN_CESS_ONE",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "1",
-      "isRequired": false
-    },
-	{
-      "category": "TAX",
-      "service": "PT",
-      "name": "Pt urban cess two",
-      "code": "PT_URBAN_CESS_TWO",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "1",
-      "isRequired": false
-    },
     {
       "category": "TAX",
       "service": "PT",
