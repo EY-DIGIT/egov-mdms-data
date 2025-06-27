@@ -1,0 +1,13 @@
+{
+ "tenantId": "pg",
+ "moduleName": "PropertyTax",
+ "DrainageCess": [
+   {
+     "rate": 20,
+     "minAmount": null,
+     "flatAmount": null,
+     "maxAmount" : null,
+     "fromFY": "2024-25"
+   }
+ ]
+}
