@@ -4,20 +4,164 @@
   "ConstructionSubType": [
     {
       "id": "1",
-      "name": "Pucca",
-      "code": "PUCCA",
+      "name": "R.C.C. PAKKA",
+      "code": "RCCPAKKA",
       "active": true
     },
     {
       "id": "2",
-      "name": "Semi-Pucca",
-      "code": "SEMIPUCCA",
+      "name": "R.C.C. TIN SHADE",
+      "code": "RCCTINSHADE",
       "active": true
     },
     {
       "id": "3",
-      "name": "Kuccha",
-      "code": "KUCCHA",
+      "name": "Kachha",
+      "code": "KACHHA",
+      "active": true
+    },
+    {
+      "id": "4",
+      "name": "OPEN LAND",
+      "code": "OPENLAND",
+      "active": true
+    },
+    {
+      "id": "5",
+      "name": "Open Land Undeveloped",
+      "code": "OPENLANDUNDEVELOPED",
+      "active": true
+    },
+    {
+      "id": "6",
+      "name": "Open Land/Comm/Ind",
+      "code": "OPENLANDCOMMIND",
+      "active": true
+    },
+    {
+      "id": "7",
+      "name": "Pakke Bhavan with Tiles Chappar",
+      "code": "PAKKEBHAVANWITHTILESCHAPPAR",
+      "active": true
+    },
+    {
+      "id": "8",
+      "name": "Pakke Bhavan with Chappar",
+      "code": "PAKKEBHAVANWITHCHAPPAR",
+      "active": true
+    },
+    {
+      "id": "9",
+      "name": "Kachhe Bhavan with Chappar",
+      "code": "KACHHEBHAVANWITHCHAPPAR",
+      "active": true
+    },
+    {
+      "id": "10",
+      "name": "Platform/Kachhe Bhavan",
+      "code": "PLATFORMKACHHEBHAVAN",
+      "active": true
+    },
+    {
+      "id": "11",
+      "name": "देसी ख्परेल की छपर के कच्चे भवन",
+      "code": "DESIKHPARELKICHAPARKEKACCHEBHAVAN",
+      "active": true
+    },
+    {
+      "id": "12",
+      "name": "कवेल की छपर वाली झुग्ही झोपड़ी",
+      "code": "KAVELKICHAPARVALIJHUGHIJHOPADI",
+      "active": true
+    },
+    {
+      "id": "13",
+      "name": "देसी ख्परेल की छपर वाली झुग्ही झोपड़ी",
+      "code": "DESIKHPARELKICHAPARVALIJHUGHIJHOPADI",
+      "active": true
+    },
+    {
+      "id": "14",
+      "name": "PURVA BHUMI ( BEFORE )",
+      "code": "PURVABHUMIBEFORE",
+      "active": true
+    },
+    {
+      "id": "15",
+      "name": "PURV BHUMI ( AFTER )",
+      "code": "PURVBHUMIAFTER",
+      "active": true
+    },
+    {
+      "id": "16",
+      "name": "MOS OPEN LAND",
+      "code": "MOSOPENLAND",
+      "active": true
+    },
+    {
+      "id": "24",
+      "name": "RCC PAKKA ( AFTER )",
+      "code": "RCCPAKKAAFTER",
+      "active": true
+    },
+    {
+      "id": "25",
+      "name": "CEMENT/TIN ( AFTER )",
+      "code": "CEMENTTINAFTER",
+      "active": true
+    },
+    {
+      "id": "26",
+      "name": "KACHHA ( AFTER )",
+      "code": "KACHHAAFTER",
+      "active": true
+    },
+    {
+      "id": "31",
+      "name": "PAKKA BEFORE 73",
+      "code": "PAKKABEFORE73",
+      "active": true
+    },
+    {
+      "id": "32",
+      "name": "PAKKA 74-94",
+      "code": "PAKKA7494",
+      "active": true
+    },
+    {
+      "id": "33",
+      "name": "PAKKA 95-15",
+      "code": "PAKKA9515",
+      "active": true
+    },
+    {
+      "id": "34",
+      "name": "PAKKA AFTER 16",
+      "code": "PAKKAAFTER16",
+      "active": true
+    },
+    {
+      "id": "35",
+      "name": "KACHHA BEFORE 73",
+      "code": "KACHHABEFORE73",
+      "active": true
+    },
+    {
+      "id": "36",
+      "name": "KACHHA 74-94",
+      "code": "KACHHA7494",
+      "active": true
+    },
+    {
+      "id": "37",
+      "name": "KACHHA 95-15",
+      "code": "KACHHA9515",
+      "active": true
+    },
+    {
+      "id": "38",
+      "name": "KACHHA AFTER 16",
+      "code": "KACHHAAFTER16",
       "active": true
     }
   ]

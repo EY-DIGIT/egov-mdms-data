@@ -5,20 +5,26 @@
   [
     {
       "id": "1",
-      "name": "Pucca",
-      "code": "PUCCA",
+      "name": "R.C.C",
+      "code": "RCC",
       "active": true
     },
     {
       "id": "2",
-      "name": "Semi-Pucca",
-      "code": "SEMIPUCCA",
+      "name": "Pakka",
+      "code": "PAKKAA",
       "active": true
     },
     {
       "id": "3",
       "name": "Kuccha",
       "code": "KUCCHA",
+      "active": true
+    },
+     {
+      "id": "4",
+      "name": "Open Land",
+      "code": "OPENLAND",
       "active": true
     }
   ]
