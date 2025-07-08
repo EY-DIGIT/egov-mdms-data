@@ -172,6 +172,36 @@
       "order": "1",
       "isRequired": false
     },
+	{
+      "category": "TAX",
+      "service": "PT",
+      "name": "Property Tax",
+      "code": "PT_PROPERTY_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+	{
+      "category": "TAX",
+      "service": "PT",
+      "name": "Net Taxable Property Value (TPV)",
+      "code": "PT_TPV",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+	{
+      "category": "TAX",
+      "service": "PT",
+      "name": "ALV",
+      "code": "PT_ALV",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
     {
       "category": "TAX",
       "service": "PT",
