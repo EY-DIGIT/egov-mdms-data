@@ -12,11 +12,6 @@
       "name": "Self-Occupied",
       "code": "SELFOCCUPIED",
       "active": true
-    },
-    {
-      "name": "Unoccupied",
-      "code": "UNOCCUPIED",
-      "active": true
     }
   ]
 }
