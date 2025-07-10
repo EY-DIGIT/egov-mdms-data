@@ -3,7 +3,7 @@
   "moduleName": "BillingService",
   "TaxHeadMaster": [
     {
-      "category": "TAX",
+      "category": "REBATE",
       "service": "PT",
       "name": "Pt adhoc rebate",
       "code": "PT_ADHOC_REBATE",
@@ -23,7 +23,7 @@
       "isRequired": false
     },
     {
-      "category": "TAX",
+      "category": "EXEMPTION",
       "service": "PT",
       "name": "Pt owner exemption",
       "code": "PT_OWNER_EXEMPTION",
@@ -33,7 +33,7 @@
       "isRequired": false
     },
     {
-      "category": "TAX",
+      "category": "REBATE",
       "service": "PT",
       "name": "Pt time rebate",
       "code": "PT_TIME_REBATE",
@@ -43,7 +43,7 @@
       "isRequired": false
     },
     {
-      "category": "TAX",
+      "category": "EXEMPTION",
       "service": "PT",
       "name": "Pt unit usage excemption",
       "code": "PT_UNIT_USAGE_EXEMPTION",
@@ -53,7 +53,7 @@
       "isRequired": false
     },
     {
-      "category": "TAX",
+      "category": "PENALTY",
       "service": "PT",
       "name": "Pt adhoc penalty",
       "code": "PT_ADHOC_PENALTY",
@@ -203,7 +203,7 @@
       "isRequired": false
     },
     {
-      "category": "TAX",
+      "category": "PENALTY",
       "service": "PT",
       "name": "Pt time penalty",
       "code": "PT_TIME_PENALTY",
