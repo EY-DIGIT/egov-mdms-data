@@ -7,7 +7,7 @@
       "code": "pg",
       "qrCodeURL": "https://raw.githubusercontent.com/egovernments/frontend/master/web/rainmaker/dev-packages/egov-ui-kit-dev/src/assets/images/qrImage.png",
       "bannerUrl": "https://s3.ap-south-1.amazonaws.com/works-dev-asset/banner-bg.jpg",
-      "logoUrl": "https://egov-dev-assets.s3.ap-south-1.amazonaws.com/digit.png",
+      "logoUrl": "",
       "logoUrlWhite": "",
       "statelogo":"https://s3.ap-south-1.amazonaws.com/works-dev-asset/pg/logo.png",
       "hasLocalisation": true,
