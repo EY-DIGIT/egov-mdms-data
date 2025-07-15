@@ -9,12 +9,6 @@
       "fromFY": "2024-25"
     },
     {
-      "name": "Non-Residential",
-      "code": "NONRESIDENTIAL",
-      "active": true,
-      "fromFY": "2024-25"
-    },
-    {
       "name": "Commercial",
       "code": "COMMERCIAL",
       "active": true,
