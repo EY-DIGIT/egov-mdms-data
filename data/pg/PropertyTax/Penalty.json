@@ -3,32 +3,46 @@
   "moduleName": "PropertyTax",
   "Penalty": [
     {
+      "rate": 5,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "2024-25",
+      "startingDay": "1/07/2024"
+    },
+    {
       "rate": 10,
       "minAmount": null,
       "flatAmount": null,
       "fromFY": "2024-25",
-      "startingDay": "1/12/2025"
+      "startingDay": "1/02/2025"
+    },
+    {
+      "rate": 15,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "2024-25",
+      "startingDay": "1/03/2025"
+    },
+    {
+      "rate": 5,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "2025-26",
+      "startingDay": "1/07/2025"
     },
     {
       "rate": 10,
       "minAmount": null,
       "flatAmount": null,
-      "fromFY": "2018-19",
-      "startingDay": "1/01/2018"
+      "fromFY": "2025-26",
+      "startingDay": "1/02/2026"
     },
     {
-      "rate": 20,
+      "rate": 15,
       "minAmount": null,
       "flatAmount": null,
-      "fromFY": "2015-16",
-      "startingDay": "1/04/2016"
-    },
-    {
-      "rate": 20,
-      "minAmount": null,
-      "flatAmount": null,
-      "fromFY": "2018-19",
-      "startingDay": "11/12/2018"
+      "fromFY": "2025-26",
+      "startingDay": "1/03/2026"
     }
   ]
 }
