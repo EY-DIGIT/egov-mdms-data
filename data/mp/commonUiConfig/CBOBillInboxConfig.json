@@ -1,0 +1,10 @@
+{
+    "tenantId": "mp",
+    "moduleName": "commonUiConfig",
+    "CBOBillInboxConfig": [
+        {
+            "rejectedCode" : "REJECTED",
+            "approvedCode" : "APPROVED" 
+        }
+    ]
+}

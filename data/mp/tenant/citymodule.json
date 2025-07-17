@@ -1,0 +1,479 @@
+{
+    "tenantId": "mp",
+    "moduleName": "tenant",
+    "citymodule": [
+        {
+            "module": "Works",
+            "code": "Works",
+            "active": true,
+            "order": 1,
+            "tenants": [
+                {
+                    "code": "mp.Indore"
+                }
+            ]
+        },
+        {
+            "module": "AttendenceMgmt",
+            "code": "AttendenceMgmt",
+            "active": true,
+            "order": 4,
+            "tenants": [
+                {
+                    "code": "mp.Indore"
+                }
+            ]
+        },
+        {
+            "module": "Contracts",
+            "code": "Contracts",
+            "active": true,
+            "order": 5,
+            "tenants": [
+                {
+                    "code": "mp.Indore"
+                }
+            ]
+        },
+        {
+            "module": "Expenditure",
+            "code": "Expenditure",
+            "active": true,
+            "order": 7,
+            "tenants": [
+                {
+                    "code": "mp.Indore"
+                }
+            ]
+        },
+        {
+            "module": "Estimate",
+            "code": "Estimate",
+            "active": true,
+            "order": 3,
+            "tenants": [
+                {
+                    "code": "mp.Indore"
+                }
+            ]
+        },
+        {
+            "module": "Masters",
+            "code": "Masters",
+            "active": true,
+            "order": 6,
+            "tenants": [
+                {
+                    "code": "mp.Indore"
+                }
+            ]
+        },
+        {
+            "module": "Project",
+            "code": "Project",
+            "active": true,
+            "order": 8,
+            "tenants": [
+                {
+                    "code": "mp.Indore"
+                }
+            ]
+        },
+         {
+            "module": "Mukta",
+            "code": "Mukta",
+            "active": true,
+            "order": 9,
+            "tenants": [
+                {
+                    "code": "mp.Indore"
+                }
+            ]
+        },
+        {
+           "module": "Utilities",
+           "code": "Utilities",
+           "active": true,
+           "order": 11,
+           "tenants": [
+               {
+                   "code": "mp.Indore"
+               }
+           ]
+       },
+        {
+        "module": "Workbench",
+        "code": "Workbench",
+        "active": true,
+        "order": 13,
+        "tenants": [
+            {
+                "code": "mp.Indore"
+            }
+        ]
+    },{
+        "module": "Measurement",
+        "code": "Measurement",
+        "active": true,
+        "order": 13,
+        "tenants": [
+            {
+                "code": "mp.Indore"
+            }
+        ]
+    },
+        {
+           "module": "Sample",
+           "code": "Sample",
+           "active": true,
+           "order": 12,
+           "tenants": [
+               {
+                   "code": "mp.Indore"
+               }
+           ]
+       },
+       {
+        "module": "Tqm",
+        "code": "Tqm",
+        "active": true,
+        "order": 14,
+        "additionalComponent": "TqmAdminNotification",
+        "tenants": [
+            {
+                "code": "mp.Indore"
+            }
+        ]
+      },
+    {
+       "module": "Campaign",
+       "code": "Campaign",
+       "active": true,
+       "order": 14,
+       "tenants": [
+            {
+                "code": "mp.Indore"
+            }
+      ]
+    },
+    {
+        "module": "RateAnalysis",
+        "code": "RateAnalysis",
+        "active": true,
+        "order": 15,
+        "tenants": [
+            {
+                "code": "mp.Indore"
+            }
+        ]
+    },
+    {
+      "module": "PGR",
+      "code": "PGR",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PGR.png",
+      "active": true,
+      "order":2,
+      "tenants": [
+        {
+          "code": "mp.Indore"
+        }
+      ]
+    },
+    {
+      "module": "PT",
+      "code": "PT",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
+      "active": true,
+      "order":1,
+      "tenants": [
+        {
+          "code": "mp.Indore"
+        }
+      ]
+    },
+    {
+      "module": "QuickPayLinks",
+      "code": "QuickPayLinks",
+      "active": true,
+      "order":1,
+      "tenants": [
+        {
+          "code": "mp.Indore"
+        }
+      ]
+    },
+   {
+      "module": "Finance",
+      "code": "Finance",
+      "active": false,
+      "order":4,
+      "tenants": [
+        {
+          "code": "mp.Indore"
+        }
+      ]
+    },
+    {
+      "module": "TL",
+      "code": "TL",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/TL.png",
+      "active": true,
+      "order":2,
+      "tenants": [
+        {
+          "code": "mp.Indore"
+        }
+      ]
+    },
+    {
+      "module": "Firenoc",
+      "code": "Firenoc",
+      "active": true,
+      "order":2,
+      "tenants": [
+        {
+          "code": "mp.Indore"
+        }
+      ]
+    },
+    {
+      "module": "UC",
+      "code": "UC",
+      "active": false,
+      "order":2,
+      "tenants": [
+        {
+          "code": "mp.Indore"
+        }
+      ]
+    },
+    {
+      "module": "BPAREG",
+      "code": "BPAREG",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
+      "active": true,
+      "order":2,
+      "tenants": [
+        {
+          "code": "mp.Indore"
+        }
+      ]
+    },
+    {
+      "module": "BPAAPPLY",
+      "code": "BPAAPPLY",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
+      "active": true,
+      "order":2,
+      "tenants": [
+        {
+          "code": "mp.Indore"
+        }
+      ]
+    },
+    {
+      "module": "PGR.WHATSAPP",
+      "code": "PGR.WHATSAPP",
+      "active": false,
+      "order":4,
+      "tenants": [
+        {
+          "code": "mp.Indore"
+        }
+      ]
+    },
+    {
+      "module": "OBPS",
+      "code": "OBPS",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
+      "active": true,
+      "order":2,
+      "tenants": [
+        {
+          "code": "mp.Indore"
+        }
+      ]
+    },
+    {
+      "module": "FSM",
+      "code": "FSM",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/FSM.png",
+      "active": true,
+      "order":2,
+      "tenants": [
+        {
+          "code": "mp.Indore"
+        }
+      ]
+    },
+    {
+      "module": "Payment",
+      "code": "Payment",
+      "active": true,
+      "order":1,
+      "tenants": [
+        {
+          "code": "mp.Indore"
+        }
+      ]
+    },
+    {
+      "module": "Receipts",
+      "code": "Receipts",
+      "active": true,
+      "order":3,
+      "tenants": [
+        {
+          "code": "mp.Indore"
+        }
+      ]
+    },
+    {
+      "module": "NOC",
+      "code": "NOC",
+      "active": true,
+      "order":2,
+      "tenants": [
+        {
+          "code": "mp.Indore"
+        }
+      ]
+    },
+    {
+      "module": "Engagement",
+      "code": "Engagement",
+      "active": true,
+      "order":3,
+      "tenants": [
+        {
+          "code": "mp.Indore"
+        }
+      ]
+    },
+    {
+      "module": "MCollect",
+      "code": "MCollect",
+      "active": true,
+      "order":1,
+      "tenants": [
+        {
+          "code": "mp.Indore"
+        }
+      ]
+    },
+    {
+      "module": "HRMS",
+      "code": "HRMS",
+      "active": true,
+      "order":2,
+      "tenants": [
+        {
+          "code": "mp.Indore"
+        }
+      ]
+    },
+    {
+      "module": "CommonPT",
+      "code": "CommonPT",
+      "active": true,
+      "order":3,
+      "tenants": [
+        {
+          "code": "mp.Indore"
+        }
+      ]
+    },
+    {
+      "module": "NDSS",
+      "code": "NDSS",
+      "active": true,
+      "order":5,
+      "tenants": [
+        {
+          "code": "mp.Indore"
+        }
+      ]
+    },
+    {
+      "module": "WS",
+      "code": "WS",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/WS.png",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "mp.Indore"
+        }
+      ]
+    },
+    {
+      "module": "SW",
+      "code": "SW",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "mp.Indore"
+        }
+      ]
+    },
+    {
+      "module": "BillAmendment",
+      "code": "BillAmendment",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "mp.Indore"
+        }
+      ]
+    },
+    {
+      "module": "Bills",
+      "code": "Bills",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/Bill.png",
+      "active": true,
+      "order": 3,
+      "tenants": [
+        {
+          "code": "mp.Indore"
+        }
+      ]
+    },
+    {
+      "module": "Birth",
+      "code": "Birth",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "mp.Indore"
+        }
+      ]
+    },
+    {
+      "module": "Death",
+      "code": "Death",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "mp.Indore"
+        }
+      ]
+    },
+    {
+      "module": "DSS",
+      "code": "DSS",
+      "active": true,
+      "order":6,
+      "tenants": [
+        {
+          "code": "mp.Indore"
+        }
+      ]
+    }
+    ]
+}

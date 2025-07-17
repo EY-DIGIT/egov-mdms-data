@@ -1,0 +1,223 @@
+{
+  "tenantId": "mp",
+  "moduleName": "PropertyTax",
+  "Penalty": [
+    {
+      "rate": 5,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "2025-26",
+      "startingDay": "1/07/2025"
+    },
+    {
+      "rate": 10,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "2025-26",
+      "startingDay": "1/02/2026"
+    },
+    {
+      "rate": 15,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "2025-26",
+      "startingDay": "1/03/2026"
+    },
+    {
+      "rate": 15,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "1997-98",
+      "startingDay": "1/07/1997"
+    },
+    {
+      "rate": 15,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "1998-99",
+      "startingDay": "1/07/1998"
+    },
+    {
+      "rate": 15,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "1999-2000",
+      "startingDay": "1/07/1999"
+    },
+    {
+      "rate": 15,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "2000-2001",
+      "startingDay": "1/07/2000"
+    },
+    {
+      "rate": 15,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "2001-02",
+      "startingDay": "1/07/2001"
+    },
+    {
+      "rate": 15,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "2002-03",
+      "startingDay": "1/07/2002"
+    },
+    {
+      "rate": 15,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "2003-04",
+      "startingDay": "1/07/2003"
+    },
+    {
+      "rate": 15,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "2004-05",
+      "startingDay": "1/07/2004"
+    },
+    {
+      "rate": 15,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "2005-06",
+      "startingDay": "1/07/2005"
+    },
+    {
+      "rate": 15,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "2006-07",
+      "startingDay": "1/07/2006"
+    },
+    {
+      "rate": 15,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "2007-08",
+      "startingDay": "1/07/2007"
+    },
+    {
+      "rate": 15,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "2008-09",
+      "startingDay": "1/07/2008"
+    },
+    {
+      "rate": 15,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "2009-10",
+      "startingDay": "1/07/2009"
+    },
+    {
+      "rate": 15,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "2010-11",
+      "startingDay": "1/07/2010"
+    },
+    {
+      "rate": 15,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "2011-12",
+      "startingDay": "1/07/2011"
+    },
+    {
+      "rate": 15,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "2012-13",
+      "startingDay": "1/07/2012"
+    },
+    {
+      "rate": 15,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "2013-14",
+      "startingDay": "1/07/2013"
+    },
+    {
+      "rate": 15,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "2014-15",
+      "startingDay": "1/07/2014"
+    },
+    {
+      "rate": 15,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "2015-16",
+      "startingDay": "1/07/2015"
+    },
+    {
+      "rate": 15,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "2016-17",
+      "startingDay": "1/07/2016"
+    },
+    {
+      "rate": 15,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "2017-18",
+      "startingDay": "1/07/2017"
+    },
+    {
+      "rate": 15,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "2018-19",
+      "startingDay": "1/07/2018"
+    },
+    {
+      "rate": 15,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "2019-20",
+      "startingDay": "1/07/2019"
+    },
+    {
+      "rate": 15,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "2020-21",
+      "startingDay": "1/07/2020"
+    },
+    {
+      "rate": 15,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "2021-22",
+      "startingDay": "1/07/2021"
+    },
+    {
+      "rate": 15,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "2022-23",
+      "startingDay": "1/07/2022"
+    },
+    {
+      "rate": 15,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "2023-24",
+      "startingDay": "1/07/2023"
+    },
+    {
+      "rate": 15,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "2024-25",
+      "startingDay": "1/07/2024"
+    }
+  ]
+}

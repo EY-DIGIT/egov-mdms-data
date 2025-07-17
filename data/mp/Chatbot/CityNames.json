@@ -1,0 +1,18 @@
+{
+    "tenantId": "mp",
+    "moduleName": "Chatbot",
+    "CityNames": [
+        {
+            "locale": "en",
+            "cities": [
+                "Indore"
+            ]
+        },
+        {
+            "locale": "hi",
+            "cities": [
+                "इंदौर"
+            ]
+        }
+    ]
+}

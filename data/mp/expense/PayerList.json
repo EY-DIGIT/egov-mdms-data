@@ -1,0 +1,13 @@
+{
+    "tenantId": "mp",
+    "moduleName": "expense",
+    "PayerList": [
+      {
+        "id": "001",
+        "tenantId": "mp.Indore",
+        "code": "mp.Indore",
+        "type": "ULB",
+        "active": true
+      }
+    ]
+}

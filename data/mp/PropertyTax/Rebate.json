@@ -1,0 +1,22 @@
+{
+  "tenantId": "mp",
+  "moduleName": "PropertyTax",
+  "Rebate": [
+    {
+      "rate": 6.25,
+      "maxAmount": null,
+      "flatAmount": null,
+      "fromFY": "2024-25",
+      "endingDay": "31/07"
+    },
+     {
+      "rate": 6.25,
+      "maxAmount": null,
+      "flatAmount": null,
+      "fromFY": "2025-26",
+      "endingDay": "30/06"
+    }
+  ]
+  
+}
+ 

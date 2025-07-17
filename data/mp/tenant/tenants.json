@@ -1,0 +1,42 @@
+{
+  "tenantId": "mp",
+  "moduleName": "tenant",
+  "tenants": [
+    {
+      "code": "mp.Indore",
+      "name": "Indore",
+      "description": "Indore",
+      "logoId": "https://s3.ap-south-1.amazonaws.com/works-dev-asset/pg.citya/logo.png",
+      "imageId": "https://s3.ap-south-1.amazonaws.com/works-dev-asset/pg.citya/logo.png",
+      "domainUrl": "www.mccitya.in",
+      "type": "CITY",
+      "twitterUrl": "https://twitter.com/search?q=%23citya",
+      "facebookUrl": "https://www.facebook.com/city/citya-Demo",
+      "emailId": "complaints.mcj@gmail.com",
+      "OfficeTimings": { "Mon - Fri": "9.00 AM - 6.00 PM" },
+      "city": {
+        "name": "Indore",
+        "localName": "Indore",
+        "districtCode": "10",
+        "districtName": "Indore",
+        "districtTenantCode": "mp.Indore",
+        "regionName": "Indore Region",
+        "ulbGrade": "Municipal Corporation",
+        "ulbType": "Municipal Corporation",
+        "longitude": 75.5761829,
+        "latitude": 31.3260152,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "1013",
+        "regionCode": "4",
+        "municipalityName": "Indore",
+        "ddrName": "indore"
+      },
+      "address": "Municipal Corporation Office, Dr. B.R.Ambedkar Admin Complex, Nehru Garden, CityA City-144001",
+      "pincode": [160062, 160064, 160068, 144001, 144002, 144003, 144004, 144005, 144006, 144007, 144008, 144009, 144010],
+      "contactNumber": "0181-2227015",
+      "pdfHeader": "PG_JALANDHAR_PDF_HEADER",
+      "pdfContactDetails": "PG_JALANDHAR_CONTACT_DETAILS"
+    }
+  ]
+}

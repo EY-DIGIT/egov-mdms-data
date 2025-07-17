@@ -1,0 +1,13 @@
+{
+ "tenantId": "mp",
+ "moduleName": "PropertyTax",
+ "ServiceCharge": [
+   {
+     "rate": null,
+     "minAmount": null,
+     "flatAmount": 10,
+     "maxAmount" : null,
+     "fromFY": "2024-25"
+   }
+ ]
+}

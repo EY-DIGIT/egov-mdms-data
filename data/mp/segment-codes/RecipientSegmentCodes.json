@@ -1,0 +1,10 @@
+{
+  "tenantId": "mp",
+  "moduleName": "segment-codes",
+  "RecipientSegmentCodes": [
+    {
+      "id": "26",
+      "code": "IND",
+      "name": " Individual"
+    }]
+}

@@ -1,0 +1,151 @@
+{
+  "tenantId": "mp",
+  "moduleName": "PropertyTax",
+  "AssessmentYear": [
+    {
+      "name": "1997-98",
+      "code": "1997-98",
+      "active": true
+    },
+    {
+      "name": "1998-99",
+      "code": "1998-99",
+      "active": true
+    },
+    {
+      "name": "1999-00",
+      "code": "1999-00",
+      "active": true
+    },
+    {
+      "name": "2000-01",
+      "code": "2000-01",
+      "active": true
+    },
+    {
+      "name": "2001-02",
+      "code": "2001-02",
+      "active": true
+    },
+    {
+      "name": "2002-03",
+      "code": "2002-03",
+      "active": true
+    },
+    {
+      "name": "2003-04",
+      "code": "2003-04",
+      "active": true
+    },
+    {
+      "name": "2004-05",
+      "code": "2004-05",
+      "active": true
+    },
+    {
+      "name": "2005-06",
+      "code": "2005-06",
+      "active": true
+    },
+    {
+      "name": "2006-07",
+      "code": "2006-07",
+      "active": true
+    },
+    {
+      "name": "2007-08",
+      "code": "2007-08",
+      "active": true
+    },
+    {
+      "name": "2008-09",
+      "code": "2008-09",
+      "active": true
+    },
+    {
+      "name": "2009-10",
+      "code": "2009-10",
+      "active": true
+    },
+    {
+      "name": "2010-11",
+      "code": "2010-11",
+      "active": true
+    },
+    {
+      "name": "2011-12",
+      "code": "2011-12",
+      "active": true
+    },
+    {
+      "name": "2012-13",
+      "code": "2012-13",
+      "active": true
+    },
+    {
+      "name": "2013-14",
+      "code": "2013-14",
+      "active": true
+    },
+    {
+      "name": "2014-15",
+      "code": "2014-15",
+      "active": true
+    },
+    {
+      "name": "2015-16",
+      "code": "2015-16",
+      "active": true
+    },
+    {
+      "name": "2016-17",
+      "code": "2016-17",
+      "active": true
+    },
+    {
+      "name": "2017-18",
+      "code": "2017-18",
+      "active": true
+    },
+    {
+      "name": "2018-19",
+      "code": "2018-19",
+      "active": true
+    },
+    {
+      "name": "2019-20",
+      "code": "2019-20",
+      "active": true
+    },
+    {
+      "name": "2020-21",
+      "code": "2020-21",
+      "active": true
+    },
+    {
+      "name": "2021-22",
+      "code": "2021-22",
+      "active": true
+    },
+    {
+      "name": "2022-23",
+      "code": "2022-23",
+      "active": true
+    },
+    {
+      "name": "2023-24",
+      "code": "2023-24",
+      "active": true
+    },
+    {
+      "name": "2024-25",
+      "code": "2024-25",
+      "active": true
+    },
+    {
+      "name": "2025-26",
+      "code": "2025-26",
+      "active": true
+    }
+  ]
+}

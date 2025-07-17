@@ -1,0 +1,13 @@
+{
+ "tenantId": "mp",
+ "moduleName": "PropertyTax",
+ "UrbanCessTwo": [
+   {
+     "rate": 2,
+     "minAmount": null,
+     "flatAmount": null,
+     "maxAmount" : null,
+     "fromFY": "2024-25"
+   }
+ ]
+}
