@@ -1,9 +1,0 @@
-{
-    "tenantId": "pg",
-    "moduleName": "BTR",
-    "RegistrationCharges": [
-      {
-        "amount": 500
-      }
-    ]
-  }
